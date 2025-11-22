@@ -1,0 +1,949 @@
+id_empleado,total_ordenes,ordenes_completadas,nombre,cargo,tasa_completitud
+2,2,0,Horacio del Jover,Supervisor,0.0
+3,2,1,Alex Carbajo,Supervisor,50.0
+6,1,1,Macario Palau-Patiño,Confeccionista,100.0
+7,2,1,Eligia Diaz Cabezas,Confeccionista,50.0
+8,2,0,Modesta Vera Melero,Confeccionista,0.0
+10,2,1,Yaiza Ricart,Cortador,50.0
+11,4,0,Luis Miguel Canals-Montesinos,Diseñador,0.0
+13,2,2,Amador Clavero-Llorens,Empacador,100.0
+14,3,1,Genoveva Hoyos Vilalta,Empacador,33.33
+17,1,0,Ricarda Vilaplana Porcel,Confeccionista,0.0
+18,1,1,Germán del Tena,Cortador,100.0
+19,1,1,Eleuterio Poncio Reyes Marcos,Diseñador,100.0
+23,1,1,Patricio Barón Arribas,Cortador,100.0
+26,1,1,Graciano del Vega,Supervisor,100.0
+27,3,2,Toño Figuerola Cabo,Diseñador,66.67
+28,1,1,Estrella Marquez Benito,Supervisor,100.0
+29,2,2,Nuria Gomila-Infante,Supervisor,100.0
+30,4,2,Juan José Escobar Casanova,Cortador,50.0
+31,1,1,Reyes de Pastor,Supervisor,100.0
+34,2,2,Alonso del Nieto,Confeccionista,100.0
+35,1,1,Rocío Ródenas Elías,Empacador,100.0
+36,2,0,Adriana Casas Merino,Confeccionista,0.0
+37,1,0,Anabel Armida Haro Lopez,Cortador,0.0
+40,2,1,Cristian Andrés Mesa Fortuny,Empacador,50.0
+42,3,1,Danilo Pons Hernando,Confeccionista,33.33
+43,1,0,Fanny Manjón Llamas,Confeccionista,0.0
+44,1,0,Ovidio Ríos Cárdenas,Supervisor,0.0
+45,4,1,Armando Clemente Torrents,Confeccionista,25.0
+47,2,0,Mamen Blanca Narváez,Supervisor,0.0
+48,2,1,Luciana Zurita Menendez,Cortador,50.0
+49,3,1,Begoña de Villena,Supervisor,33.33
+50,1,1,Lupita Cabezas Rubio,Diseñador,100.0
+51,1,1,Maricruz Borja Quirós,Supervisor,100.0
+52,4,1,Marcela Lucena-Cano,Cortador,25.0
+53,3,1,Melchor Tamayo Samper,Confeccionista,33.33
+56,1,0,Gustavo Diego Dueñas,Cortador,0.0
+57,2,1,Donato Fabregat Vilalta,Confeccionista,50.0
+59,1,0,Ágata Carbonell Pol,Empacador,0.0
+61,1,0,Ámbar Acuña Garrido,Diseñador,0.0
+62,1,0,Cristian Zabaleta Valcárcel,Empacador,0.0
+63,1,0,Germán Ceferino Lerma Mercader,Cortador,0.0
+67,2,0,Clemente Segura Conde,Cortador,0.0
+69,3,1,Goyo Godoy Cabañas,Empacador,33.33
+71,2,0,Jonatan Luís Badía,Confeccionista,0.0
+73,1,0,Lucas Rodríguez Molins,Confeccionista,0.0
+74,1,0,Lalo Cervantes Aragón,Cortador,0.0
+76,1,1,Renato Pino Gálvez,Empacador,100.0
+81,1,1,Reyes Riba Peñalver,Diseñador,100.0
+82,1,1,Lucho Rios Cerdán,Empacador,100.0
+83,1,0,Pancho Huerta Parra,Empacador,0.0
+84,1,0,Flavio del Reyes,Empacador,0.0
+85,2,0,Aitor Mendez-Molina,Confeccionista,0.0
+86,3,0,Sergio Guijarro Segarra,Empacador,0.0
+87,2,0,Ágata Marqués,Diseñador,0.0
+88,1,1,Bernabé Figueroa Acedo,Confeccionista,100.0
+89,1,0,Inocencio Gomila Figueroa,Diseñador,0.0
+90,1,0,Ester Esteban Casares,Diseñador,0.0
+93,1,0,Jessica Macarena Arnaiz Cabello,Supervisor,0.0
+95,3,1,Norberto Miguel Daza,Diseñador,33.33
+96,2,1,Ciro Somoza Llorente,Supervisor,50.0
+97,2,1,Moreno Flores Pulido,Diseñador,50.0
+100,1,0,Gabriel Víctor Esteve Diaz,Cortador,0.0
+101,1,0,Jesús Oliveras Mendoza,Diseñador,0.0
+102,2,1,Jose Miguel Fuertes-Galán,Cortador,50.0
+104,1,0,Heriberto Rómulo Martínez Huguet,Diseñador,0.0
+105,1,0,Imelda Leticia Amat Valderrama,Empacador,0.0
+106,1,0,Inmaculada Peiró Llabrés,Cortador,0.0
+108,1,0,Fabián Barbero-Uriarte,Cortador,0.0
+110,1,0,Isabela Adelaida Salvador Sarabia,Supervisor,0.0
+111,2,0,Leocadia Luisina Ferrero Galán,Diseñador,0.0
+112,2,1,Geraldo Tudela Palacios,Cortador,50.0
+113,3,0,Clímaco de Anaya,Empacador,0.0
+114,3,1,Kike Rosselló-Roig,Confeccionista,33.33
+115,4,0,Onofre Chico-Feijoo,Empacador,0.0
+117,1,0,Paca del Valenciano,Empacador,0.0
+118,2,0,Cristian Torres-Palomino,Supervisor,0.0
+119,4,1,Dulce Loida Rocamora Ángel,Cortador,25.0
+121,1,0,Isabel Contreras Noriega,Cortador,0.0
+122,1,1,Bernabé Aguilar Miralles,Cortador,100.0
+123,1,1,Plinio Nevado,Supervisor,100.0
+127,1,0,Milagros Bello Berenguer,Supervisor,0.0
+130,2,1,María José Pagès Gisbert,Cortador,50.0
+131,1,1,Santos Cerezo,Supervisor,100.0
+134,2,1,Caridad Almagro Miró,Confeccionista,50.0
+135,3,0,Visitación Miguel Seco,Cortador,0.0
+136,1,0,Aurelio Tito Exposito Almazán,Cortador,0.0
+138,1,0,Jeremías Valerio Lorenzo Zurita,Supervisor,0.0
+140,3,1,Leandro Ramírez-Crespi,Supervisor,33.33
+141,2,1,Teófilo Sanjuan Casares,Cortador,50.0
+142,2,0,Ariadna Arellano Porras,Confeccionista,0.0
+143,1,0,Flor del Hidalgo,Cortador,0.0
+144,1,0,Goyo Amor Lara,Confeccionista,0.0
+145,1,0,Íngrid Jaén Agustín,Empacador,0.0
+146,2,0,Bibiana de Martín,Cortador,0.0
+147,1,1,Rocío Velasco-Bravo,Empacador,100.0
+148,1,0,Rosalía Cuenca Cabello,Diseñador,0.0
+150,3,1,Pío Epifanio Villalba Amador,Diseñador,33.33
+152,2,0,Máxima Ibáñez Vázquez,Empacador,0.0
+154,1,0,Joaquín Mata-Hervia,Cortador,0.0
+155,1,0,Abigaíl de Pozo,Confeccionista,0.0
+156,1,1,Alma Pizarro Tur,Diseñador,100.0
+157,1,0,Rolando Feijoo-Cid,Diseñador,0.0
+158,3,0,Sebastian Bonilla Múgica,Supervisor,0.0
+159,1,0,Cecilio Arce Serna,Cortador,0.0
+160,2,0,Vasco Calvet Meléndez,Diseñador,0.0
+162,3,1,Abril Echeverría Cerdá,Empacador,33.33
+163,1,0,Aura Coloma Catalán,Diseñador,0.0
+164,2,1,Priscila Barros Santamaría,Empacador,50.0
+166,2,0,Iris de Barceló,Diseñador,0.0
+168,1,0,José de Garrido,Confeccionista,0.0
+171,1,0,Yéssica Dalila Garmendia Miralles,Diseñador,0.0
+172,2,0,Marisol Mir Pinilla,Empacador,0.0
+173,4,2,Genoveva Narváez Moraleda,Diseñador,50.0
+174,1,1,Severiano Ovidio Santiago Viña,Supervisor,100.0
+176,1,1,Zaira Angulo Vilar,Confeccionista,100.0
+177,2,0,Bernardino Heriberto Arévalo Arregui,Confeccionista,0.0
+179,2,2,Anunciación Torrijos Gras,Empacador,100.0
+181,1,1,Loida Giralt Millán,Diseñador,100.0
+183,1,0,Iván Perea,Empacador,0.0
+185,1,0,Tere Dolores Pol Becerra,Supervisor,0.0
+188,2,1,Carlos del Frías,Supervisor,50.0
+189,2,0,Mirta Páez Barceló,Cortador,0.0
+190,3,2,Carmelita Ortiz Páez,Empacador,66.67
+193,2,1,Pepita Godoy Vera,Supervisor,50.0
+194,1,1,Serafina Zabala,Cortador,100.0
+197,1,1,Desiderio Ayllón Pizarro,Empacador,100.0
+199,1,1,Gracia Teófila Elorza Noguera,Supervisor,100.0
+200,1,0,René Tolosa Montero,Diseñador,0.0
+204,1,0,Rolando Berrocal Ferrera,Cortador,0.0
+205,2,0,Noé Zacarías Pinedo Pardo,Empacador,0.0
+206,1,1,Alicia Arcos Priego,Diseñador,100.0
+208,1,1,Gerónimo de Tudela,Empacador,100.0
+209,1,0,Vicenta Pedraza,Diseñador,0.0
+210,1,0,Adelia Casals Ropero,Supervisor,0.0
+211,2,1,Abigaíl Juárez,Empacador,50.0
+212,2,0,Emperatriz Patiño Mariscal,Confeccionista,0.0
+213,2,0,Flora Nogués Fernandez,Cortador,0.0
+214,1,1,Onofre del Canals,Supervisor,100.0
+215,2,0,Duilio Cisneros,Empacador,0.0
+216,3,1,Adriana Cordero Pavón,Empacador,33.33
+218,1,0,Jorge Faustino Valderrama Martí,Empacador,0.0
+220,2,1,Débora Ibarra-Pomares,Supervisor,50.0
+221,2,0,Norberto Valenzuela Benavides,Empacador,0.0
+222,2,0,Ruperta de Salinas,Confeccionista,0.0
+228,4,1,Kike Real Moraleda,Confeccionista,25.0
+229,1,1,Ágata Manzano Ramirez,Cortador,100.0
+231,2,0,Filomena Baños Roda,Empacador,0.0
+232,2,0,Tamara Estrada Clemente,Confeccionista,0.0
+233,1,1,Dafne Poza Oliva,Diseñador,100.0
+234,2,1,Rosaura Peña Vara,Cortador,50.0
+235,1,1,Regina Lozano Bernal,Empacador,100.0
+236,1,0,María Cristina Rincón Vilaplana,Supervisor,0.0
+238,2,1,Samanta Benavent Peiró,Supervisor,50.0
+240,2,1,Ramón Villalonga Yáñez,Cortador,50.0
+241,2,0,Fito Bermúdez,Diseñador,0.0
+242,2,1,Virginia Fernández Cal,Diseñador,50.0
+243,1,0,Sandalio Moliner Santamaria,Diseñador,0.0
+244,1,1,Guadalupe Macias-Izquierdo,Diseñador,100.0
+245,2,0,Bernardita Garcia,Cortador,0.0
+247,1,1,Camilo Segismundo Garcia Goicoechea,Confeccionista,100.0
+248,2,0,Lorenzo Priego Baró,Cortador,0.0
+249,1,0,Anna Cal Marín,Cortador,0.0
+250,2,2,Nerea Vergara Coloma,Empacador,100.0
+251,1,0,Plinio Mosquera Carnero,Confeccionista,0.0
+252,1,1,Cornelio Pons Fábregas,Confeccionista,100.0
+253,2,0,Federico Barroso Bueno,Supervisor,0.0
+255,1,0,Otilia África Elorza Méndez,Empacador,0.0
+256,1,0,Nerea Aguiló Reina,Diseñador,0.0
+257,2,0,Zoraida Pacheco Agustín,Cortador,0.0
+258,1,0,Fernando Poza,Confeccionista,0.0
+259,1,1,Noelia Calleja-Cózar,Empacador,100.0
+260,1,0,Débora de Pino,Confeccionista,0.0
+261,2,1,Trini Muñoz Sales,Diseñador,50.0
+264,4,1,Esteban Guzman Galiano,Supervisor,25.0
+266,1,0,Joel Borja Sola Cantero,Empacador,0.0
+267,2,0,Crescencia Garzón Abascal,Cortador,0.0
+268,1,1,Tristán Sevilla Alegria,Cortador,100.0
+269,1,0,Felix de Marco,Confeccionista,0.0
+274,2,0,Salud Loida Nieto Arana,Diseñador,0.0
+277,1,1,Magdalena Renata Mariño Checa,Confeccionista,100.0
+278,1,1,Charo Renata Verdejo Menendez,Empacador,100.0
+279,2,1,Ester Gargallo Bustamante,Supervisor,50.0
+280,1,1,Candela Martin Ferrán,Cortador,100.0
+281,1,1,Arcelia Casares,Supervisor,100.0
+283,3,2,Amor Rovira-Gras,Cortador,66.67
+284,2,0,Ricarda Adán Poza,Empacador,0.0
+285,2,1,Marta Ramis,Supervisor,50.0
+286,2,1,Blanca Falcó Villar,Cortador,50.0
+287,2,2,Felipa Tur,Supervisor,100.0
+288,1,0,José Mari Santamaria,Supervisor,0.0
+289,2,0,Iván Talavera Rosa,Empacador,0.0
+290,1,1,Roberta Gómez Salvador,Cortador,100.0
+291,4,2,Lupe Sans Izaguirre,Confeccionista,50.0
+293,2,1,Custodio Verdugo,Confeccionista,50.0
+294,1,1,Dominga Cervera Ferrán,Confeccionista,100.0
+295,1,0,Balduino Bonet-Maestre,Cortador,0.0
+297,3,0,Juanito del Rincón,Empacador,0.0
+298,2,1,Sancho Taboada Vazquez,Empacador,50.0
+299,4,2,Anunciación Martin Sales,Cortador,50.0
+300,1,1,Dani Hurtado Esteve,Cortador,100.0
+302,2,2,Artemio Canet Arellano,Supervisor,100.0
+303,1,1,Luna Ramos Román,Diseñador,100.0
+304,1,0,Leocadio Coca Saavedra,Empacador,0.0
+305,2,1,Fabián Dueñas Marin,Cortador,50.0
+307,1,1,Martin Nilo Montserrat Avilés,Cortador,100.0
+312,1,1,Victorino Madrid Pereira,Diseñador,100.0
+313,1,1,Martin Pizarro Iniesta,Confeccionista,100.0
+315,3,1,Prudencia Anguita Torre,Diseñador,33.33
+318,1,1,Aura Iriarte Jurado,Diseñador,100.0
+319,2,0,Florentino Becerra Nevado,Empacador,0.0
+321,1,1,José María Arellano Soria,Confeccionista,100.0
+322,1,0,Lázaro Sebastián Gárate Morata,Supervisor,0.0
+324,1,1,Rosario de Villalba,Empacador,100.0
+326,1,0,Severino Arnal-Larrea,Confeccionista,0.0
+330,1,1,Cándido Pomares Tapia,Empacador,100.0
+331,3,1,Cecilio Emiliano Beltran Martí,Empacador,33.33
+335,1,0,Amado Vicente Arce,Confeccionista,0.0
+337,1,1,Anabel Goicoechea-Arnaiz,Empacador,100.0
+339,1,0,Felicia Santamaría-Falcó,Supervisor,0.0
+340,2,0,Sabas Diez Malo,Empacador,0.0
+341,2,1,Nereida Campillo-Ramírez,Diseñador,50.0
+342,1,0,Mateo Quintero Ramos,Supervisor,0.0
+343,2,0,Rafaela Moya Bravo,Empacador,0.0
+344,1,1,Edelmira Mas-Planas,Empacador,100.0
+345,1,1,Crescencia Ibañez Barbero,Cortador,100.0
+346,1,1,Teodora Ripoll Urrutia,Confeccionista,100.0
+347,4,0,Mercedes Sobrino Fuente,Empacador,0.0
+348,2,0,Desiderio de Roldan,Confeccionista,0.0
+350,1,0,María Ángeles Tena Querol,Confeccionista,0.0
+353,1,0,Rico Remigio Camino Abella,Supervisor,0.0
+354,1,1,Humberto Galvez-Romeu,Confeccionista,100.0
+358,2,1,Asunción Bellido-Sola,Supervisor,50.0
+359,1,1,Reyna Ruano Ros,Confeccionista,100.0
+361,1,0,Omar Arnaiz-Fabra,Empacador,0.0
+364,1,0,Jordi Poncio Piña Paz,Confeccionista,0.0
+366,2,0,Wilfredo Cordero Orozco,Supervisor,0.0
+367,1,0,Ceferino del Cañas,Diseñador,0.0
+368,1,0,Ciríaco Benítez-Coello,Cortador,0.0
+370,3,1,Ricarda Angulo Rovira,Cortador,33.33
+372,2,2,Poncio Cuervo Mayo,Empacador,100.0
+374,2,1,Mireia Esteban Palacios,Supervisor,50.0
+376,4,1,Bartolomé Suarez,Cortador,25.0
+377,1,1,María Dolores Madrigal Larrea,Confeccionista,100.0
+379,1,0,Eliseo Amaro Espinosa Corral,Supervisor,0.0
+380,3,2,Lucio Barberá-Pérez,Empacador,66.67
+381,1,0,Anna Redondo Garriga,Supervisor,0.0
+383,2,0,Roberto Diéguez Cañizares,Diseñador,0.0
+384,2,0,Laura Arregui Goicoechea,Confeccionista,0.0
+385,1,0,Marcial Clavero Juárez,Supervisor,0.0
+386,1,0,Zacarías Checa Cueto,Supervisor,0.0
+387,2,0,Cleto de Trillo,Confeccionista,0.0
+388,1,1,Tomasa Marisela Pino Castejón,Confeccionista,100.0
+390,1,1,Carina Calleja Sanjuan,Empacador,100.0
+392,1,0,Eleuterio Cordero Jurado,Empacador,0.0
+395,1,1,María Jesús Valentín Castells,Empacador,100.0
+399,1,0,Natalio Domínguez Madrid,Diseñador,0.0
+400,2,0,Máximo Pablo López,Diseñador,0.0
+401,3,2,Eufemia Zorrilla Agullo,Confeccionista,66.67
+402,1,1,Ibán Bilbao Montenegro,Empacador,100.0
+404,2,1,Florencia Vázquez Vilar,Empacador,50.0
+405,1,0,Raquel Mayo Almagro,Empacador,0.0
+407,1,1,Goyo Fortuny Mateos,Diseñador,100.0
+408,2,1,Francisca Simó Gallardo,Cortador,50.0
+411,1,0,Jenaro Navas Ávila,Diseñador,0.0
+413,2,1,Gerónimo Julián Ángel Guerrero,Supervisor,50.0
+415,1,0,Gloria Casandra Mascaró Mulet,Supervisor,0.0
+416,4,1,Mateo Amaya Chacón,Supervisor,25.0
+417,2,2,Merche Sans Luís,Confeccionista,100.0
+418,2,1,Felix Soto Navarrete,Cortador,50.0
+420,2,1,América del Estrada,Empacador,50.0
+422,2,0,Plácido Ribas-Piquer,Supervisor,0.0
+425,2,0,Renata Pedrosa-Escudero,Cortador,0.0
+426,1,0,Hermenegildo Hoz,Cortador,0.0
+427,1,0,Quirino Valentín Real,Diseñador,0.0
+428,3,2,Fortunato Gutierrez-Lloret,Supervisor,66.67
+429,2,0,Petrona de Llanos,Empacador,0.0
+431,3,0,Telmo Aparicio Quesada,Cortador,0.0
+432,3,1,Francisco Pinto Andrés,Confeccionista,33.33
+433,1,0,Cirino Reina-Soto,Supervisor,0.0
+434,2,0,Imelda Miralles Roman,Diseñador,0.0
+440,1,0,Samuel Germán Tomé Avilés,Cortador,0.0
+441,1,0,Evaristo Esteban Peiró,Empacador,0.0
+442,1,1,Fabiana de Menendez,Diseñador,100.0
+443,1,1,Maura Carmona Ayala,Cortador,100.0
+445,2,1,Pilar Acedo-Cano,Confeccionista,50.0
+446,3,1,Ramón Rómulo Montenegro Torralba,Diseñador,33.33
+447,2,0,Marisol Estrada Vélez,Confeccionista,0.0
+448,1,0,Hernán Uribe Tena,Empacador,0.0
+450,2,1,Alma Viña-Romeu,Cortador,50.0
+452,1,0,Kike Amores Vilanova,Supervisor,0.0
+453,1,0,Leocadia del Goicoechea,Diseñador,0.0
+454,3,0,Candelaria Miguel-Muro,Diseñador,0.0
+455,3,0,Ricardo Colom Farré,Supervisor,0.0
+457,2,2,Augusto Barrios Garay,Supervisor,100.0
+459,2,1,Roque Hugo Cadenas Alsina,Diseñador,50.0
+460,1,0,Lázaro Chaparro Riquelme,Confeccionista,0.0
+462,2,1,Íngrid Martorell-Blanch,Diseñador,50.0
+465,1,0,Andrea Amorós Lerma,Cortador,0.0
+466,1,1,Óscar Galán Maza,Empacador,100.0
+467,1,0,Fabiola Alsina Reig,Empacador,0.0
+468,1,1,Hernán Morante Esteve,Supervisor,100.0
+469,1,0,Artemio Bou Alcántara,Confeccionista,0.0
+471,3,1,Petrona Naranjo Iñiguez,Supervisor,33.33
+475,2,1,Estefanía Hoz Martín,Diseñador,50.0
+476,1,0,Cesar Díaz Peñas,Confeccionista,0.0
+477,2,1,Eusebia Duran Tomas,Cortador,50.0
+478,2,0,Nilda Sanjuan-Camacho,Cortador,0.0
+479,2,1,Lalo Linares Palacios,Diseñador,50.0
+482,2,1,Maite Mur Pacheco,Diseñador,50.0
+483,1,0,Maricela Moraleda Barbero,Empacador,0.0
+487,2,0,Cecilia Carrera Aguirre,Confeccionista,0.0
+488,1,1,Olivia Arroyo Segarra,Confeccionista,100.0
+489,2,0,Silvestre Polo Hoyos,Confeccionista,0.0
+491,2,1,Candelario Gerónimo Escudero Echeverría,Supervisor,50.0
+492,1,1,Chita del Jódar,Diseñador,100.0
+495,2,2,Carmelita Mir Ricart,Supervisor,100.0
+497,1,1,Isidora Royo-Hierro,Empacador,100.0
+498,3,2,Custodia Aramburu Priego,Empacador,66.67
+505,1,0,Elodia Patiño Lastra,Cortador,0.0
+506,1,1,Isabela Miralles Cerdán,Confeccionista,100.0
+507,1,0,Dimas Palacio Puerta,Confeccionista,0.0
+508,1,0,Judith Rosell Frías,Diseñador,0.0
+514,1,1,Seve Gual-Guijarro,Empacador,100.0
+515,1,1,Maite Ferrández Sevillano,Supervisor,100.0
+517,1,0,Griselda de Cortina,Supervisor,0.0
+519,1,1,Rico Almansa Neira,Supervisor,100.0
+520,1,1,Alondra Navarrete Ayllón,Cortador,100.0
+521,2,0,Teo Torre Torrijos,Empacador,0.0
+522,1,1,Celso de Camacho,Supervisor,100.0
+524,1,0,Mireia Luisina Chaves Miralles,Diseñador,0.0
+525,2,1,Amalia Villar Torre,Cortador,50.0
+526,1,1,Teófila Josefa Pi Pinedo,Diseñador,100.0
+527,4,3,Odalys Guerrero Rebollo,Confeccionista,75.0
+529,4,3,Mónica Acuña Fortuny,Confeccionista,75.0
+531,2,0,Haydée Ochoa Bueno,Diseñador,0.0
+532,1,0,Maximiliano del Leiva,Diseñador,0.0
+533,2,0,Francisco Jose Jiménez-Calatayud,Confeccionista,0.0
+534,3,1,Rico del Sanz,Supervisor,33.33
+537,1,0,Georgina Ribes Pareja,Empacador,0.0
+539,1,0,Aureliano Navarrete Belmonte,Diseñador,0.0
+540,2,1,Sigfrido Arranz Conde,Supervisor,50.0
+541,1,1,Andrés Palacio,Confeccionista,100.0
+543,1,1,José Luis Pedrosa Pedrosa,Empacador,100.0
+545,1,1,Leandro Cifuentes Luján,Cortador,100.0
+546,2,1,Nazaret Valero Toro,Cortador,50.0
+549,1,1,Sergio Salom Valdés,Confeccionista,100.0
+552,2,1,Adelaida Vives-Nadal,Diseñador,50.0
+553,1,0,Leandro Baró Tamarit,Cortador,0.0
+554,1,0,Ariadna Campoy Lozano,Empacador,0.0
+555,3,1,Nuria Graciela Goicoechea Montserrat,Cortador,33.33
+557,4,1,Dionisia Blanca Araujo,Cortador,25.0
+558,1,1,Chelo Pinilla Font,Confeccionista,100.0
+559,2,1,Zacarías Olivera Talavera,Diseñador,50.0
+560,2,2,Leonel Domínguez Puente,Diseñador,100.0
+561,1,1,Luna Montoya-Canales,Confeccionista,100.0
+564,1,0,Marcela Vicens Martínez,Confeccionista,0.0
+566,1,0,Íngrid Garriga Puga,Confeccionista,0.0
+567,1,0,Heliodoro Alvarez Reig,Diseñador,0.0
+569,1,0,Marcial Uría Lucas,Supervisor,0.0
+570,2,1,Nereida Benavente Ferrández,Empacador,50.0
+571,1,1,Nando Armengol Torralba,Diseñador,100.0
+572,2,0,Lupita Melero Coronado,Empacador,0.0
+574,1,0,Roxana Vicenta Arnau Acero,Cortador,0.0
+575,1,0,Modesto Macias González,Cortador,0.0
+576,1,0,Amalia Peinado,Diseñador,0.0
+578,2,1,Rufino Severiano Muro Barón,Confeccionista,50.0
+579,2,0,Lidia Rojas Falcón,Cortador,0.0
+580,1,0,Alonso Crespo Simó,Confeccionista,0.0
+581,2,0,Rosalía Iglesias Reyes,Cortador,0.0
+582,1,0,Salomón Francisco Jose Ribera Calderon,Supervisor,0.0
+583,3,0,Evelia Cal,Empacador,0.0
+584,3,1,Sigfrido Anastasio Lopez Llopis,Supervisor,33.33
+585,1,1,Íñigo Sanjuan Guijarro,Confeccionista,100.0
+587,1,0,Piedad Cárdenas Ortiz,Diseñador,0.0
+588,2,0,Toribio Torrent Ayala,Empacador,0.0
+589,2,1,Cayetana de Jódar,Empacador,50.0
+590,3,1,Venceslás Javier Sanjuan Arnal,Supervisor,33.33
+591,2,0,Reinaldo Clavero Mora,Diseñador,0.0
+592,1,1,Albino Fuster-Ugarte,Empacador,100.0
+593,3,1,Jose Ignacio Roselló-Varela,Confeccionista,33.33
+594,1,1,Leandro Amaro Salmerón Amorós,Supervisor,100.0
+596,2,0,Ester Aznar Guzmán,Confeccionista,0.0
+598,1,1,Danilo Aparicio Boix,Empacador,100.0
+600,2,0,Marcia Cordero Aliaga,Supervisor,0.0
+601,1,0,Enrique Carranza Baquero,Supervisor,0.0
+602,1,0,Mario Egea Barroso,Diseñador,0.0
+603,2,2,Eva María Otero,Supervisor,100.0
+604,1,0,Amílcar Tomás,Confeccionista,0.0
+606,1,0,Rubén Carrasco Gracia,Confeccionista,0.0
+607,1,1,Samuel Olmedo Cases,Diseñador,100.0
+610,2,0,Agapito Juliá Lozano,Diseñador,0.0
+611,2,1,Micaela Batlle Gordillo,Supervisor,50.0
+613,2,1,Timoteo Salinas Uriarte,Diseñador,50.0
+614,2,2,Hortensia Sancho-Ledesma,Confeccionista,100.0
+616,1,0,Edu Salcedo Mir,Cortador,0.0
+618,2,0,Máxima Arce Oliva,Cortador,0.0
+620,1,0,Ruy Sabas Crespi Céspedes,Empacador,0.0
+622,1,0,Augusto Múñiz Alcolea,Cortador,0.0
+623,2,0,Javiera Carreras,Confeccionista,0.0
+624,2,0,Eugenia Jaén,Diseñador,0.0
+625,1,0,Rubén Tiburcio Matas Bravo,Cortador,0.0
+626,1,1,Jenaro Peñas Guijarro,Empacador,100.0
+627,1,0,Anita Pedraza,Cortador,0.0
+628,2,0,Jonatan Cuesta Asensio,Supervisor,0.0
+630,2,1,Wálter Eugenio Pintor Bosch,Supervisor,50.0
+631,1,1,Adán Córdoba Mateos,Diseñador,100.0
+632,1,1,Florinda Villaverde Pablo,Confeccionista,100.0
+633,1,0,Mario Jáuregui Tejada,Cortador,0.0
+635,1,0,Manu Fajardo Jaén,Empacador,0.0
+636,1,0,Piedad Uriarte Garmendia,Diseñador,0.0
+637,1,0,Vinicio Nicolau Cabañas,Cortador,0.0
+638,1,1,Eulalia Vidal Mulet,Cortador,100.0
+639,1,0,Marcial Muñoz Toro,Empacador,0.0
+640,2,0,Virginia Valero,Supervisor,0.0
+642,1,1,Fabricio de Portillo,Cortador,100.0
+643,2,0,Antonio Polo-Fuertes,Empacador,0.0
+644,2,1,Onofre Matías Pablo Collado,Diseñador,50.0
+645,1,0,Régulo Gil Carnero,Supervisor,0.0
+646,3,1,María Cristina Torralba Requena,Cortador,33.33
+649,1,1,Guiomar Arribas-Bellido,Empacador,100.0
+650,1,0,Ruperto Aragonés-Palacios,Supervisor,0.0
+651,3,1,Manolo Barba-Borrás,Confeccionista,33.33
+652,1,1,Wálter del Perales,Diseñador,100.0
+654,2,0,Vito Jiménez,Supervisor,0.0
+656,1,0,Guiomar Sacristán Riba,Cortador,0.0
+657,1,0,Nilo Ramos Vilar,Empacador,0.0
+659,4,1,Dionisia Vicens,Diseñador,25.0
+660,2,1,Felix Palomar-Miguel,Empacador,50.0
+662,1,1,Georgina Ayllón Mesa,Confeccionista,100.0
+663,1,0,Ezequiel Josep Alemán Busquets,Cortador,0.0
+666,1,0,Patricia Cámara Seco,Cortador,0.0
+667,1,0,Ruben Guzmán Barrio,Empacador,0.0
+670,2,0,Manu Moles Gargallo,Cortador,0.0
+672,1,0,Belen Daza-Esparza,Confeccionista,0.0
+673,1,1,Verónica Sala Lucas,Cortador,100.0
+674,1,0,Manolo Pareja Coello,Cortador,0.0
+675,2,0,Balduino Francisco Garriga,Cortador,0.0
+676,1,1,Teobaldo Bernal Palacios,Cortador,100.0
+677,2,2,Olivia Alfaro Lobato,Empacador,100.0
+681,2,0,Marisela Moles Alemán,Diseñador,0.0
+683,1,1,Hector Pomares Samper,Supervisor,100.0
+686,1,1,Hipólito Beltrán-Andrade,Diseñador,100.0
+688,1,1,Horacio Cerdán Rovira,Confeccionista,100.0
+691,1,0,Rafa Almazán-Mascaró,Empacador,0.0
+693,1,1,Eustaquio Manzano Ariza,Empacador,100.0
+694,3,2,Benita Cobos Segarra,Empacador,66.67
+695,3,1,Baudelio Roman Estévez,Supervisor,33.33
+698,1,0,Iris Uría Blazquez,Cortador,0.0
+700,3,3,Teo Canet Lillo,Cortador,100.0
+703,2,1,Ignacio Coca-Quintanilla,Diseñador,50.0
+705,1,1,Vicente Blanca Teruel,Supervisor,100.0
+706,1,0,Eligia Perea Millán,Empacador,0.0
+707,1,0,Guadalupe Pereira Revilla,Supervisor,0.0
+708,3,1,Arcelia Giralt-Nogués,Cortador,33.33
+709,2,0,Emelina Mendizábal,Diseñador,0.0
+711,1,0,Julio César Jiménez Plaza,Confeccionista,0.0
+712,2,1,Francisco Javier Guzman Lorenzo,Cortador,50.0
+713,1,1,Nidia España Serna,Empacador,100.0
+714,1,0,Ámbar Alma Serrano Pizarro,Empacador,0.0
+717,1,0,Bartolomé Peláez Valle,Supervisor,0.0
+718,1,1,Pía Inmaculada Benito Ordóñez,Diseñador,100.0
+719,1,1,Nazario Cabello Suárez,Cortador,100.0
+720,4,2,Bonifacio de Bernat,Empacador,50.0
+722,1,0,Irma Ana Palacios Escalona,Cortador,0.0
+723,1,0,Cintia Amaya Mur Rosell,Cortador,0.0
+724,1,0,Octavio Ferrando,Confeccionista,0.0
+729,2,1,Anunciación Luís Carbó,Supervisor,50.0
+730,1,0,Ruben Pablo,Supervisor,0.0
+731,1,0,Reyna Gámez Santos,Cortador,0.0
+734,1,0,Valerio del Cuervo,Confeccionista,0.0
+737,1,0,Chita Losada Sainz,Cortador,0.0
+738,2,0,Dolores Prat Domingo,Confeccionista,0.0
+740,1,1,Aurelia Nebot Narváez,Cortador,100.0
+741,1,1,Zacarías del Dueñas,Supervisor,100.0
+742,2,2,Vasco Larrea Ferrera,Diseñador,100.0
+746,1,1,Nidia Tovar,Cortador,100.0
+747,1,0,Juana Manjón Santiago,Empacador,0.0
+748,1,0,Jonatan Julián Garay,Diseñador,0.0
+751,1,0,María José Cobo-Molins,Cortador,0.0
+752,1,0,Amaro Cazorla Alemán,Supervisor,0.0
+753,2,0,Nereida Carrión Vallés,Diseñador,0.0
+755,3,0,Ramona Diez-Herrera,Diseñador,0.0
+756,2,0,Basilio Lisandro Rueda Menendez,Diseñador,0.0
+757,2,0,Odalis Cerdá Fiol,Confeccionista,0.0
+762,2,0,Jordán Carretero,Empacador,0.0
+764,1,0,Martin Castro Sarabia,Confeccionista,0.0
+765,2,0,Carmen Dalmau Arregui,Supervisor,0.0
+767,1,0,Julio Cabello Valencia,Cortador,0.0
+768,1,0,Manu Carrasco Madrigal,Confeccionista,0.0
+769,1,0,Alberto Rosado Amigó,Confeccionista,0.0
+773,1,0,Magdalena Arco Rosselló,Confeccionista,0.0
+774,1,0,María Fernanda Ferrán Izquierdo,Cortador,0.0
+775,3,0,Rufina del Alemany,Supervisor,0.0
+777,3,1,Aristides de Carballo,Supervisor,33.33
+779,1,0,Antonia Paniagua-Benavent,Diseñador,0.0
+781,2,0,Martirio Peral,Diseñador,0.0
+782,1,0,Ainoa Luz Llanos,Diseñador,0.0
+783,1,0,Marc Jove,Supervisor,0.0
+784,1,0,Maxi Bernardita Arnaiz Real,Cortador,0.0
+785,1,0,Wálter Sola,Empacador,0.0
+786,1,0,Domingo de Montenegro,Supervisor,0.0
+787,1,1,Lourdes Barragán Moraleda,Supervisor,100.0
+788,1,1,Etelvina Leyre Amorós Olivé,Supervisor,100.0
+792,1,0,Josefa Castañeda Marti,Diseñador,0.0
+793,2,0,Olimpia Ramírez Rebollo,Supervisor,0.0
+794,2,0,Emiliana del Prats,Cortador,0.0
+795,1,0,Carlito Font Moya,Cortador,0.0
+796,2,1,Silvia del Guerrero,Cortador,50.0
+797,1,0,Calista Vazquez,Empacador,0.0
+798,2,0,Édgar de Cortina,Cortador,0.0
+799,1,0,Herberto Aller Suárez,Supervisor,0.0
+801,1,0,Celestina Vergara Ayllón,Supervisor,0.0
+803,2,1,Montserrat Guardiola-Naranjo,Confeccionista,50.0
+804,2,0,Angelina Fuertes Barba,Supervisor,0.0
+805,2,0,Gracia Alfaro Pedraza,Empacador,0.0
+806,1,1,Claudio de Castelló,Supervisor,100.0
+807,1,1,Hugo Crespi Méndez,Cortador,100.0
+809,1,0,Emiliana Nogués-Gallardo,Supervisor,0.0
+810,1,1,María Cristina Bolaños Torrens,Confeccionista,100.0
+811,1,0,Lola Rubio Robles,Diseñador,0.0
+812,1,0,Tania Pedraza Rebollo,Supervisor,0.0
+813,2,0,Maribel Caballero Olivera,Empacador,0.0
+815,1,0,Juan Francisco de Baena,Supervisor,0.0
+816,1,0,Nereida Lara Miranda,Empacador,0.0
+819,2,1,Pía Monreal Cazorla,Empacador,50.0
+820,1,0,Tomasa Evangelina Perales Alegre,Empacador,0.0
+821,1,0,Teófila Oliver Arnaiz,Cortador,0.0
+822,1,1,Almudena de Serra,Supervisor,100.0
+824,1,0,Angelino Lino Juan Cabezas,Supervisor,0.0
+828,1,1,Abigaíl Salamanca Abella,Cortador,100.0
+829,4,2,Bruno Cal Monreal,Cortador,50.0
+830,2,1,Juan Bautista Nuñez Albero,Diseñador,50.0
+831,1,0,Emperatriz Santana,Empacador,0.0
+832,1,1,Gregorio Macías Parra,Empacador,100.0
+833,7,1,Lino Manjón Pareja,Cortador,14.29
+834,2,0,Édgar del Ramis,Diseñador,0.0
+835,1,0,Guiomar Alvarado,Empacador,0.0
+837,3,0,Visitación Aparicio,Cortador,0.0
+838,1,1,Felicidad Sanz Vicens,Cortador,100.0
+839,1,0,Paco Atienza Priego,Confeccionista,0.0
+841,1,0,Abraham Múgica Bellido,Supervisor,0.0
+842,1,1,Juan Vega Mora,Empacador,100.0
+843,1,1,Román del Juan,Empacador,100.0
+846,1,1,Dionisio del Tena,Supervisor,100.0
+850,3,1,Eliseo del Adadia,Diseñador,33.33
+851,1,0,Samu de Gibert,Supervisor,0.0
+852,1,0,Clemente Amador Villaverde Porta,Empacador,0.0
+855,2,1,Emilio Maxi Espinosa Dueñas,Cortador,50.0
+857,1,0,Hermenegildo Toni Uribe Jara,Confeccionista,0.0
+858,3,1,Fito Francisco Javier Puente Blasco,Empacador,33.33
+860,1,0,Reina Tenorio Rodríguez,Diseñador,0.0
+862,1,0,Graciela Burgos Ballesteros,Confeccionista,0.0
+863,3,0,Joel Hidalgo Salgado,Diseñador,0.0
+864,1,1,Adelina Aguiló Villena,Confeccionista,100.0
+865,2,0,Carolina Portero Hidalgo,Cortador,0.0
+867,2,0,Tatiana Perera Benavides,Diseñador,0.0
+869,1,0,Candela de Saez,Empacador,0.0
+870,2,1,Laura Quero Calatayud,Empacador,50.0
+872,2,1,Toribio de Poza,Empacador,50.0
+873,1,0,Godofredo Berenguer Godoy,Diseñador,0.0
+876,1,0,Encarnita Alsina Cabañas,Confeccionista,0.0
+877,1,1,Cloe Giménez Azcona,Confeccionista,100.0
+878,1,0,Lucas Romero Julián,Confeccionista,0.0
+879,1,0,Emelina Lladó Egea,Supervisor,0.0
+880,1,1,Amílcar Barragán Gabaldón,Supervisor,100.0
+881,2,0,Goyo Alonso Puerta,Cortador,0.0
+883,3,0,Nando Vaquero-Chacón,Cortador,0.0
+885,1,1,Isaac Gimenez,Empacador,100.0
+886,3,2,Albert Lucas-Vendrell,Empacador,66.67
+889,1,1,Noemí Espinosa-Cantón,Confeccionista,100.0
+890,2,1,Florentino Vendrell,Cortador,50.0
+892,1,1,Nacio del Hervia,Confeccionista,100.0
+893,2,2,Elena Reyes-Querol,Diseñador,100.0
+894,1,0,Íñigo Borja,Diseñador,0.0
+897,1,0,Eufemia del Melero,Supervisor,0.0
+898,2,0,Aránzazu Camacho Ferrero,Supervisor,0.0
+899,3,2,Rafael Dueñas Olmedo,Cortador,66.67
+900,1,0,Amado Vigil Leal,Empacador,0.0
+901,1,1,Ruth Lobato,Confeccionista,100.0
+904,1,0,Ismael Barco Roura,Diseñador,0.0
+905,1,0,Dani Macias-Estevez,Diseñador,0.0
+906,1,0,Clotilde Carro Azorin,Supervisor,0.0
+907,1,0,Genoveva Buendía Pinto,Diseñador,0.0
+908,1,0,Ismael de Menéndez,Empacador,0.0
+912,2,0,Alexandra España Dalmau,Confeccionista,0.0
+913,4,3,Luisa Lina Tomé Zamorano,Confeccionista,75.0
+915,2,0,Maribel de Folch,Cortador,0.0
+917,1,1,Anselma Rey-Fuster,Confeccionista,100.0
+918,1,0,Godofredo Real Herrera,Cortador,0.0
+920,3,1,Trinidad Oller Montenegro,Cortador,33.33
+921,1,0,Aureliano Moreno Garmendia,Supervisor,0.0
+922,2,0,Gil Cuadrado Marquez,Confeccionista,0.0
+926,1,1,Águeda del Mancebo,Supervisor,100.0
+928,1,0,Toribio de Mendizábal,Cortador,0.0
+930,2,2,Calisto Peñalver Gallo,Empacador,100.0
+931,1,1,Aroa Galvez Llorens,Diseñador,100.0
+932,1,0,Edgardo Luis Miguel Elías Salmerón,Empacador,0.0
+933,1,0,Isaura Burgos Peñas,Supervisor,0.0
+934,2,1,Fausto del Sanmartín,Supervisor,50.0
+935,3,1,Gaspar Ibarra Sabater,Cortador,33.33
+936,1,0,Susanita Chico Marí,Diseñador,0.0
+937,3,1,Candelas Evangelina Agullo Maza,Confeccionista,33.33
+939,2,0,Curro Cirino Escolano Ibáñez,Supervisor,0.0
+941,1,0,Anacleto de Losa,Diseñador,0.0
+942,1,0,Genoveva de Miguel,Cortador,0.0
+943,1,0,Josefa Montaña,Supervisor,0.0
+945,1,0,Esperanza Perez Vilaplana,Empacador,0.0
+948,1,1,Adela del Quirós,Diseñador,100.0
+949,1,0,Maribel Alberto Casado,Empacador,0.0
+950,1,0,Zaida Arregui Cortina,Supervisor,0.0
+952,4,2,Brunilda Arnau Doménech,Empacador,50.0
+953,3,0,Lorena del Moliner,Confeccionista,0.0
+954,1,0,María Belén Salas Palomo,Confeccionista,0.0
+955,1,1,Fortunato Rosselló Pérez,Empacador,100.0
+957,1,0,Manu Santana Hidalgo,Diseñador,0.0
+958,1,0,Cruz Raquel Dávila Fábregas,Empacador,0.0
+961,4,1,Ale Evita Torrijos Téllez,Supervisor,25.0
+962,1,1,Juliana Amo-Ibañez,Diseñador,100.0
+964,2,0,David del Córdoba,Diseñador,0.0
+966,2,0,Herminia Sanz-Torrent,Cortador,0.0
+967,1,1,Teodosio Catalá Benitez,Supervisor,100.0
+968,1,1,Ignacia Pallarès Alvarez,Confeccionista,100.0
+969,1,0,Soraya Sáez Salazar,Empacador,0.0
+970,1,0,Lourdes Cano Méndez,Empacador,0.0
+971,1,0,Mayte Bayón Coll,Diseñador,0.0
+975,3,0,Caridad Manuel-Daza,Diseñador,0.0
+976,1,0,Joel Acevedo Bayo,Diseñador,0.0
+977,1,0,Anastasio Teruel Merino,Confeccionista,0.0
+978,3,1,Nilda Ribes-Cadenas,Confeccionista,33.33
+980,2,2,Eligio Cristian Melero Haro,Confeccionista,100.0
+982,2,1,Leyre de Piñeiro,Supervisor,50.0
+987,2,0,Miriam Saldaña Barreda,Confeccionista,0.0
+991,1,0,Emigdio Salom Guijarro,Confeccionista,0.0
+992,3,2,Blanca Nieves Cuesta Barreda,Cortador,66.67
+993,1,1,Paco Ferrera Galán,Supervisor,100.0
+995,1,0,Úrsula Valbuena Serna,Confeccionista,0.0
+996,1,0,Bernardino del Baños,Confeccionista,0.0
+997,1,0,María Belén Galan-Puerta,Cortador,0.0
+1000,1,0,Pío Quintanilla,Confeccionista,0.0
+1001,1,0,Abigaíl Patricia Herrera Polo,Empacador,0.0
+1002,1,0,Íngrid Camila Carretero Botella,Empacador,0.0
+1003,1,0,Ricarda Sacristán Lucas,Empacador,0.0
+1006,1,0,Severino Bosch-Morillo,Supervisor,0.0
+1009,1,0,Esteban Gómez Rosa,Supervisor,0.0
+1012,1,0,Zacarías Andres,Confeccionista,0.0
+1013,2,1,René Bellido,Confeccionista,50.0
+1014,1,1,Amada Salinas Cuéllar,Cortador,100.0
+1015,1,1,Virginia Amalia Duque Pou,Supervisor,100.0
+1017,1,0,Felicia Paz-Llabrés,Empacador,0.0
+1022,2,1,Lucas Jordá-Pinto,Diseñador,50.0
+1023,1,0,Camila Cornejo Bernat,Cortador,0.0
+1024,1,1,Ximena del Palmer,Diseñador,100.0
+1025,2,2,Ámbar Velázquez Robles,Cortador,100.0
+1026,1,0,Herberto Cózar Saavedra,Confeccionista,0.0
+1027,3,3,Renata Cabrera Castells,Cortador,100.0
+1029,3,2,Aroa Barrera Lucas,Confeccionista,66.67
+1031,1,1,Abraham de Ibañez,Diseñador,100.0
+1032,2,0,Omar Carbajo-Benito,Empacador,0.0
+1033,1,1,Eugenia Paniagua Bárcena,Empacador,100.0
+1034,2,1,Amaya Bienvenida Andrés Solsona,Cortador,50.0
+1036,2,1,Fabricio de Figueras,Supervisor,50.0
+1037,2,2,Samanta Aránzazu Beltrán Sevilla,Empacador,100.0
+1038,1,1,Haydée Vilar-Cantero,Empacador,100.0
+1039,1,1,Ana Belén Lloret Dominguez,Empacador,100.0
+1040,2,1,Máxima de Zabaleta,Supervisor,50.0
+1041,1,1,Pepita Mercader Palacios,Confeccionista,100.0
+1042,3,0,Octavia Gabaldón Pacheco,Supervisor,0.0
+1043,2,1,Adalberto Cobo Valenzuela,Supervisor,50.0
+1044,1,1,Angelino Tejera,Supervisor,100.0
+1047,1,1,Modesto Sanchez Salinas,Cortador,100.0
+1048,2,0,Édgar del Segovia,Supervisor,0.0
+1049,1,0,Azeneth Ballesteros-Galvez,Diseñador,0.0
+1050,1,0,Ileana Viña Vera,Empacador,0.0
+1053,2,0,Roldán Nogués Domingo,Supervisor,0.0
+1054,1,1,Evelia de Rius,Empacador,100.0
+1055,1,0,Viviana España Ballesteros,Diseñador,0.0
+1056,1,1,Lucas Toro,Confeccionista,100.0
+1057,2,1,Felisa Álamo Vergara,Empacador,50.0
+1058,1,0,Charo García,Cortador,0.0
+1062,2,2,Dionisia Padilla Juliá,Empacador,100.0
+1063,1,0,María Belén Diez,Confeccionista,0.0
+1064,1,1,Baldomero del Morillo,Cortador,100.0
+1067,1,0,Macarena Diez,Diseñador,0.0
+1069,1,0,Anabel de Ballester,Cortador,0.0
+1070,1,0,Porfirio Quirós Perales,Confeccionista,0.0
+1071,2,1,Pepito Barrio Baños,Cortador,50.0
+1072,1,0,María Fernanda Sanchez Múgica,Diseñador,0.0
+1073,1,0,Esther Cueto-Garcia,Cortador,0.0
+1076,1,0,Cosme Pozuelo Agustín,Cortador,0.0
+1077,1,0,Ambrosio Barba Vidal,Diseñador,0.0
+1080,3,2,Aureliano Simó Martinez,Empacador,66.67
+1082,1,1,Casandra Antonia Parejo Fernandez,Cortador,100.0
+1086,2,2,Paulina Beltrán Arribas,Supervisor,100.0
+1087,1,0,Lino Cabo-Saez,Confeccionista,0.0
+1088,1,1,Borja de Puig,Supervisor,100.0
+1089,2,1,Jonatan Pineda Pomares,Confeccionista,50.0
+1090,1,1,Liliana Hernando-Hoyos,Empacador,100.0
+1091,3,0,Hortensia José Pagès Flor,Confeccionista,0.0
+1093,1,1,Artemio Posada,Supervisor,100.0
+1097,1,0,Pastora Gómez Rius,Cortador,0.0
+1100,2,1,Néstor Linares,Cortador,50.0
+1101,2,1,Wilfredo de Sevillano,Empacador,50.0
+1103,1,0,Haroldo Danilo Santamaria Cerezo,Cortador,0.0
+1104,1,1,Hipólito Fajardo Cáceres,Empacador,100.0
+1108,2,0,Eligia Arjona Chacón,Empacador,0.0
+1112,1,0,Ciriaco Ángel Rodríguez,Empacador,0.0
+1114,1,0,Sandra Orozco,Cortador,0.0
+1117,2,1,Camilo Ródenas Ródenas,Diseñador,50.0
+1120,1,0,Inmaculada Oliva,Confeccionista,0.0
+1121,2,0,Fidela Pallarès Hernandez,Cortador,0.0
+1124,1,0,Georgina Cid Díez,Supervisor,0.0
+1125,1,0,Dorotea Roura Pedraza,Cortador,0.0
+1129,3,2,Damián Font Casanova,Confeccionista,66.67
+1131,1,0,Manuel Rivero Morante,Supervisor,0.0
+1132,3,2,Emma Guijarro-Ojeda,Supervisor,66.67
+1134,1,0,Joaquina Gelabert Múgica,Diseñador,0.0
+1135,1,0,Chus del Pera,Cortador,0.0
+1137,1,0,Fabiola Pinto-Almeida,Cortador,0.0
+1141,2,0,Dionisia Uribe Marco,Supervisor,0.0
+1144,1,1,Xiomara Adelaida Segarra Rosado,Supervisor,100.0
+1145,2,0,Tiburcio Viña-Salamanca,Diseñador,0.0
+1146,3,0,Begoña Hidalgo-Galindo,Supervisor,0.0
+1147,3,1,Che Ibán Mendez Noriega,Cortador,33.33
+1150,1,0,Jessica Guerra Bas,Empacador,0.0
+1152,2,1,Germán Muro-Calderon,Supervisor,50.0
+1153,1,0,Santos Valderrama Román,Confeccionista,0.0
+1154,1,0,Sebastian Amor Capdevila,Empacador,0.0
+1155,3,0,María José Azcona Briones,Supervisor,0.0
+1157,1,0,Nicolasa Amarilis Bas Pulido,Cortador,0.0
+1159,3,2,Francisco Jose Valentín Valls,Diseñador,66.67
+1161,2,0,Rubén Hoz,Supervisor,0.0
+1163,1,0,Feliciana Piquer Reguera,Empacador,0.0
+1164,3,0,Adán Martinez Calleja,Empacador,0.0
+1165,1,1,Onofre Cabello,Empacador,100.0
+1167,1,0,Jose Angel España-Tormo,Supervisor,0.0
+1168,1,1,Belén Báez Comas,Diseñador,100.0
+1169,1,0,Simón Osuna Duque,Confeccionista,0.0
+1170,1,1,Gloria Cervera Pizarro,Cortador,100.0
+1171,1,0,Josefina Neira Parejo,Supervisor,0.0
+1173,2,0,Bernarda Valls Tena,Diseñador,0.0
+1176,1,0,Angelita Palau Blanes,Supervisor,0.0
+1177,2,1,Geraldo Rozas Riba,Supervisor,50.0
+1178,1,0,Agustín Tomas,Cortador,0.0
+1179,1,0,Adoración Pol Alegria,Empacador,0.0
+1180,2,2,Evelia Serra Casanovas,Empacador,100.0
+1182,1,0,Pancho Donaire Tovar,Empacador,0.0
+1183,1,0,Elodia Naranjo Pinto,Supervisor,0.0
+1184,1,1,Gloria Rueda Peláez,Supervisor,100.0
+1186,1,0,Aurelio Vicens Sotelo,Supervisor,0.0
+1188,1,0,Graciana Roldán Aller,Diseñador,0.0
+1191,1,1,Tristán Crespi Pazos,Cortador,100.0
+1193,2,1,Nazaret Zapata Torrent,Confeccionista,50.0
+1195,1,1,Manu Expósito Berenguer,Empacador,100.0
+1199,2,2,Ariadna Méndez Sanchez,Empacador,100.0
+1200,1,1,Miriam Pareja-Marco,Diseñador,100.0
+1201,1,1,Lucila Huerta Villalba,Cortador,100.0
+1202,1,0,Florencio Gascón Heras,Diseñador,0.0
+1204,1,1,Emigdio de Castro,Empacador,100.0
+1205,1,0,Fito Calzada,Confeccionista,0.0
+1210,1,0,Diana Sarabia-Sacristán,Supervisor,0.0
+1215,3,1,Florina de Morata,Diseñador,33.33
+1216,2,1,Fernanda Casado Hervia,Diseñador,50.0
+1217,2,0,Josué Lucho Arjona Vallejo,Confeccionista,0.0
+1220,1,0,Adriana Montoya,Diseñador,0.0
+1221,2,0,Eliseo Teodosio Quintana Ariza,Supervisor,0.0
+1222,2,0,Plácido Jódar Gonzalez,Confeccionista,0.0
+1224,1,0,Mauricio Torrents Ocaña,Confeccionista,0.0
+1225,2,1,Felicidad Cazorla Alonso,Supervisor,50.0
+1226,1,0,Diana Mayol,Confeccionista,0.0
+1227,2,1,Eduardo Ruano Malo,Diseñador,50.0
+1228,1,0,Iris Vigil Noguera,Supervisor,0.0
+1229,2,0,Isa Almazán Díaz,Cortador,0.0
+1231,1,1,Juan José Galán Arcos,Empacador,100.0
+1232,2,0,Pascuala Aragonés Fonseca,Empacador,0.0
+1234,2,2,Tomasa Ester Cáceres Cárdenas,Supervisor,100.0
+1235,2,1,Toribio Esteban Gonzalez Hervia,Cortador,50.0
+1236,2,0,Virgilio Diego Arce Bernat,Supervisor,0.0
+1237,2,1,Marino Adán-Piquer,Empacador,50.0
+1238,4,1,Felisa del Sanjuan,Confeccionista,25.0
+1241,2,1,Ruy Salcedo Luna,Empacador,50.0
+1243,1,0,Custodia Castañeda Sierra,Cortador,0.0
+1245,3,1,Felicia Valero Yuste,Confeccionista,33.33
+1247,4,3,Jordana Olalla Carrión Urrutia,Empacador,75.0
+1248,1,0,Albano Vilanova-Lerma,Cortador,0.0
+1250,1,1,Arsenio Ortega,Diseñador,100.0
+1251,3,1,Azeneth Galvez Ocaña,Diseñador,33.33
+1254,1,0,Eligia Pavón Mayoral,Cortador,0.0
+1258,1,0,Eutropio Valero Jordá,Diseñador,0.0
+1259,1,0,Teresa Dolores Chamorro Solé,Empacador,0.0
+1260,1,0,Segismundo Gras Solsona,Confeccionista,0.0
+1261,1,1,Hilario del Manrique,Cortador,100.0
+1262,2,1,Ale Aramburu Alvarado,Empacador,50.0
+1265,2,0,Marta Sola-Pulido,Diseñador,0.0
+1266,1,0,Roque Pallarès,Supervisor,0.0
+1267,1,0,Bonifacio Sosa Sáenz,Cortador,0.0
+1268,2,0,Teodosio Guillén Barbero,Cortador,0.0
+1272,1,0,Rosario José Pino Osorio,Confeccionista,0.0
+1273,1,1,Narcisa Seco Cantón,Supervisor,100.0
+1274,2,0,Severiano Dueñas,Empacador,0.0
+1275,2,1,Mohamed Carbó Conesa,Supervisor,50.0
+1278,1,0,Gerónimo Cortes Acevedo,Empacador,0.0
+1279,1,1,Macario Camps Mora,Supervisor,100.0
+1281,1,0,Manuela Alba Ugarte,Cortador,0.0
+1282,1,1,Soraya Aliaga Cuervo,Cortador,100.0
+1283,1,1,César Prado Amigó,Supervisor,100.0
+1286,1,0,Bonifacio Vilanova Bastida,Cortador,0.0
+1287,1,0,Jovita Amat Pombo,Diseñador,0.0
+1288,1,0,Roberto Amaro Varela Molina,Diseñador,0.0
+1289,3,0,Tere Moya Mateos,Empacador,0.0
+1294,1,0,Andrea Castejón-Romero,Confeccionista,0.0
+1297,1,0,David Lumbreras-Román,Cortador,0.0
+1300,1,1,Maite Puig Piña,Confeccionista,100.0
+1301,2,1,Ramona Zabala Bayona,Diseñador,50.0
+1304,1,0,Leoncio Jara Arnal,Diseñador,0.0
+1308,2,0,Flor Ferreras Herrera,Confeccionista,0.0
+1310,1,0,Reinaldo Montes Huguet,Supervisor,0.0
+1311,1,1,Teo Castillo Urrutia,Empacador,100.0
+1312,2,0,Tamara Laguna Lara,Diseñador,0.0
+1314,2,0,Isaac Aragonés Coloma,Cortador,0.0
+1316,1,1,Carlito Salom Mendoza,Empacador,100.0
+1317,2,2,Fulgencio de Cobos,Cortador,100.0
+1319,3,2,Quique Duarte Ramos,Cortador,66.67
+1320,1,0,Víctor Sastre,Confeccionista,0.0
+1321,3,1,Bernardino Fidel Roldan Malo,Empacador,33.33
+1325,1,0,Ariadna Gallo Villegas,Confeccionista,0.0
+1326,1,0,Francisco Javier del Sevillano,Supervisor,0.0
+1327,2,1,Victor del Canales,Confeccionista,50.0
+1328,3,0,Abraham Sabater Niño,Confeccionista,0.0
+1331,3,1,Luis Ángel Agudo Fuente,Confeccionista,33.33
+1333,1,1,Íñigo Sarmiento Almagro,Diseñador,100.0
+1334,1,0,Ascensión Concepción Yuste Quintero,Supervisor,0.0
+1338,2,0,Elisabet Coronado Bou,Diseñador,0.0
+1339,1,0,Débora del Amores,Cortador,0.0
+1342,1,1,Raimundo Duarte,Confeccionista,100.0
+1343,1,1,Julia Cerezo Bilbao,Confeccionista,100.0
+1344,1,0,Ester Rueda Franch,Cortador,0.0
+1345,2,1,Josué Pi-Melero,Empacador,50.0
+1346,1,0,Tito Cebrián Parejo Gallego,Empacador,0.0
+1347,2,1,Sarita Machado Sanchez,Supervisor,50.0
+1348,2,1,Almudena Corona Narváez Baeza,Confeccionista,50.0
+1349,2,1,Edmundo Novoa Bertrán,Supervisor,50.0
+1350,1,1,Amando Fábregas Izaguirre,Cortador,100.0
+1352,2,1,Atilio Sedano Aguado,Diseñador,50.0
+1353,1,0,Rosalinda Bustos Perera,Empacador,0.0
+1354,1,0,Jordán Olmedo Ledesma,Cortador,0.0
+1356,3,1,Amada Mayo Codina,Cortador,33.33
+1357,4,1,Cecilia Sanjuan Sanz,Confeccionista,25.0
+1359,1,0,Eladio Duque Garcés,Empacador,0.0
+1361,2,1,Conrado Espiridión Bastida Gras,Supervisor,50.0
+1363,1,0,Martirio Gámez Morillo,Diseñador,0.0
+1364,1,0,Nicanor Mayo Méndez,Diseñador,0.0
+1365,1,0,Maristela Domingo,Empacador,0.0
+1367,2,0,Vicente Gras Luna,Cortador,0.0
+1368,1,0,Nacio Asenjo Dávila,Supervisor,0.0
+1369,2,0,Silvio Goicoechea Duarte,Supervisor,0.0
+1373,1,0,Iván Escudero-Guillén,Empacador,0.0
+1374,1,0,Maximiano Marcelo Otero Castelló,Supervisor,0.0
+1376,2,0,Carlito Herberto Nadal Alegre,Supervisor,0.0
+1377,1,0,Armando Camps Carballo,Confeccionista,0.0
+1378,1,0,Fermín Pablo Padilla,Confeccionista,0.0
+1379,1,1,Rodolfo Barreda Barceló,Diseñador,100.0
+1380,1,0,Eloy Artigas,Diseñador,0.0
+1381,1,0,María Manuela Rozas Bosch,Diseñador,0.0
+1383,1,0,Alcides Verdú Sales,Diseñador,0.0
+1384,1,1,Fulgencio Castejón Estévez,Confeccionista,100.0
+1385,1,0,Albino Vicens-Amaya,Diseñador,0.0
+1386,4,3,Visitación Mayol Alberola,Cortador,75.0
+1387,3,0,Teo Cayetano Requena Amat,Cortador,0.0
+1388,1,0,María Fernanda Andrade-Gallardo,Cortador,0.0
+1389,1,1,Maura Aliaga Catalá,Empacador,100.0
+1390,2,1,Gilberto Piquer Roldan,Supervisor,50.0
+1391,2,0,María Pilar Valverde Otero,Diseñador,0.0
+1392,2,1,Laura Escrivá Miró,Confeccionista,50.0
+1393,1,0,Carmen Jódar Melero,Cortador,0.0
+1394,1,0,Adelardo del Zaragoza,Confeccionista,0.0
+1395,1,1,Primitivo Real Larrañaga,Supervisor,100.0
+1396,1,0,Cristina Baena,Supervisor,0.0
+1399,2,0,Adela Casals Maldonado,Cortador,0.0
+1401,1,1,Susana García Armengol,Diseñador,100.0
+1402,2,1,Norberto Cortés Roig,Cortador,50.0
+1403,1,0,Edmundo Espinosa Casares,Supervisor,0.0
+1405,2,1,Sonia Ariel Álvaro Iglesia,Diseñador,50.0
+1406,1,0,Edu Julio César Tamarit Burgos,Diseñador,0.0
+1407,2,1,Eligia Guzmán Abad,Diseñador,50.0
+1408,1,0,Flora Olmedo Villalobos,Cortador,0.0
+1412,2,0,Fabio Alberdi Estevez,Diseñador,0.0
+1414,2,2,Julián Cecilio Cervera Sanmiguel,Empacador,100.0
+1416,2,1,Modesto del Falcón,Cortador,50.0
+1417,1,0,Samuel Carlos Machado,Diseñador,0.0
+1418,1,1,María Jesús del Palomar,Supervisor,100.0
+1419,1,0,Azahara del Pacheco,Confeccionista,0.0
+1421,1,1,Marisol Sotelo Montenegro,Diseñador,100.0
+1423,2,1,Corona Bastida,Diseñador,50.0
+1425,1,0,Jose Angel Aller,Diseñador,0.0
+1426,1,0,Armando Puerta Marí,Empacador,0.0
+1428,2,0,Ángeles Lago Catalá,Supervisor,0.0
+1430,1,1,Teodoro Ledesma Olmo,Diseñador,100.0
+1431,1,0,Dora Lladó Villena,Supervisor,0.0
+1432,4,2,Joan Nadal Mayoral,Confeccionista,50.0
+1435,1,0,Guiomar Salinas Higueras,Empacador,0.0
+1436,2,1,Edgardo Jordán-Palomar,Supervisor,50.0
+1437,2,1,Amelia Jurado Andreu,Empacador,50.0
+1438,2,0,Teobaldo Beltrán Sainz,Cortador,0.0
+1439,2,1,Mireia del Villena,Confeccionista,50.0
+1440,2,0,Vasco del Vila,Confeccionista,0.0
+1441,1,0,Agapito del Barbero,Empacador,0.0
+1442,2,0,Severo Sola Nogués,Empacador,0.0
+1443,1,0,Jaime Perelló Valderrama,Confeccionista,0.0
+1444,1,0,Anacleto Merino Carbonell,Cortador,0.0
+1445,1,1,Nazario Porta Mascaró,Cortador,100.0
+1446,2,0,Amalia Candelas Sanmiguel Abella,Diseñador,0.0
+1448,2,0,Lope Bravo Benavente,Cortador,0.0
+1450,1,0,Consuela Sáenz Santana,Diseñador,0.0
+1451,1,0,Diego Antón Marco,Diseñador,0.0
+1452,1,0,David de Herrera,Supervisor,0.0
+1453,2,2,Fernando Manrique Canales,Diseñador,100.0
+1454,1,1,Visitación Alvarado Tomé,Supervisor,100.0
+1457,1,0,Miguel Ramis Barragán,Empacador,0.0
+1458,1,0,Nydia Exposito Llano,Supervisor,0.0
+1459,1,1,Eduardo Valencia,Cortador,100.0
+1460,4,0,Heraclio Calisto Girona Egea,Empacador,0.0
+1461,1,0,Custodio Mancebo Baños,Cortador,0.0
+1462,3,0,Consuela Lobato Caballero,Diseñador,0.0
+1464,3,1,María Manuela Pedrosa Prieto,Empacador,33.33
+1465,1,0,Rosalía Mena Bernat,Diseñador,0.0
+1466,1,0,Imelda Aramburu Saavedra,Confeccionista,0.0
+1467,1,0,Piedad Pascuala Vera Gimeno,Cortador,0.0
+1468,2,0,Reyna Ros Guitart,Confeccionista,0.0
+1469,1,1,Claudio Zorrilla Frutos,Supervisor,100.0
+1470,1,0,Jonatan Rodríguez Heredia,Supervisor,0.0
+1471,2,0,Cecilio Alsina Moraleda,Diseñador,0.0
+1472,1,1,Abril Olivera-Valdés,Diseñador,100.0
+1474,2,0,Paco Conde-Olivares,Cortador,0.0
+1476,1,0,Bonifacio Vigil,Diseñador,0.0
+1477,3,1,Leonardo Cosme Diaz Morante,Supervisor,33.33
+1479,5,1,Delfina Amador López,Confeccionista,20.0
+1480,3,1,Luis Ángel Santiago Sola Terrón,Diseñador,33.33
+1483,2,1,Luciana Díez Torrecilla,Diseñador,50.0
+1485,2,0,Chema Nevado Esteban,Diseñador,0.0
+1486,1,0,Marcia Pereira Rosell,Empacador,0.0
+1488,2,0,Cesar Cabrero Gargallo,Diseñador,0.0
+1489,1,0,Angelino Pedrero Barba,Supervisor,0.0
+1491,1,1,Marcelo Valls Reyes,Cortador,100.0
+1492,1,1,Belen Pareja Jover,Confeccionista,100.0
+1496,1,0,Corona Quero Lluch,Empacador,0.0
+1497,1,1,Leocadia Giralt Mulet,Confeccionista,100.0
+1499,1,0,Gastón del Carbó,Confeccionista,0.0
+1500,1,1,Gonzalo Boada,Diseñador,100.0

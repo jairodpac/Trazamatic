@@ -1,0 +1,265 @@
+{
+  "clientes": {
+    "rows": 1500,
+    "columns": [
+      "id_cliente",
+      "nombre_empresa",
+      "nit",
+      "direccion",
+      "ciudad",
+      "contacto_nombre",
+      "contacto_telefono",
+      "contacto_email"
+    ],
+    "dtypes": {
+      "id_cliente": "int64",
+      "nombre_empresa": "object",
+      "nit": "int64",
+      "direccion": "object",
+      "ciudad": "object",
+      "contacto_nombre": "object",
+      "contacto_telefono": "object",
+      "contacto_email": "object"
+    },
+    "sample": [
+      {
+        "id_cliente": 1,
+        "nombre_empresa": "Aguilera-Priego",
+        "nit": 3357572351,
+        "direccion": "Ronda Calixta Rosales 21\nCiudad, 04828",
+        "ciudad": "Álava",
+        "contacto_nombre": "Marisol Adadia Santana",
+        "contacto_telefono": "+34726395628",
+        "contacto_email": "tnogues@sans.com"
+      },
+      {
+        "id_cliente": 2,
+        "nombre_empresa": "Garriga LLC",
+        "nit": 8297897460,
+        "direccion": "Via Febe Gallo 105 Puerta 3 \nCádiz, 19459",
+        "ciudad": "Valladolid",
+        "contacto_nombre": "Ascensión Manso Solera",
+        "contacto_telefono": "+34735136965",
+        "contacto_email": "luis-miguelporcel@yahoo.com"
+      }
+    ]
+  },
+  "ordenes_produccion": {
+    "rows": 1500,
+    "columns": [
+      "id_orden",
+      "id_cliente",
+      "fecha_orden",
+      "estado",
+      "id_empleado_responsable"
+    ],
+    "dtypes": {
+      "id_orden": "int64",
+      "id_cliente": "int64",
+      "fecha_orden": "object",
+      "estado": "object",
+      "id_empleado_responsable": "int64"
+    },
+    "sample": [
+      {
+        "id_orden": 1,
+        "id_cliente": 1055,
+        "fecha_orden": "2025-04-12",
+        "estado": "Pendiente",
+        "id_empleado_responsable": 1161
+      },
+      {
+        "id_orden": 2,
+        "id_cliente": 1436,
+        "fecha_orden": "2024-10-06",
+        "estado": "Pendiente",
+        "id_empleado_responsable": 1217
+      }
+    ]
+  },
+  "productos": {
+    "rows": 1500,
+    "columns": [
+      "id_producto",
+      "nombre_producto",
+      "descripcion",
+      "tipo",
+      "talla",
+      "genero",
+      "color",
+      "precio_unitario",
+      "stock_disponible"
+    ],
+    "dtypes": {
+      "id_producto": "int64",
+      "nombre_producto": "object",
+      "descripcion": "object",
+      "tipo": "object",
+      "talla": "object",
+      "genero": "object",
+      "color": "object",
+      "precio_unitario": "float64",
+      "stock_disponible": "int64"
+    },
+    "sample": [
+      {
+        "id_producto": 1,
+        "nombre_producto": "Pantalón S",
+        "descripcion": "Suscipit atque voluptate.",
+        "tipo": "Camisa",
+        "talla": "M",
+        "genero": "Hombre",
+        "color": "Blanco encaje",
+        "precio_unitario": 55.67,
+        "stock_disponible": 492
+      },
+      {
+        "id_producto": 2,
+        "nombre_producto": "Pantalón S",
+        "descripcion": "Aliquid eveniet aut soluta.",
+        "tipo": "Camisa",
+        "talla": "S",
+        "genero": "Mujer",
+        "color": "Azul medianoche",
+        "precio_unitario": 83.01,
+        "stock_disponible": 258
+      }
+    ]
+  },
+  "materiales": {
+    "rows": 1500,
+    "columns": [
+      "id_material",
+      "nombre_material",
+      "tipo",
+      "unidad_medida",
+      "cantidad_disponible"
+    ],
+    "dtypes": {
+      "id_material": "int64",
+      "nombre_material": "object",
+      "tipo": "object",
+      "unidad_medida": "object",
+      "cantidad_disponible": "int64"
+    },
+    "sample": [
+      {
+        "id_material": 1,
+        "nombre_material": "sequi",
+        "tipo": "Algodón",
+        "unidad_medida": "unidad",
+        "cantidad_disponible": 844
+      },
+      {
+        "id_material": 2,
+        "nombre_material": "cupiditate",
+        "tipo": "Algodón",
+        "unidad_medida": "m",
+        "cantidad_disponible": 801
+      }
+    ]
+  },
+  "empleados": {
+    "rows": 1500,
+    "columns": [
+      "id_empleado",
+      "nombre",
+      "cedula",
+      "cargo",
+      "fecha_ingreso",
+      "telefono",
+      "email"
+    ],
+    "dtypes": {
+      "id_empleado": "int64",
+      "nombre": "object",
+      "cedula": "int64",
+      "cargo": "object",
+      "fecha_ingreso": "object",
+      "telefono": "object",
+      "email": "object"
+    },
+    "sample": [
+      {
+        "id_empleado": 1,
+        "nombre": "Vito Félix Huertas Benavent",
+        "cedula": 7608210978,
+        "cargo": "Confeccionista",
+        "fecha_ingreso": "2022-03-14",
+        "telefono": "+34722 820 671",
+        "email": "medinamarcial@pinilla.com"
+      },
+      {
+        "id_empleado": 2,
+        "nombre": "Horacio del Jover",
+        "cedula": 7415020717,
+        "cargo": "Supervisor",
+        "fecha_ingreso": "2021-04-14",
+        "telefono": "+34 720 47 03 46",
+        "email": "cortinaefrain@gmail.com"
+      }
+    ]
+  },
+  "detalles_orden": {
+    "rows": 1500,
+    "columns": [
+      "id_detalle",
+      "id_orden",
+      "id_producto",
+      "cantidad",
+      "subtotal"
+    ],
+    "dtypes": {
+      "id_detalle": "int64",
+      "id_orden": "int64",
+      "id_producto": "int64",
+      "cantidad": "int64",
+      "subtotal": "float64"
+    },
+    "sample": [
+      {
+        "id_detalle": 1,
+        "id_orden": 64,
+        "id_producto": 960,
+        "cantidad": 1,
+        "subtotal": 76.47
+      },
+      {
+        "id_detalle": 2,
+        "id_orden": 499,
+        "id_producto": 1205,
+        "cantidad": 55,
+        "subtotal": 2900.7000000000003
+      }
+    ]
+  },
+  "uso_materiales": {
+    "rows": 1500,
+    "columns": [
+      "id_uso",
+      "id_orden",
+      "id_material",
+      "cantidad_usada"
+    ],
+    "dtypes": {
+      "id_uso": "int64",
+      "id_orden": "int64",
+      "id_material": "int64",
+      "cantidad_usada": "float64"
+    },
+    "sample": [
+      {
+        "id_uso": 1,
+        "id_orden": 1276,
+        "id_material": 1148,
+        "cantidad_usada": 45.27
+      },
+      {
+        "id_uso": 2,
+        "id_orden": 874,
+        "id_material": 922,
+        "cantidad_usada": 32.12
+      }
+    ]
+  }
+}

@@ -1,0 +1,1501 @@
+id_orden,id_cliente,fecha_orden,estado,id_empleado_responsable,nombre_empresa,ciudad,id_empleado,nombre_empleado,cargo_empleado
+1,1055,2025-04-12,Pendiente,1161,Tejedor PLC,Valladolid,1161,Rubén Hoz,Supervisor
+2,1436,2024-10-06,Pendiente,1217,Pardo-Rivera,Albacete,1217,Josué Lucho Arjona Vallejo,Confeccionista
+3,1240,2025-02-02,Completado,395,Gordillo Group,Santa Cruz de Tenerife,395,María Jesús Valentín Castells,Empacador
+4,1398,2025-03-31,Completado,122,"Julián, Galán and Quero",Córdoba,122,Bernabé Aguilar Miralles,Cortador
+5,1211,2024-11-26,Pendiente,1432,"Heras, Robledo and Marí",Valladolid,1432,Joan Nadal Mayoral,Confeccionista
+6,567,2024-06-25,En Proceso,1356,"Martinez, Muro and Castrillo",Murcia,1356,Amada Mayo Codina,Cortador
+7,707,2024-07-02,Pendiente,1390,Duarte-Leal,Burgos,1390,Gilberto Piquer Roldan,Supervisor
+8,40,2025-05-04,En Proceso,675,Paniagua PLC,Granada,675,Balduino Francisco Garriga,Cortador
+9,448,2025-01-02,Pendiente,1275,"Serra, Vilar and Bayón",Segovia,1275,Mohamed Carbó Conesa,Supervisor
+10,1037,2024-06-20,Pendiente,30,Valentín and Sons,Albacete,30,Juan José Escobar Casanova,Cortador
+11,963,2025-04-27,Completado,592,Cobo LLC,Sevilla,592,Albino Fuster-Ugarte,Empacador
+12,234,2024-08-11,Pendiente,1331,Plana-Fajardo,Toledo,1331,Luis Ángel Agudo Fuente,Confeccionista
+13,1162,2025-02-16,En Proceso,404,Tapia-Fuentes,Álava,404,Florencia Vázquez Vilar,Empacador
+14,1103,2025-04-18,Pendiente,681,Seco and Sons,Barcelona,681,Marisela Moles Alemán,Diseñador
+15,1219,2025-01-03,Completado,1040,"Torre, Perera and Jerez",Albacete,1040,Máxima de Zabaleta,Supervisor
+16,1026,2025-05-24,En Proceso,319,Oliver Ltd,Ávila,319,Florentino Becerra Nevado,Empacador
+17,792,2025-05-12,En Proceso,1407,Calleja PLC,Álava,1407,Eligia Guzmán Abad,Diseñador
+18,127,2024-08-28,En Proceso,205,Arroyo LLC,Alicante,205,Noé Zacarías Pinedo Pardo,Empacador
+19,545,2025-06-06,Pendiente,487,Gallart-Ariza,Guadalajara,487,Cecilia Carrera Aguirre,Confeccionista
+20,670,2024-08-27,Pendiente,1103,Bonet-Revilla,Vizcaya,1103,Haroldo Danilo Santamaria Cerezo,Cortador
+21,152,2025-01-05,Pendiente,623,Sanjuan PLC,Ourense,623,Javiera Carreras,Confeccionista
+22,359,2024-12-03,Pendiente,593,Hernández-Blazquez,Zaragoza,593,Jose Ignacio Roselló-Varela,Confeccionista
+23,745,2025-02-19,Completado,527,"Casanovas, Conesa and Ballester",Cantabria,527,Odalys Guerrero Rebollo,Confeccionista
+24,77,2024-09-13,Completado,1459,Peñalver LLC,Alicante,1459,Eduardo Valencia,Cortador
+25,1342,2025-04-09,Completado,1453,Palacios Ltd,Sevilla,1453,Fernando Manrique Canales,Diseñador
+26,1447,2024-08-10,Pendiente,1442,Corominas PLC,Teruel,1442,Severo Sola Nogués,Empacador
+27,636,2024-08-16,Completado,34,Marín-Garriga,Pontevedra,34,Alonso del Nieto,Confeccionista
+28,644,2025-02-04,Pendiente,978,León-Conesa,Cáceres,978,Nilda Ribes-Cadenas,Confeccionista
+29,458,2025-03-11,En Proceso,138,"Gallart, Alcalá and Villalonga",Cáceres,138,Jeremías Valerio Lorenzo Zurita,Supervisor
+30,252,2025-01-10,Completado,872,Parra-Tejada,Ceuta,872,Toribio de Poza,Empacador
+31,1314,2024-12-08,Pendiente,643,"Sastre, Aguilar and Solsona",Santa Cruz de Tenerife,643,Antonio Polo-Fuertes,Empacador
+32,1309,2024-10-28,Pendiente,873,Sierra-Benavente,Guadalajara,873,Godofredo Berenguer Godoy,Diseñador
+33,1445,2024-09-25,Pendiente,7,"Jáuregui, Cueto and Lago",Tarragona,7,Eligia Diaz Cabezas,Confeccionista
+34,116,2025-01-25,Completado,1129,"Elorza, Corbacho and Soriano",Cádiz,1129,Damián Font Casanova,Confeccionista
+35,570,2024-09-22,Pendiente,405,Romero Ltd,Guipúzcoa,405,Raquel Mayo Almagro,Empacador
+36,1253,2025-01-04,En Proceso,1488,Colom-Español,Toledo,1488,Cesar Cabrero Gargallo,Diseñador
+37,242,2024-08-24,En Proceso,366,Acedo Ltd,Jaén,366,Wilfredo Cordero Orozco,Supervisor
+38,540,2025-04-11,En Proceso,1032,"Huguet, Pons and Peiró",Alicante,1032,Omar Carbajo-Benito,Empacador
+39,296,2025-05-14,En Proceso,1374,"Ferrández, Porta and Olmedo",Castellón,1374,Maximiano Marcelo Otero Castelló,Supervisor
+40,410,2025-06-02,En Proceso,1265,Arribas-Hierro,Ciudad,1265,Marta Sola-Pulido,Diseñador
+41,256,2024-08-31,En Proceso,274,Miró-Jara,Guadalajara,274,Salud Loida Nieto Arana,Diseñador
+42,318,2025-04-16,Pendiente,1353,Monreal-Perales,Cantabria,1353,Rosalinda Bustos Perera,Empacador
+43,65,2025-05-04,Completado,1027,Roig and Sons,Badajoz,1027,Renata Cabrera Castells,Cortador
+44,130,2024-07-13,Pendiente,850,Llorente Group,Huesca,850,Eliseo del Adadia,Diseñador
+45,341,2025-05-01,Completado,52,"Esteban, Atienza and Larrea",Zamora,52,Marcela Lucena-Cano,Cortador
+46,754,2024-09-30,Completado,695,Pinto LLC,Málaga,695,Baudelio Roman Estévez,Supervisor
+47,617,2024-12-25,Pendiente,469,"Aranda, Vicente and Zamora",Albacete,469,Artemio Bou Alcántara,Confeccionista
+48,843,2025-05-18,Completado,250,"Zabaleta, Larrea and Sureda",Cuenca,250,Nerea Vergara Coloma,Empacador
+49,855,2024-12-30,Pendiente,168,Calzada-Raya,Albacete,168,José de Garrido,Confeccionista
+50,293,2025-03-23,Pendiente,1294,Boix PLC,León,1294,Andrea Castejón-Romero,Confeccionista
+51,425,2025-05-07,Completado,614,Bermúdez-Calleja,La Coruña,614,Hortensia Sancho-Ledesma,Confeccionista
+52,1189,2024-09-26,Pendiente,1236,Armas-Vilaplana,Vizcaya,1236,Virgilio Diego Arce Bernat,Supervisor
+53,911,2025-04-25,Completado,1491,"Pedro, Pulido and Mariño",Álava,1491,Marcelo Valls Reyes,Cortador
+54,527,2025-04-26,En Proceso,358,Silva-Téllez,Ávila,358,Asunción Bellido-Sola,Supervisor
+55,1223,2025-04-22,En Proceso,755,Higueras Group,Palencia,755,Ramona Diez-Herrera,Diseñador
+56,227,2025-06-05,En Proceso,1186,Parejo Group,Teruel,1186,Aurelio Vicens Sotelo,Supervisor
+57,1110,2025-03-17,Pendiente,297,Bauzà Inc,Córdoba,297,Juanito del Rincón,Empacador
+58,1235,2024-12-08,Completado,806,"Villar, Galván and Zaragoza",Jaén,806,Claudio de Castelló,Supervisor
+59,1454,2024-07-17,Pendiente,855,Ruiz LLC,Asturias,855,Emilio Maxi Espinosa Dueñas,Cortador
+60,386,2024-12-26,Pendiente,455,Merino-Andres,Murcia,455,Ricardo Colom Farré,Supervisor
+61,796,2025-02-25,Pendiente,886,"Alberdi, Barreda and Guillen",Huesca,886,Albert Lucas-Vendrell,Empacador
+62,1307,2025-02-21,En Proceso,162,"Lumbreras, Feijoo and Cabañas",Ceuta,162,Abril Echeverría Cerdá,Empacador
+63,647,2025-04-26,Completado,95,Pérez-Quintero,Ceuta,95,Norberto Miguel Daza,Diseñador
+64,255,2025-01-09,Completado,1047,"Parra, Sáenz and Galván",Ávila,1047,Modesto Sanchez Salinas,Cortador
+65,95,2025-03-04,Pendiente,383,Barba and Sons,Lugo,383,Roberto Diéguez Cañizares,Diseñador
+66,1302,2024-07-08,Completado,720,Ariza-Pol,Navarra,720,Bonifacio de Bernat,Empacador
+67,839,2025-04-19,En Proceso,215,"García, Bru and Domínguez",Valladolid,215,Duilio Cisneros,Empacador
+68,312,2024-12-27,Completado,719,"Giménez, Ordóñez and Tomás",Almería,719,Nazario Cabello Suárez,Cortador
+69,1147,2024-08-26,Pendiente,483,"Bastida, Cuadrado and Losa",Tarragona,483,Maricela Moraleda Barbero,Empacador
+70,1281,2024-10-24,En Proceso,288,Palacios-Alba,Salamanca,288,José Mari Santamaria,Supervisor
+71,978,2024-07-22,Pendiente,913,"Pelayo, Santiago and Aranda",Zamora,913,Luisa Lina Tomé Zamorano,Confeccionista
+72,1494,2025-03-04,En Proceso,1001,Villa Inc,Granada,1001,Abigaíl Patricia Herrera Polo,Empacador
+73,656,2025-03-16,Completado,742,"Agustín, Codina and Arranz",Toledo,742,Vasco Larrea Ferrera,Diseñador
+74,1326,2025-03-09,Pendiente,127,Madrid LLC,Badajoz,127,Milagros Bello Berenguer,Supervisor
+75,775,2024-09-29,En Proceso,425,Ramírez-Sureda,Albacete,425,Renata Pedrosa-Escudero,Cortador
+76,804,2024-11-28,Pendiente,953,Benitez-Piñeiro,Guadalajara,953,Lorena del Moliner,Confeccionista
+77,49,2025-01-19,Completado,1342,Bastida Ltd,Barcelona,1342,Raimundo Duarte,Confeccionista
+78,93,2025-04-17,Completado,646,"Chaparro, Cañizares and Naranjo",Castellón,646,María Cristina Torralba Requena,Cortador
+79,669,2024-12-28,Completado,742,Franch LLC,Melilla,742,Vasco Larrea Ferrera,Diseñador
+80,848,2024-11-11,Completado,961,Mas Group,Huelva,961,Ale Evita Torrijos Téllez,Supervisor
+81,1081,2024-11-25,En Proceso,218,Valentín LLC,Barcelona,218,Jorge Faustino Valderrama Martí,Empacador
+82,1140,2024-10-14,Completado,594,Palmer-Soler,Castellón,594,Leandro Amaro Salmerón Amorós,Supervisor
+83,185,2025-01-15,Completado,1317,Cabrero Ltd,Murcia,1317,Fulgencio de Cobos,Cortador
+84,259,2025-03-31,En Proceso,383,Benavente-Martinez,Cádiz,383,Roberto Diéguez Cañizares,Diseñador
+85,363,2025-03-31,Pendiente,1228,Molina-Figueroa,Alicante,1228,Iris Vigil Noguera,Supervisor
+86,486,2024-11-11,Completado,13,"Hurtado, Vizcaíno and García",Ciudad,13,Amador Clavero-Llorens,Empacador
+87,315,2025-01-27,Completado,341,Castells-Crespo,La Coruña,341,Nereida Campillo-Ramírez,Diseñador
+88,183,2024-10-10,Pendiente,347,"Lillo, Pintor and Romeu",Burgos,347,Mercedes Sobrino Fuente,Empacador
+89,1433,2024-08-28,Pendiente,315,"Sastre, Pinilla and Talavera",Almería,315,Prudencia Anguita Torre,Diseñador
+90,1062,2024-06-19,Completado,119,Malo LLC,Huelva,119,Dulce Loida Rocamora Ángel,Cortador
+91,1117,2024-08-05,En Proceso,987,"Domínguez, Luque and Cazorla",Badajoz,987,Miriam Saldaña Barreda,Confeccionista
+92,1311,2024-08-04,Pendiente,1426,Cerezo Ltd,Barcelona,1426,Armando Puerta Marí,Empacador
+93,710,2024-10-06,Completado,935,"Escamilla, Sáez and Domingo",Navarra,935,Gaspar Ibarra Sabater,Cortador
+94,960,2024-09-05,En Proceso,118,Rebollo-Aramburu,Pontevedra,118,Cristian Torres-Palomino,Supervisor
+95,1321,2024-10-11,En Proceso,805,"Pujol, Cueto and Camino",Badajoz,805,Gracia Alfaro Pedraza,Empacador
+96,1073,2024-12-24,En Proceso,477,Reyes PLC,Córdoba,477,Eusebia Duran Tomas,Cortador
+97,491,2024-08-13,Pendiente,1339,Bernat-Ribas,Madrid,1339,Débora del Amores,Cortador
+98,1025,2024-07-16,Completado,822,"Barrios, Canals and Arteaga",Santa Cruz de Tenerife,822,Almudena de Serra,Supervisor
+99,1184,2025-02-07,Pendiente,158,"Mendoza, Haro and Losada",Alicante,158,Sebastian Bonilla Múgica,Supervisor
+100,1286,2024-10-24,Pendiente,862,Mesa Ltd,Zaragoza,862,Graciela Burgos Ballesteros,Confeccionista
+101,140,2025-01-15,Pendiente,643,Neira-Carreras,Asturias,643,Antonio Polo-Fuertes,Empacador
+102,666,2024-10-02,Pendiente,200,"Azcona, Fuente and Vallejo",Palencia,200,René Tolosa Montero,Diseñador
+103,174,2024-06-28,Completado,741,Portillo-Polo,Lugo,741,Zacarías del Dueñas,Supervisor
+104,50,2024-12-22,Pendiente,904,"Solsona, Artigas and Cañete",Zamora,904,Ismael Barco Roura,Diseñador
+105,1415,2024-08-11,Completado,1199,Tapia PLC,Navarra,1199,Ariadna Méndez Sanchez,Empacador
+106,2,2025-01-20,Pendiente,1460,Garriga LLC,Valladolid,1460,Heraclio Calisto Girona Egea,Empacador
+107,1346,2024-08-09,Completado,593,Ramis Ltd,Ourense,593,Jose Ignacio Roselló-Varela,Confeccionista
+108,1136,2024-08-01,Pendiente,872,Coello-Cervera,Huelva,872,Toribio de Poza,Empacador
+109,857,2025-03-07,En Proceso,995,Serna-Rovira,La Rioja,995,Úrsula Valbuena Serna,Confeccionista
+110,999,2024-08-06,Pendiente,1097,"Ledesma, Sacristán and Iñiguez",Ávila,1097,Pastora Gómez Rius,Cortador
+111,981,2025-03-26,Completado,1080,Esparza-Montaña,Granada,1080,Aureliano Simó Martinez,Empacador
+112,339,2024-07-11,En Proceso,765,Cruz Ltd,Málaga,765,Carmen Dalmau Arregui,Supervisor
+113,1299,2024-10-16,En Proceso,459,Garay LLC,Albacete,459,Roque Hugo Cadenas Alsina,Diseñador
+114,842,2024-11-16,Pendiente,1216,Catalán-Antón,La Coruña,1216,Fernanda Casado Hervia,Diseñador
+115,941,2025-05-02,Completado,1361,"Palmer, Quintero and Salamanca",Girona,1361,Conrado Espiridión Bastida Gras,Supervisor
+116,405,2025-06-09,En Proceso,1399,Molina-Patiño,Vizcaya,1399,Adela Casals Maldonado,Cortador
+117,68,2024-12-11,En Proceso,1022,Palacios PLC,Lleida,1022,Lucas Jordá-Pinto,Diseñador
+118,1341,2024-11-17,Completado,28,Molina-Ramos,Huelva,28,Estrella Marquez Benito,Supervisor
+119,14,2024-08-31,En Proceso,553,Barrio-Botella,Zamora,553,Leandro Baró Tamarit,Cortador
+120,367,2025-04-06,Completado,1384,Losa-Manzanares,Badajoz,1384,Fulgencio Castejón Estévez,Confeccionista
+121,161,2024-11-26,Completado,443,Barragán-Acevedo,Tarragona,443,Maura Carmona Ayala,Cortador
+122,218,2024-06-26,En Proceso,452,Cózar-Tomé,Cáceres,452,Kike Amores Vilanova,Supervisor
+123,681,2025-06-08,Pendiente,416,Girona-Cruz,Vizcaya,416,Mateo Amaya Chacón,Supervisor
+124,1435,2025-04-29,Pendiente,315,Parejo LLC,Tarragona,315,Prudencia Anguita Torre,Diseñador
+125,1305,2025-03-07,En Proceso,1091,Giménez LLC,Soria,1091,Hortensia José Pagès Flor,Confeccionista
+126,1035,2025-01-12,Pendiente,216,Caro Inc,Asturias,216,Adriana Cordero Pavón,Empacador
+127,1111,2024-07-28,Pendiente,604,"Coloma, Suarez and Miguel",Sevilla,604,Amílcar Tomás,Confeccionista
+128,470,2024-11-14,En Proceso,283,"Pujadas, Roda and Castrillo",La Rioja,283,Amor Rovira-Gras,Cortador
+129,134,2024-08-07,En Proceso,1338,Pont Group,Huelva,1338,Elisabet Coronado Bou,Diseñador
+130,794,2024-06-24,En Proceso,240,"Baena, Giralt and Garriga",Madrid,240,Ramón Villalonga Yáñez,Cortador
+131,960,2024-12-23,En Proceso,857,Rebollo-Aramburu,Pontevedra,857,Hermenegildo Toni Uribe Jara,Confeccionista
+132,1076,2024-06-25,En Proceso,243,Báez Group,Ávila,243,Sandalio Moliner Santamaria,Diseñador
+133,1462,2024-06-22,Pendiente,71,Español LLC,Baleares,71,Jonatan Luís Badía,Confeccionista
+134,120,2024-06-25,Pendiente,610,"Clavero, Baños and Campillo",Tarragona,610,Agapito Juliá Lozano,Diseñador
+135,806,2024-09-19,Pendiente,714,Piñol-Tovar,Almería,714,Ámbar Alma Serrano Pizarro,Empacador
+136,349,2025-04-25,Completado,240,Romeu-Cabrera,Segovia,240,Ramón Villalonga Yáñez,Cortador
+137,1192,2025-01-11,En Proceso,62,Cueto-Seco,Burgos,62,Cristian Zabaleta Valcárcel,Empacador
+138,237,2024-12-13,Pendiente,1352,Trillo and Sons,Teruel,1352,Atilio Sedano Aguado,Diseñador
+139,1451,2025-05-15,Completado,162,Blázquez LLC,Soria,162,Abril Echeverría Cerdá,Empacador
+140,687,2024-08-21,En Proceso,1328,"Navarro, Alberola and Carreño",Madrid,1328,Abraham Sabater Niño,Confeccionista
+141,1378,2024-09-10,Pendiente,1383,Reig-Benavides,Cuenca,1383,Alcides Verdú Sales,Diseñador
+142,1142,2024-08-12,Pendiente,636,"Giménez, Marcos and Pino",Baleares,636,Piedad Uriarte Garmendia,Diseñador
+143,585,2024-08-03,Pendiente,1412,"Duarte, Cerezo and Escrivá",Lleida,1412,Fabio Alberdi Estevez,Diseñador
+144,1218,2024-10-14,En Proceso,102,Garrido-Bonet,Soria,102,Jose Miguel Fuertes-Galán,Cortador
+145,504,2025-04-03,Completado,694,Nicolau Inc,Segovia,694,Benita Cobos Segarra,Empacador
+146,671,2025-02-11,Completado,889,Suárez-Avilés,Lugo,889,Noemí Espinosa-Cantón,Confeccionista
+147,1218,2024-07-08,Pendiente,839,Garrido-Bonet,Soria,839,Paco Atienza Priego,Confeccionista
+148,62,2025-03-16,En Proceso,952,Coello and Sons,Ourense,952,Brunilda Arnau Doménech,Empacador
+149,991,2024-09-23,Pendiente,1368,Solera and Sons,La Rioja,1368,Nacio Asenjo Dávila,Supervisor
+150,416,2025-04-30,Completado,1357,Seguí-Mancebo,Sevilla,1357,Cecilia Sanjuan Sanz,Confeccionista
+151,26,2025-05-15,En Proceso,267,Cobos-Díaz,Málaga,267,Crescencia Garzón Abascal,Cortador
+152,264,2025-06-08,En Proceso,1009,Herrera-Perelló,Jaén,1009,Esteban Gómez Rosa,Supervisor
+153,1024,2025-05-07,Pendiente,630,"Jove, Pulido and Ramírez",Baleares,630,Wálter Eugenio Pintor Bosch,Supervisor
+154,1197,2025-03-01,Pendiente,164,"Noriega, Valcárcel and Rosselló",Ceuta,164,Priscila Barros Santamaría,Empacador
+155,196,2024-12-13,Pendiente,348,Riba Ltd,Salamanca,348,Desiderio de Roldan,Confeccionista
+156,989,2024-10-10,En Proceso,1169,Borrell-Ferrando,Cáceres,1169,Simón Osuna Duque,Confeccionista
+157,493,2024-07-07,Completado,1483,"Catalán, Garrido and Llorente",Burgos,1483,Luciana Díez Torrecilla,Diseñador
+158,504,2024-10-18,Pendiente,1070,Nicolau Inc,Segovia,1070,Porfirio Quirós Perales,Confeccionista
+159,1363,2024-10-28,En Proceso,987,"Carbó, Planas and Padilla",Albacete,987,Miriam Saldaña Barreda,Confeccionista
+160,1374,2025-02-19,Completado,164,Barceló Ltd,Madrid,164,Priscila Barros Santamaría,Empacador
+161,2,2025-05-23,Pendiente,1101,Garriga LLC,Valladolid,1101,Wilfredo de Sevillano,Empacador
+162,606,2024-09-02,En Proceso,777,Palomar-Barrena,Málaga,777,Aristides de Carballo,Supervisor
+163,250,2025-01-27,En Proceso,429,Murcia PLC,Córdoba,429,Petrona de Llanos,Empacador
+164,1119,2024-11-08,En Proceso,1281,Donaire-Chamorro,Pontevedra,1281,Manuela Alba Ugarte,Cortador
+165,507,2024-07-11,En Proceso,899,Ariza-Arenas,Castellón,899,Rafael Dueñas Olmedo,Cortador
+166,89,2024-07-05,Completado,19,"Acero, Solé and Montoya",Burgos,19,Eleuterio Poncio Reyes Marcos,Diseñador
+167,189,2025-04-11,Pendiente,819,Navarrete-Roma,Alicante,819,Pía Monreal Cazorla,Empacador
+168,114,2025-04-16,Pendiente,45,"Falcó, Amores and Valenzuela",Lugo,45,Armando Clemente Torrents,Confeccionista
+169,855,2025-04-13,Completado,1201,Calzada-Raya,Albacete,1201,Lucila Huerta Villalba,Cortador
+170,123,2024-09-18,Completado,82,Cuervo Group,Sevilla,82,Lucho Rios Cerdán,Empacador
+171,1363,2024-10-31,En Proceso,905,"Carbó, Planas and Padilla",Albacete,905,Dani Macias-Estevez,Diseñador
+172,1296,2025-04-23,Pendiente,821,Feijoo PLC,Zaragoza,821,Teófila Oliver Arnaiz,Cortador
+173,1476,2024-12-02,Pendiente,723,Segura-Ferrándiz,León,723,Cintia Amaya Mur Rosell,Cortador
+174,96,2025-05-11,Completado,1430,Guzmán-Farré,Murcia,1430,Teodoro Ledesma Olmo,Diseñador
+175,638,2025-04-01,Completado,832,León-Palomares,Ávila,832,Gregorio Macías Parra,Empacador
+176,1262,2025-03-16,Completado,280,"Navas, Zaragoza and Escudero",León,280,Candela Martin Ferrán,Cortador
+177,33,2025-05-07,Completado,746,Camacho Inc,Palencia,746,Nidia Tovar,Cortador
+178,306,2024-10-07,Pendiente,1425,Rovira PLC,Albacete,1425,Jose Angel Aller,Diseñador
+179,121,2025-01-29,Completado,899,"Mariscal, Orozco and Cantero",Baleares,899,Rafael Dueñas Olmedo,Cortador
+180,1200,2024-08-27,Pendiente,757,"Sosa, Martín and Cardona",La Coruña,757,Odalis Cerdá Fiol,Confeccionista
+181,1213,2024-06-19,Pendiente,1321,Batalla-Yuste,La Coruña,1321,Bernardino Fidel Roldan Malo,Empacador
+182,985,2024-08-28,En Proceso,1071,"Carro, Vera and Beltran",Barcelona,1071,Pepito Barrio Baños,Cortador
+183,1142,2025-02-12,Completado,1199,"Giménez, Marcos and Pino",Baleares,1199,Ariadna Méndez Sanchez,Empacador
+184,481,2024-07-11,En Proceso,69,"Roselló, Piquer and Roma",Valencia,69,Goyo Godoy Cabañas,Empacador
+185,317,2024-12-31,En Proceso,1391,Cabanillas Group,Ciudad,1391,María Pilar Valverde Otero,Diseñador
+186,652,2025-06-07,Completado,796,"Borrego, Esteve and Arroyo",Almería,796,Silvia del Guerrero,Cortador
+187,1120,2024-08-19,Completado,432,Cañas LLC,Málaga,432,Francisco Pinto Andrés,Confeccionista
+188,151,2024-07-20,Pendiente,508,"Anguita, Montaña and Téllez",Valladolid,508,Judith Rosell Frías,Diseñador
+189,339,2024-09-03,En Proceso,1053,Cruz Ltd,Málaga,1053,Roldán Nogués Domingo,Supervisor
+190,672,2025-02-02,En Proceso,185,"Goicoechea, Vélez and Español",Soria,185,Tere Dolores Pol Becerra,Supervisor
+191,508,2024-10-18,En Proceso,85,"Mena, Durán and Hierro",Baleares,85,Aitor Mendez-Molina,Confeccionista
+192,1146,2025-04-02,En Proceso,915,Santos PLC,Melilla,915,Maribel de Folch,Cortador
+193,927,2025-03-05,Completado,491,Campoy-Fortuny,Salamanca,491,Candelario Gerónimo Escudero Echeverría,Supervisor
+194,376,2024-10-20,Pendiente,1476,Balaguer Group,Teruel,1476,Bonifacio Vigil,Diseñador
+195,731,2025-05-18,Pendiente,1268,"Canales, Navas and Martinez",Santa Cruz de Tenerife,1268,Teodosio Guillén Barbero,Cortador
+196,1211,2025-01-30,Completado,1401,"Heras, Robledo and Marí",Valladolid,1401,Susana García Armengol,Diseñador
+197,1442,2024-07-12,En Proceso,590,"Díaz, Manrique and Cervantes",Cádiz,590,Venceslás Javier Sanjuan Arnal,Supervisor
+198,1373,2024-08-14,Pendiente,876,"Navarrete, Lago and Castell",Cádiz,876,Encarnita Alsina Cabañas,Confeccionista
+199,794,2025-01-23,En Proceso,572,"Baena, Giralt and Garriga",Madrid,572,Lupita Melero Coronado,Empacador
+200,1276,2025-01-20,Completado,952,Ledesma-Calzada,Ávila,952,Brunilda Arnau Doménech,Empacador
+201,59,2025-01-27,Completado,948,"Giménez, Espinosa and Pablo",Lugo,948,Adela del Quirós,Diseñador
+202,1038,2025-01-09,En Proceso,837,Araujo-Reig,Barcelona,837,Visitación Aparicio,Cortador
+203,282,2024-11-06,En Proceso,1369,Barreda Group,Valencia,1369,Silvio Goicoechea Duarte,Supervisor
+204,448,2025-02-06,En Proceso,660,"Serra, Vilar and Bayón",Segovia,660,Felix Palomar-Miguel,Empacador
+205,658,2025-03-12,En Proceso,920,"Crespi, Quevedo and Castellanos",Albacete,920,Trinidad Oller Montenegro,Cortador
+206,1046,2025-01-22,Completado,700,Serna-Gelabert,Navarra,700,Teo Canet Lillo,Cortador
+207,756,2024-11-13,En Proceso,881,"Jordá, Román and Villar",Vizcaya,881,Goyo Alonso Puerta,Cortador
+208,1144,2025-04-08,En Proceso,1164,Galán-Zamorano,Baleares,1164,Adán Martinez Calleja,Empacador
+209,518,2024-12-23,En Proceso,970,Peralta-Taboada,Sevilla,970,Lourdes Cano Méndez,Empacador
+210,1332,2024-07-15,En Proceso,322,"Torrents, Gabaldón and Lloret",La Coruña,322,Lázaro Sebastián Gárate Morata,Supervisor
+211,55,2025-02-22,En Proceso,135,Morante LLC,Segovia,135,Visitación Miguel Seco,Cortador
+212,693,2024-08-12,Completado,252,Correa LLC,Toledo,252,Cornelio Pons Fábregas,Confeccionista
+213,303,2024-12-29,Pendiente,1227,"Dávila, Bermúdez and Alegre",Zaragoza,1227,Eduardo Ruano Malo,Diseñador
+214,405,2025-04-19,Pendiente,1147,Molina-Patiño,Vizcaya,1147,Che Ibán Mendez Noriega,Cortador
+215,499,2025-06-09,En Proceso,447,Torrent Group,Melilla,447,Marisol Estrada Vélez,Confeccionista
+216,308,2024-11-11,En Proceso,869,Castro LLC,Santa Cruz de Tenerife,869,Candela de Saez,Empacador
+217,994,2025-01-16,En Proceso,774,Martorell-Salcedo,Málaga,774,María Fernanda Ferrán Izquierdo,Cortador
+218,1444,2025-03-29,Completado,1086,Barrena Group,Toledo,1086,Paulina Beltrán Arribas,Supervisor
+219,331,2025-03-21,Pendiente,1159,Tomé PLC,Ciudad,1159,Francisco Jose Valentín Valls,Diseñador
+220,1247,2024-06-30,En Proceso,1387,"Neira, Pedrero and Camacho",Ourense,1387,Teo Cayetano Requena Amat,Cortador
+221,619,2025-06-11,En Proceso,829,Alegre-Casares,Teruel,829,Bruno Cal Monreal,Cortador
+222,469,2025-02-28,Pendiente,628,Morata PLC,Segovia,628,Jonatan Cuesta Asensio,Supervisor
+223,1136,2024-10-28,Pendiente,858,Coello-Cervera,Huelva,858,Fito Francisco Javier Puente Blasco,Empacador
+224,1153,2024-09-24,En Proceso,1050,Gabaldón Ltd,Zamora,1050,Ileana Viña Vera,Empacador
+225,1255,2024-10-20,Pendiente,53,Lasa-Quiroga,Ceuta,53,Melchor Tamayo Samper,Confeccionista
+226,1350,2024-09-10,Completado,1037,Rosa Inc,Barcelona,1037,Samanta Aránzazu Beltrán Sevilla,Empacador
+227,469,2025-04-13,En Proceso,448,Morata PLC,Segovia,448,Hernán Uribe Tena,Empacador
+228,748,2025-01-17,Completado,374,Diaz-Manrique,Badajoz,374,Mireia Esteban Palacios,Supervisor
+229,647,2024-10-13,Pendiente,1471,Pérez-Quintero,Ceuta,1471,Cecilio Alsina Moraleda,Diseñador
+230,1399,2024-06-28,En Proceso,213,Bartolomé Inc,Las Palmas,213,Flora Nogués Fernandez,Cortador
+231,786,2025-03-25,Completado,1034,Pla-Amigó,Cáceres,1034,Amaya Bienvenida Andrés Solsona,Cortador
+232,394,2025-02-15,En Proceso,152,"Ruano, Sanz and Bellido",Cádiz,152,Máxima Ibáñez Vázquez,Empacador
+233,1282,2024-09-24,Pendiente,269,Torrent LLC,Cáceres,269,Felix de Marco,Confeccionista
+234,81,2024-12-17,Pendiente,248,"Tirado, Paredes and Falcón",Navarra,248,Lorenzo Priego Baró,Cortador
+235,49,2025-06-09,Completado,446,Bastida Ltd,Barcelona,446,Ramón Rómulo Montenegro Torralba,Diseñador
+236,1208,2025-04-07,Pendiente,803,"Nogueira, Salgado and Barbero",Málaga,803,Montserrat Guardiola-Naranjo,Confeccionista
+237,1334,2025-05-08,En Proceso,279,Boix-Gallo,Soria,279,Ester Gargallo Bustamante,Supervisor
+238,48,2024-12-12,Pendiente,238,"Galván, Paniagua and Carreras",Guipúzcoa,238,Samanta Benavent Peiró,Supervisor
+239,865,2024-07-07,En Proceso,434,Aragón Inc,Granada,434,Imelda Miralles Roman,Diseñador
+240,764,2024-08-03,Completado,1235,Oliveras Inc,Cádiz,1235,Toribio Esteban Gonzalez Hervia,Cortador
+241,929,2025-05-04,En Proceso,1301,Bernad and Sons,Lugo,1301,Ramona Zabala Bayona,Diseñador
+242,1145,2024-09-23,Completado,1500,"Diéguez, Castells and Cánovas",Asturias,1500,Gonzalo Boada,Diseñador
+243,1078,2024-10-21,En Proceso,1320,"Rodriguez, Cuadrado and Calzada",Málaga,1320,Víctor Sastre,Confeccionista
+244,111,2025-03-29,Completado,112,Villa-Armas,Jaén,112,Geraldo Tudela Palacios,Cortador
+245,952,2024-12-25,En Proceso,567,"Garay, Artigas and Collado",Segovia,567,Heliodoro Alvarez Reig,Diseñador
+246,628,2025-04-20,Pendiente,943,Sebastián Inc,Toledo,943,Josefa Montaña,Supervisor
+247,86,2025-02-02,Pendiente,220,Sobrino LLC,Albacete,220,Débora Ibarra-Pomares,Supervisor
+248,100,2024-11-13,En Proceso,1428,Díez Ltd,Huesca,1428,Ángeles Lago Catalá,Supervisor
+249,866,2024-07-25,Completado,527,Villa PLC,Melilla,527,Odalys Guerrero Rebollo,Confeccionista
+250,536,2025-01-09,Completado,525,Amorós-Navarrete,Ourense,525,Amalia Villar Torre,Cortador
+251,784,2025-02-12,En Proceso,241,"Villegas, Gual and Sobrino",La Coruña,241,Fito Bermúdez,Diseñador
+252,1350,2024-07-11,En Proceso,1215,Rosa Inc,Barcelona,1215,Florina de Morata,Diseñador
+253,811,2024-10-16,Completado,1436,"Blanch, Gallo and Ródenas",Navarra,1436,Edgardo Jordán-Palomar,Supervisor
+254,1074,2025-03-27,Pendiente,695,Roda-Gallart,Soria,695,Baudelio Roman Estévez,Supervisor
+255,317,2024-07-02,En Proceso,1344,Cabanillas Group,Ciudad,1344,Ester Rueda Franch,Cortador
+256,3,2025-01-31,En Proceso,11,Jordán-Izquierdo,La Coruña,11,Luis Miguel Canals-Montesinos,Diseñador
+257,1080,2024-08-19,En Proceso,833,"Feijoo, Bernal and Valle",Albacete,833,Lino Manjón Pareja,Cortador
+258,899,2025-04-09,Pendiente,1385,"Gaya, Rodrigo and Uribe",Almería,1385,Albino Vicens-Amaya,Diseñador
+259,423,2024-12-10,Completado,1104,Vargas Ltd,Valladolid,1104,Hipólito Fajardo Cáceres,Empacador
+260,319,2024-08-16,Completado,626,Calvet Group,Girona,626,Jenaro Peñas Guijarro,Empacador
+261,743,2024-08-18,Pendiente,953,Angulo-Saez,Girona,953,Lorena del Moliner,Confeccionista
+262,1306,2025-03-04,En Proceso,52,Querol-Iñiguez,Cádiz,52,Marcela Lucena-Cano,Cortador
+263,585,2024-07-04,Pendiente,583,"Duarte, Cerezo and Escrivá",Lleida,583,Evelia Cal,Empacador
+264,508,2025-03-25,En Proceso,767,"Mena, Durán and Hierro",Baleares,767,Julio Cabello Valencia,Cortador
+265,1388,2024-09-01,En Proceso,751,"Carreño, Figueroa and Lago",Vizcaya,751,María José Cobo-Molins,Cortador
+266,447,2024-11-25,Pendiente,1485,Capdevila-Peláez,Navarra,1485,Chema Nevado Esteban,Diseñador
+267,1308,2025-06-01,Pendiente,1457,"Andreu, Huguet and Azcona",Girona,1457,Miguel Ramis Barragán,Empacador
+268,1473,2025-03-04,Pendiente,446,Dávila-Olivé,Guipúzcoa,446,Ramón Rómulo Montenegro Torralba,Diseñador
+269,1137,2024-08-22,Completado,1477,"Jordá, Cabeza and Palacios",Ceuta,1477,Leonardo Cosme Diaz Morante,Supervisor
+270,959,2025-05-07,Completado,589,Puig-Castrillo,Almería,589,Cayetana de Jódar,Empacador
+271,698,2024-08-10,Completado,291,"Segarra, Bernad and Morcillo",Vizcaya,291,Lupe Sans Izaguirre,Confeccionista
+272,1209,2024-07-19,Pendiente,387,Marin-Menéndez,Girona,387,Cleto de Trillo,Confeccionista
+273,1075,2024-09-11,Completado,515,Seguí-Vives,Barcelona,515,Maite Ferrández Sevillano,Supervisor
+274,314,2025-02-22,Completado,934,"Verdugo, Saura and Bonilla",Málaga,934,Fausto del Sanmartín,Supervisor
+275,501,2025-02-10,Pendiente,833,Aznar-Araujo,Cuenca,833,Lino Manjón Pareja,Cortador
+276,41,2024-08-15,Completado,330,Cuadrado-Vergara,Castellón,330,Cándido Pomares Tapia,Empacador
+277,392,2024-07-03,Pendiente,625,Vazquez-Caro,Valladolid,625,Rubén Tiburcio Matas Bravo,Cortador
+278,1482,2024-08-03,Completado,598,Valcárcel LLC,Girona,598,Danilo Aparicio Boix,Empacador
+279,376,2024-11-22,Pendiente,591,Balaguer Group,Teruel,591,Reinaldo Clavero Mora,Diseñador
+280,484,2025-03-19,Pendiente,1077,Quirós-Pinedo,Sevilla,1077,Ambrosio Barba Vidal,Diseñador
+281,1345,2024-09-14,En Proceso,253,Uribe PLC,Córdoba,253,Federico Barroso Bueno,Supervisor
+282,1377,2024-11-06,Completado,893,"Galiano, Taboada and Camacho",Baleares,893,Elena Reyes-Querol,Diseñador
+283,317,2024-06-26,Completado,1180,Cabanillas Group,Ciudad,1180,Evelia Serra Casanovas,Empacador
+284,293,2025-06-04,En Proceso,1499,Boix PLC,León,1499,Gastón del Carbó,Confeccionista
+285,907,2025-06-16,Completado,1054,Oliveras-Olivé,León,1054,Evelia de Rius,Empacador
+286,1170,2024-12-17,En Proceso,978,"Valenzuela, Arnau and Montesinos",Ávila,978,Nilda Ribes-Cadenas,Confeccionista
+287,709,2024-07-16,Completado,228,Marín-Recio,Guadalajara,228,Kike Real Moraleda,Confeccionista
+288,935,2024-07-01,Pendiente,1173,Heras and Sons,Guipúzcoa,1173,Bernarda Valls Tena,Diseñador
+289,1477,2024-11-23,Completado,420,"Manjón, Crespi and Girona",Ceuta,420,América del Estrada,Empacador
+290,113,2024-10-12,Completado,978,Amigó Inc,Valencia,978,Nilda Ribes-Cadenas,Confeccionista
+291,501,2025-03-05,En Proceso,248,Aznar-Araujo,Cuenca,248,Lorenzo Priego Baró,Cortador
+292,671,2024-10-12,Completado,662,Suárez-Avilés,Lugo,662,Georgina Ayllón Mesa,Confeccionista
+293,595,2025-03-26,Completado,718,"Gallardo, Amores and García",Cuenca,718,Pía Inmaculada Benito Ordóñez,Diseñador
+294,1173,2025-03-03,Completado,294,"Perez, Parejo and Hernández",Lugo,294,Dominga Cervera Ferrán,Confeccionista
+295,263,2025-02-09,Completado,206,Ros PLC,Zaragoza,206,Alicia Arcos Priego,Diseñador
+296,1076,2025-03-08,En Proceso,1247,Báez Group,Ávila,1247,Jordana Olalla Carrión Urrutia,Empacador
+297,242,2025-02-15,En Proceso,400,Acedo Ltd,Jaén,400,Máximo Pablo López,Diseñador
+298,857,2024-10-09,En Proceso,36,Serna-Rovira,La Rioja,36,Adriana Casas Merino,Confeccionista
+299,329,2024-09-22,En Proceso,654,"Estevez, Nadal and Coello",Sevilla,654,Vito Jiménez,Supervisor
+300,111,2024-07-30,En Proceso,596,Villa-Armas,Jaén,596,Ester Aznar Guzmán,Confeccionista
+301,530,2025-06-16,Completado,962,"Jordá, Gárate and Falcón",Pontevedra,962,Juliana Amo-Ibañez,Diseñador
+302,807,2025-03-21,Pendiente,97,Mínguez Group,Ourense,97,Moreno Flores Pulido,Diseñador
+303,56,2024-10-11,Pendiente,748,Solsona Group,Navarra,748,Jonatan Julián Garay,Diseñador
+304,700,2025-03-30,Pendiente,1053,"Maza, Avilés and Serrano",Córdoba,1053,Roldán Nogués Domingo,Supervisor
+305,1321,2025-05-14,Pendiente,805,"Pujol, Cueto and Camino",Badajoz,805,Gracia Alfaro Pedraza,Empacador
+306,1253,2025-05-21,En Proceso,933,Colom-Español,Toledo,933,Isaura Burgos Peñas,Supervisor
+307,832,2025-03-01,Pendiente,222,Pulido-Valcárcel,Córdoba,222,Ruperta de Salinas,Confeccionista
+308,33,2025-06-11,En Proceso,1489,Camacho Inc,Palencia,1489,Angelino Pedrero Barba,Supervisor
+309,1469,2025-03-28,Completado,457,"Prats, Pareja and Cabeza",Lugo,457,Augusto Barrios Garay,Supervisor
+310,702,2025-04-13,Pendiente,581,Cañizares PLC,La Rioja,581,Rosalía Iglesias Reyes,Cortador
+311,1378,2024-08-25,Pendiente,969,Reig-Benavides,Cuenca,969,Soraya Sáez Salazar,Empacador
+312,695,2025-05-20,Completado,1191,Valderrama-Parra,Valencia,1191,Tristán Crespi Pazos,Cortador
+313,1115,2024-07-21,En Proceso,782,"Navarrete, Serrano and Puig",Palencia,782,Ainoa Luz Llanos,Diseñador
+314,591,2025-01-31,En Proceso,783,Arregui-Velázquez,Huesca,783,Marc Jove,Supervisor
+315,346,2024-06-23,Completado,1407,"Berenguer, Maestre and Roda",Teruel,1407,Eligia Guzmán Abad,Diseñador
+316,273,2024-10-07,En Proceso,521,Escamilla-Olmo,Jaén,521,Teo Torre Torrijos,Empacador
+317,1105,2024-11-02,Pendiente,1477,Oliver PLC,La Rioja,1477,Leonardo Cosme Diaz Morante,Supervisor
+318,384,2025-01-26,Completado,810,Sáenz-Romero,Santa Cruz de Tenerife,810,María Cristina Bolaños Torrens,Confeccionista
+319,1326,2025-02-22,En Proceso,52,Madrid LLC,Badajoz,52,Marcela Lucena-Cano,Cortador
+320,437,2024-07-14,Completado,18,Luján-Martín,Segovia,18,Germán del Tena,Cortador
+321,133,2024-12-14,En Proceso,204,Lloret-Pareja,Teruel,204,Rolando Berrocal Ferrera,Cortador
+322,1123,2024-11-08,Pendiente,491,Garcia and Sons,Tarragona,491,Candelario Gerónimo Escudero Echeverría,Supervisor
+323,963,2024-12-28,En Proceso,775,Cobo LLC,Sevilla,775,Rufina del Alemany,Supervisor
+324,542,2025-02-08,En Proceso,623,Heras-Cánovas,Teruel,623,Javiera Carreras,Confeccionista
+325,630,2025-06-07,Completado,519,Jurado-Real,Girona,519,Rico Almansa Neira,Supervisor
+326,972,2024-09-14,Pendiente,158,Carbó-Riquelme,Melilla,158,Sebastian Bonilla Múgica,Supervisor
+327,1050,2025-02-02,En Proceso,1000,Rivera-Sandoval,Ciudad,1000,Pío Quintanilla,Confeccionista
+328,511,2024-11-17,Pendiente,801,Quintana-Llorente,Madrid,801,Celestina Vergara Ayllón,Supervisor
+329,635,2025-03-04,Completado,26,Reguera-Ureña,Salamanca,26,Graciano del Vega,Supervisor
+330,1360,2025-01-08,Completado,529,Pera-Miranda,Cáceres,529,Mónica Acuña Fortuny,Confeccionista
+331,1329,2024-12-05,Pendiente,112,Sanmartín-Clavero,Albacete,112,Geraldo Tudela Palacios,Cortador
+332,290,2025-03-13,En Proceso,42,"Sotelo, Amor and Borrego",Zaragoza,42,Danilo Pons Hernando,Confeccionista
+333,414,2025-02-03,Completado,644,Gibert and Sons,Ciudad,644,Onofre Matías Pablo Collado,Diseñador
+334,173,2025-01-27,Pendiente,1464,"Molins, Valenzuela and Núñez",Segovia,1464,María Manuela Pedrosa Prieto,Empacador
+335,1273,2025-01-02,En Proceso,834,Salcedo-Múñiz,Santa Cruz de Tenerife,834,Édgar del Ramis,Diseñador
+336,352,2024-08-05,En Proceso,425,Cañellas-Benavente,Álava,425,Renata Pedrosa-Escudero,Cortador
+337,1436,2025-02-23,En Proceso,651,Pardo-Rivera,Albacete,651,Manolo Barba-Borrás,Confeccionista
+338,165,2025-06-03,Pendiente,86,"Gabaldón, Acevedo and Clavero",Salamanca,86,Sergio Guijarro Segarra,Empacador
+339,145,2024-08-06,En Proceso,915,Atienza Group,La Coruña,915,Maribel de Folch,Cortador
+340,924,2024-07-24,Pendiente,115,Lobato-Cuéllar,Albacete,115,Onofre Chico-Feijoo,Empacador
+341,556,2024-11-23,Pendiente,455,"Comas, Anglada and Acedo",Asturias,455,Ricardo Colom Farré,Supervisor
+342,448,2025-03-24,En Proceso,95,"Serra, Vilar and Bayón",Segovia,95,Norberto Miguel Daza,Diseñador
+343,757,2024-10-12,En Proceso,942,Marcos-Pavón,La Coruña,942,Genoveva de Miguel,Cortador
+344,517,2024-09-04,Completado,1402,"Pardo, Correa and Luján",Salamanca,1402,Norberto Cortés Roig,Cortador
+345,62,2024-11-14,Completado,703,Coello and Sons,Ourense,703,Ignacio Coca-Quintanilla,Diseñador
+346,132,2025-01-16,Pendiente,1369,"Batlle, Moraleda and Valcárcel",Navarra,1369,Silvio Goicoechea Duarte,Supervisor
+347,1359,2024-09-23,Completado,442,Pina-Pareja,Tarragona,442,Fabiana de Menendez,Diseñador
+348,1337,2024-11-01,En Proceso,657,"Acosta, Parejo and Morell",Ourense,657,Nilo Ramos Vilar,Empacador
+349,642,2024-07-15,Completado,31,Castilla Group,Zamora,31,Reyes de Pastor,Supervisor
+350,1384,2025-02-13,Pendiente,797,"Saavedra, Sanabria and Medina",Cáceres,797,Calista Vazquez,Empacador
+351,1028,2025-04-13,En Proceso,640,"Gonzalo, Rey and Alcolea",Ceuta,640,Virginia Valero,Supervisor
+352,134,2024-06-22,Pendiente,376,Pont Group,Huelva,376,Bartolomé Suarez,Cortador
+353,1357,2024-10-16,Pendiente,1157,Ureña Group,León,1157,Nicolasa Amarilis Bas Pulido,Cortador
+354,1100,2025-06-04,Completado,549,Valenzuela-Oliva,Huelva,549,Sergio Salom Valdés,Confeccionista
+355,1012,2025-01-10,En Proceso,976,Marqués-Marti,Ávila,976,Joel Acevedo Bayo,Diseñador
+356,1323,2024-07-19,En Proceso,1205,"Iriarte, Páez and Cerdán",Jaén,1205,Fito Calzada,Confeccionista
+357,867,2025-06-13,Pendiente,1183,Polo Inc,Albacete,1183,Elodia Naranjo Pinto,Supervisor
+358,284,2025-03-29,Completado,173,Vilanova Group,Castellón,173,Genoveva Narváez Moraleda,Diseñador
+359,41,2025-04-21,En Proceso,1091,Cuadrado-Vergara,Castellón,1091,Hortensia José Pagès Flor,Confeccionista
+360,1465,2025-05-10,En Proceso,1003,Ros and Sons,Ourense,1003,Ricarda Sacristán Lucas,Empacador
+361,597,2024-08-20,Completado,497,"Español, Torre and Borrell",Girona,497,Isidora Royo-Hierro,Empacador
+362,401,2025-04-13,Pendiente,1479,Llobet-Diéguez,Ourense,1479,Delfina Amador López,Confeccionista
+363,571,2025-01-26,Pendiente,1346,Piquer-Ariza,Melilla,1346,Tito Cebrián Parejo Gallego,Empacador
+364,96,2024-09-12,Completado,585,Guzmán-Farré,Murcia,585,Íñigo Sanjuan Guijarro,Confeccionista
+365,1016,2025-04-07,En Proceso,1145,Gallego-Peral,Huelva,1145,Tiburcio Viña-Salamanca,Diseñador
+366,1235,2024-07-18,Pendiente,1146,"Villar, Galván and Zaragoza",Jaén,1146,Begoña Hidalgo-Galindo,Supervisor
+367,979,2025-06-10,Pendiente,557,Benítez-Alcolea,Madrid,557,Dionisia Blanca Araujo,Cortador
+368,239,2025-01-23,En Proceso,1380,"Cuevas, Serrano and Alcalde",Baleares,1380,Eloy Artigas,Diseñador
+369,759,2024-12-20,Completado,829,Ferrer-Martínez,Sevilla,829,Bruno Cal Monreal,Cortador
+370,797,2025-01-17,Completado,1089,Casal-Redondo,Guipúzcoa,1089,Jonatan Pineda Pomares,Confeccionista
+371,393,2025-04-26,En Proceso,67,Andrés Group,Girona,67,Clemente Segura Conde,Cortador
+372,241,2025-02-14,Completado,156,Aguilar and Sons,Toledo,156,Alma Pizarro Tur,Diseñador
+373,1208,2025-04-15,Pendiente,319,"Nogueira, Salgado and Barbero",Málaga,319,Florentino Becerra Nevado,Empacador
+374,594,2024-10-24,Completado,1345,Bustos Group,Granada,1345,Josué Pi-Melero,Empacador
+375,742,2025-06-05,En Proceso,529,"Garzón, Camacho and Diego",Jaén,529,Mónica Acuña Fortuny,Confeccionista
+376,1341,2024-11-09,Completado,30,Molina-Ramos,Huelva,30,Juan José Escobar Casanova,Cortador
+377,782,2025-03-16,Completado,880,Moliner-Corbacho,Huesca,880,Amílcar Barragán Gabaldón,Supervisor
+378,851,2024-08-18,Pendiente,1460,Clavero-Alcántara,Castellón,1460,Heraclio Calisto Girona Egea,Empacador
+379,198,2025-01-23,En Proceso,589,"Roma, Ocaña and Maldonado",Vizcaya,589,Cayetana de Jódar,Empacador
+380,1289,2025-03-21,Pendiente,146,"Miguel, Morillo and Calatayud",Zamora,146,Bibiana de Martín,Cortador
+381,1133,2024-09-07,En Proceso,1412,Carlos-Ojeda,Burgos,1412,Fabio Alberdi Estevez,Diseñador
+382,278,2024-11-14,En Proceso,600,"Olivares, Cabeza and Pastor",Lleida,600,Marcia Cordero Aliaga,Supervisor
+383,1481,2024-10-11,En Proceso,764,Quintero-Gelabert,Cáceres,764,Martin Castro Sarabia,Confeccionista
+384,1152,2025-03-14,En Proceso,1347,López PLC,Granada,1347,Sarita Machado Sanchez,Supervisor
+385,290,2025-03-13,Pendiente,135,"Sotelo, Amor and Borrego",Zaragoza,135,Visitación Miguel Seco,Cortador
+386,734,2025-05-29,En Proceso,1286,"Carrasco, Mariño and Lloret",Segovia,1286,Bonifacio Vilanova Bastida,Cortador
+387,1148,2024-08-18,En Proceso,918,Bustos-Llorente,Huesca,918,Godofredo Real Herrera,Cortador
+388,1456,2025-04-10,En Proceso,1438,Pacheco-Casanova,Segovia,1438,Teobaldo Beltrán Sainz,Cortador
+389,69,2025-02-25,Pendiente,482,"Seguí, Blasco and Bayo",Barcelona,482,Maite Mur Pacheco,Diseñador
+390,1072,2024-06-23,En Proceso,53,Esteban-Llorente,Salamanca,53,Melchor Tamayo Samper,Confeccionista
+391,463,2024-10-20,Completado,828,Solera-Aroca,Toledo,828,Abigaíl Salamanca Abella,Cortador
+392,474,2025-03-04,En Proceso,1258,Falcó Group,Ceuta,1258,Eutropio Valero Jordá,Diseñador
+393,227,2024-09-08,En Proceso,966,Parejo Group,Teruel,966,Herminia Sanz-Torrent,Cortador
+394,1368,2024-07-18,En Proceso,1042,Gabaldón Ltd,Segovia,1042,Octavia Gabaldón Pacheco,Supervisor
+395,1283,2025-04-11,En Proceso,130,Guerrero-Luque,Tarragona,130,María José Pagès Gisbert,Cortador
+396,613,2024-07-24,Completado,10,Garmendia Ltd,Palencia,10,Yaiza Ricart,Cortador
+397,204,2024-08-23,Pendiente,445,Agudo-Guillén,Soria,445,Pilar Acedo-Cano,Confeccionista
+398,664,2025-04-24,En Proceso,588,Padilla-Nuñez,Huelva,588,Toribio Torrent Ayala,Empacador
+399,219,2024-11-04,Pendiente,212,"Morán, Crespo and Calvo",León,212,Emperatriz Patiño Mariscal,Confeccionista
+400,1243,2024-11-10,Pendiente,114,"Jaén, Berenguer and Raya",Melilla,114,Kike Rosselló-Roig,Confeccionista
+401,327,2024-10-05,Pendiente,56,"Flores, Cañizares and Saez",Teruel,56,Gustavo Diego Dueñas,Cortador
+402,948,2024-10-22,Pendiente,399,"Tejada, Ferrer and Gisbert",Vizcaya,399,Natalio Domínguez Madrid,Diseñador
+403,1469,2025-05-20,Completado,278,"Prats, Pareja and Cabeza",Lugo,278,Charo Renata Verdejo Menendez,Empacador
+404,513,2025-01-05,Pendiente,380,"Valls, Manrique and Salom",Ourense,380,Lucio Barberá-Pérez,Empacador
+405,413,2025-02-02,Pendiente,922,Álvaro-Estévez,Alicante,922,Gil Cuadrado Marquez,Confeccionista
+406,464,2024-10-03,En Proceso,1182,Bernad-Arregui,Zaragoza,1182,Pancho Donaire Tovar,Empacador
+407,1423,2024-12-29,Pendiente,487,Font-Cabeza,Sevilla,487,Cecilia Carrera Aguirre,Confeccionista
+408,984,2024-09-09,En Proceso,580,Falcó-Fuster,Alicante,580,Alonso Crespo Simó,Confeccionista
+409,11,2025-05-03,Pendiente,478,"Leiva, Nogueira and Seguí",Ceuta,478,Nilda Sanjuan-Camacho,Cortador
+410,223,2024-10-12,En Proceso,1262,Herranz-Pedraza,Cantabria,1262,Ale Aramburu Alvarado,Empacador
+411,820,2025-06-07,Completado,1414,Prado Inc,La Coruña,1414,Julián Cecilio Cervera Sanmiguel,Empacador
+412,834,2025-06-03,En Proceso,228,Mariscal-Mayo,Soria,228,Kike Real Moraleda,Confeccionista
+413,1031,2025-06-09,En Proceso,293,"Beltran, Abellán and Izaguirre",Santa Cruz de Tenerife,293,Custodio Verdugo,Confeccionista
+414,1241,2025-05-03,En Proceso,1381,Agustín Group,Albacete,1381,María Manuela Rozas Bosch,Diseñador
+415,1378,2024-08-11,Completado,303,Reig-Benavides,Cuenca,303,Luna Ramos Román,Diseñador
+416,1028,2024-09-30,Pendiente,837,"Gonzalo, Rey and Alcolea",Ceuta,837,Visitación Aparicio,Cortador
+417,1316,2024-07-13,En Proceso,738,Bermejo LLC,Toledo,738,Dolores Prat Domingo,Confeccionista
+418,242,2024-09-06,Pendiente,67,Acedo Ltd,Jaén,67,Clemente Segura Conde,Cortador
+419,1315,2024-11-28,Pendiente,340,Pizarro-Vazquez,Navarra,340,Sabas Diez Malo,Empacador
+420,500,2025-01-17,Pendiente,1167,Riquelme Group,Huesca,1167,Jose Angel España-Tormo,Supervisor
+421,423,2024-10-02,En Proceso,476,Vargas Ltd,Valladolid,476,Cesar Díaz Peñas,Confeccionista
+422,48,2024-10-06,Completado,1472,"Galván, Paniagua and Carreras",Guipúzcoa,1472,Abril Olivera-Valdés,Diseñador
+423,576,2025-01-04,En Proceso,95,"Velasco, Vicente and Tejera",Granada,95,Norberto Miguel Daza,Diseñador
+424,1149,2024-07-09,Completado,131,"Frutos, Cordero and Yáñez",Palencia,131,Santos Cerezo,Supervisor
+425,1133,2025-06-12,En Proceso,1446,Carlos-Ojeda,Burgos,1446,Amalia Candelas Sanmiguel Abella,Diseñador
+426,372,2025-02-24,En Proceso,71,Naranjo LLC,Cádiz,71,Jonatan Luís Badía,Confeccionista
+427,647,2025-01-26,Pendiente,158,Pérez-Quintero,Ceuta,158,Sebastian Bonilla Múgica,Supervisor
+428,423,2025-03-22,Completado,457,Vargas Ltd,Valladolid,457,Augusto Barrios Garay,Supervisor
+429,687,2024-06-27,En Proceso,1129,"Navarro, Alberola and Carreño",Madrid,1129,Damián Font Casanova,Confeccionista
+430,764,2024-09-27,Completado,886,Oliveras Inc,Cádiz,886,Albert Lucas-Vendrell,Empacador
+431,1004,2024-11-04,En Proceso,1402,Almagro-Agudo,Lleida,1402,Norberto Cortés Roig,Cortador
+432,468,2024-11-21,En Proceso,140,"Guardiola, Narváez and Benet",Guadalajara,140,Leandro Ramírez-Crespi,Supervisor
+433,1310,2025-06-10,En Proceso,86,Solano-Nogueira,Córdoba,86,Sergio Guijarro Segarra,Empacador
+434,199,2025-04-22,Completado,1300,Galiano-Guitart,La Coruña,1300,Maite Puig Piña,Confeccionista
+435,1402,2025-04-15,Pendiente,166,Hervia-Martín,Sevilla,166,Iris de Barceló,Diseñador
+436,424,2024-10-13,Pendiente,1435,"Jara, Santamaria and Escamilla",Lleida,1435,Guiomar Salinas Higueras,Empacador
+437,1193,2025-02-20,Pendiente,1222,Carrillo-Río,Guipúzcoa,1222,Plácido Jódar Gonzalez,Confeccionista
+438,530,2025-04-30,Pendiente,1225,"Jordá, Gárate and Falcón",Pontevedra,1225,Felicidad Cazorla Alonso,Supervisor
+439,520,2025-03-26,Completado,980,"Bernad, Taboada and Esteve",Tarragona,980,Eligio Cristian Melero Haro,Confeccionista
+440,201,2024-11-27,Pendiente,799,Quero Ltd,Cáceres,799,Herberto Aller Suárez,Supervisor
+441,308,2024-09-27,Completado,1234,Castro LLC,Santa Cruz de Tenerife,1234,Tomasa Ester Cáceres Cárdenas,Supervisor
+442,875,2025-04-03,Pendiente,361,Barrios PLC,Cantabria,361,Omar Arnaiz-Fabra,Empacador
+443,488,2024-09-28,Pendiente,557,"Machado, Álvarez and Vizcaíno",Cáceres,557,Dionisia Blanca Araujo,Cortador
+444,562,2025-06-13,En Proceso,159,Oliver-Paz,Ciudad,159,Cecilio Arce Serna,Cortador
+445,242,2024-11-24,Pendiente,114,Acedo Ltd,Jaén,114,Kike Rosselló-Roig,Confeccionista
+446,452,2025-05-14,Pendiente,532,Giralt and Sons,Lleida,532,Maximiliano del Leiva,Diseñador
+447,106,2024-12-06,Pendiente,146,Capdevila-Rozas,Albacete,146,Bibiana de Martín,Cortador
+448,413,2024-11-01,En Proceso,119,Álvaro-Estévez,Alicante,119,Dulce Loida Rocamora Ángel,Cortador
+449,279,2024-12-27,Pendiente,820,Posada-Mancebo,Lugo,820,Tomasa Evangelina Perales Alegre,Empacador
+450,299,2024-11-03,Completado,652,Gargallo-Cerezo,Melilla,652,Wálter del Perales,Diseñador
+451,228,2025-06-01,En Proceso,1289,Castells Inc,León,1289,Tere Moya Mateos,Empacador
+452,976,2024-12-24,Pendiente,964,Guzmán-Monreal,Málaga,964,David del Córdoba,Diseñador
+453,1256,2025-01-26,Pendiente,232,Palacios LLC,Castellón,232,Tamara Estrada Clemente,Confeccionista
+454,857,2025-02-23,Pendiente,172,Serna-Rovira,La Rioja,172,Marisol Mir Pinilla,Empacador
+455,633,2024-06-26,Completado,545,Lillo-Galván,Cuenca,545,Leandro Cifuentes Luján,Cortador
+456,1011,2025-01-18,Completado,1041,Buendía Inc,Vizcaya,1041,Pepita Mercader Palacios,Confeccionista
+457,872,2025-04-07,Completado,1279,Ferrero and Sons,Álava,1279,Macario Camps Mora,Supervisor
+458,1481,2025-01-05,En Proceso,666,Quintero-Gelabert,Cáceres,666,Patricia Cámara Seco,Cortador
+459,1309,2024-08-24,Completado,404,Sierra-Benavente,Guadalajara,404,Florencia Vázquez Vilar,Empacador
+460,1025,2025-02-09,Pendiente,36,"Barrios, Canals and Arteaga",Santa Cruz de Tenerife,36,Adriana Casas Merino,Confeccionista
+461,345,2024-08-22,Completado,1319,Sanz-Cuervo,Teruel,1319,Quique Duarte Ramos,Cortador
+462,161,2025-05-14,En Proceso,1467,Barragán-Acevedo,Tarragona,1467,Piedad Pascuala Vera Gimeno,Cortador
+463,1386,2025-06-16,En Proceso,370,Goicoechea Inc,Zamora,370,Ricarda Angulo Rovira,Cortador
+464,1337,2025-01-02,Pendiente,89,"Acosta, Parejo and Morell",Ourense,89,Inocencio Gomila Figueroa,Diseñador
+465,1145,2024-12-10,En Proceso,460,"Diéguez, Castells and Cánovas",Asturias,460,Lázaro Chaparro Riquelme,Confeccionista
+466,100,2024-08-31,En Proceso,364,Díez Ltd,Huesca,364,Jordi Poncio Piña Paz,Confeccionista
+467,123,2024-10-25,Completado,181,Cuervo Group,Sevilla,181,Loida Giralt Millán,Diseñador
+468,816,2025-04-26,Pendiente,1448,Bolaños-Lasa,Ourense,1448,Lope Bravo Benavente,Cortador
+469,246,2025-04-11,Pendiente,1134,"Aparicio, Ferrández and Marcos",La Coruña,1134,Joaquina Gelabert Múgica,Diseñador
+470,901,2024-11-30,Pendiente,954,Franch LLC,Girona,954,María Belén Salas Palomo,Confeccionista
+471,209,2024-12-27,Pendiente,1163,"Pallarès, Meléndez and Salmerón",Albacete,1163,Feliciana Piquer Reguera,Empacador
+472,889,2024-07-29,En Proceso,331,"Mayo, Tapia and Belda",Almería,331,Cecilio Emiliano Beltran Martí,Empacador
+473,1102,2025-03-26,Pendiente,1304,Roura Inc,Valladolid,1304,Leoncio Jara Arnal,Diseñador
+474,1216,2025-06-08,En Proceso,644,"Campoy, Palau and Marí",Girona,644,Onofre Matías Pablo Collado,Diseñador
+475,1021,2024-07-15,En Proceso,581,Zamorano-Almansa,Zaragoza,581,Rosalía Iglesias Reyes,Cortador
+476,1266,2025-03-09,En Proceso,222,"Ruano, Andrade and Narváez",Zamora,222,Ruperta de Salinas,Confeccionista
+477,932,2025-05-12,Pendiente,878,Alcaraz-Lledó,Tarragona,878,Lucas Romero Julián,Confeccionista
+478,600,2024-09-17,En Proceso,1440,Blanco Inc,Palencia,1440,Vasco del Vila,Confeccionista
+479,1212,2024-10-26,Pendiente,387,Pombo Ltd,Cantabria,387,Cleto de Trillo,Confeccionista
+480,1027,2024-10-12,Pendiente,261,Pereira PLC,Huelva,261,Trini Muñoz Sales,Diseñador
+481,569,2025-05-26,Pendiente,1067,Carrión Ltd,Castellón,1067,Macarena Diez,Diseñador
+482,862,2025-05-29,Pendiente,1451,Morán-Albero,Murcia,1451,Diego Antón Marco,Diseñador
+483,1095,2024-07-12,Pendiente,140,Abellán Ltd,Cuenca,140,Leandro Ramírez-Crespi,Supervisor
+484,529,2024-12-17,En Proceso,1314,Arrieta PLC,Toledo,1314,Isaac Aragonés Coloma,Cortador
+485,1230,2024-10-29,En Proceso,1032,Seguí and Sons,Soria,1032,Omar Carbajo-Benito,Empacador
+486,534,2025-05-10,En Proceso,418,Gordillo Inc,Cantabria,418,Felix Soto Navarrete,Cortador
+487,587,2025-04-27,Completado,277,Carretero-Cerro,Sevilla,277,Magdalena Renata Mariño Checa,Confeccionista
+488,1308,2025-05-27,Completado,930,"Andreu, Huguet and Azcona",Girona,930,Calisto Peñalver Gallo,Empacador
+489,1420,2024-06-24,Pendiente,105,Ripoll Ltd,La Rioja,105,Imelda Leticia Amat Valderrama,Empacador
+490,1203,2025-01-12,Completado,1231,"Chamorro, Arranz and Alegria",Cuenca,1231,Juan José Galán Arcos,Empacador
+491,303,2025-04-03,Completado,1352,"Dávila, Bermúdez and Alegre",Zaragoza,1352,Atilio Sedano Aguado,Diseñador
+492,1418,2025-02-17,Completado,380,Jover-Robledo,Sevilla,380,Lucio Barberá-Pérez,Empacador
+493,606,2024-08-23,En Proceso,1327,Palomar-Barrena,Málaga,1327,Victor del Canales,Confeccionista
+494,1162,2025-02-14,Completado,244,Tapia-Fuentes,Álava,244,Guadalupe Macias-Izquierdo,Diseñador
+495,1410,2024-07-31,Completado,482,Criado-Batalla,Navarra,482,Maite Mur Pacheco,Diseñador
+496,613,2025-05-24,Pendiente,883,Garmendia Ltd,Palencia,883,Nando Vaquero-Chacón,Cortador
+497,512,2024-07-13,En Proceso,106,Gual PLC,Valencia,106,Inmaculada Peiró Llabrés,Cortador
+498,849,2024-11-13,En Proceso,1058,Gomez-Cuéllar,Huelva,1058,Charo García,Cortador
+499,779,2024-12-24,Completado,324,Vaquero and Sons,Huesca,324,Rosario de Villalba,Empacador
+500,965,2025-04-25,En Proceso,1417,Luján-Hoyos,Girona,1417,Samuel Carlos Machado,Diseñador
+501,156,2025-04-28,Pendiente,584,"Moll, Ramos and Pinilla",Málaga,584,Sigfrido Anastasio Lopez Llopis,Supervisor
+502,354,2025-01-31,Completado,416,Romeu PLC,Jaén,416,Mateo Amaya Chacón,Supervisor
+503,325,2024-11-29,Completado,926,Pol LLC,Lleida,926,Águeda del Mancebo,Supervisor
+504,1085,2024-12-09,Completado,850,"Donaire, Múgica and Solé",Ourense,850,Eliseo del Adadia,Diseñador
+505,1234,2025-03-06,En Proceso,386,Menéndez and Sons,Albacete,386,Zacarías Checa Cueto,Supervisor
+506,942,2024-06-26,Completado,1349,Cornejo Group,Guipúzcoa,1349,Edmundo Novoa Bertrán,Supervisor
+507,1442,2025-01-13,En Proceso,569,"Díaz, Manrique and Cervantes",Cádiz,569,Marcial Uría Lucas,Supervisor
+508,1148,2025-01-13,En Proceso,45,Bustos-Llorente,Huesca,45,Armando Clemente Torrents,Confeccionista
+509,78,2024-12-02,Completado,526,Ríos and Sons,Salamanca,526,Teófila Josefa Pi Pinedo,Diseñador
+510,1341,2025-01-16,Completado,842,Molina-Ramos,Huelva,842,Juan Vega Mora,Empacador
+511,448,2024-09-19,En Proceso,144,"Serra, Vilar and Bayón",Segovia,144,Goyo Amor Lara,Confeccionista
+512,1039,2025-05-03,Completado,1262,"Pont, Bertrán and Barón",Málaga,1262,Ale Aramburu Alvarado,Empacador
+513,1134,2025-05-19,Completado,527,Hervia-Benitez,Alicante,527,Odalys Guerrero Rebollo,Confeccionista
+514,467,2024-12-16,Completado,1333,"Calatayud, Cases and Bilbao",Asturias,1333,Íñigo Sarmiento Almagro,Diseñador
+515,561,2024-08-01,Pendiente,422,Peral-Martín,Alicante,422,Plácido Ribas-Piquer,Supervisor
+516,1340,2025-06-11,Pendiente,1132,Castells Group,Soria,1132,Emma Guijarro-Ojeda,Supervisor
+517,847,2024-06-24,Pendiente,939,Núñez Ltd,Valladolid,939,Curro Cirino Escolano Ibáñez,Supervisor
+518,691,2025-02-22,En Proceso,707,Diez Inc,Córdoba,707,Guadalupe Pereira Revilla,Supervisor
+519,202,2024-11-13,En Proceso,961,Canet Inc,Huesca,961,Ale Evita Torrijos Téllez,Supervisor
+520,526,2025-03-11,En Proceso,119,Muro-Santiago,León,119,Dulce Loida Rocamora Ángel,Cortador
+521,158,2024-09-30,Completado,1327,"Carro, Rincón and Manzano",Asturias,1327,Victor del Canales,Confeccionista
+522,390,2024-07-14,Completado,892,Palma-Jara,Toledo,892,Nacio del Hervia,Confeccionista
+523,785,2025-03-25,En Proceso,258,Chaves-Aller,Tarragona,258,Fernando Poza,Confeccionista
+524,1260,2024-12-25,Pendiente,57,Taboada Group,Navarra,57,Donato Fabregat Vilalta,Confeccionista
+525,1155,2024-10-27,En Proceso,898,"Miralles, Paz and Garrido",Badajoz,898,Aránzazu Camacho Ferrero,Supervisor
+526,938,2024-11-07,En Proceso,907,Batlle-Esteve,Córdoba,907,Genoveva Buendía Pinto,Diseñador
+527,866,2025-05-03,Pendiente,1260,Villa PLC,Melilla,1260,Segismundo Gras Solsona,Confeccionista
+528,322,2025-02-10,En Proceso,63,Elías Group,Ciudad,63,Germán Ceferino Lerma Mercader,Cortador
+529,1335,2025-05-07,Pendiente,937,"Agustí, Guillén and Vallés",Murcia,937,Candelas Evangelina Agullo Maza,Confeccionista
+530,114,2024-10-28,Completado,1039,"Falcó, Amores and Valenzuela",Lugo,1039,Ana Belén Lloret Dominguez,Empacador
+531,1028,2025-02-16,Completado,1147,"Gonzalo, Rey and Alcolea",Ceuta,1147,Che Ibán Mendez Noriega,Cortador
+532,485,2025-02-10,Completado,522,"Cózar, Viana and Uribe",Valencia,522,Celso de Camacho,Supervisor
+533,899,2024-07-27,Completado,208,"Gaya, Rodrigo and Uribe",Almería,208,Gerónimo de Tudela,Empacador
+534,893,2025-04-01,Completado,102,Rey-Casals,La Coruña,102,Jose Miguel Fuertes-Galán,Cortador
+535,1464,2024-07-24,Completado,1165,"Marín, Caro and Barroso",Barcelona,1165,Onofre Cabello,Empacador
+536,1383,2025-04-05,En Proceso,286,Cordero-Atienza,Navarra,286,Blanca Falcó Villar,Cortador
+537,848,2025-02-08,En Proceso,1248,Mas Group,Huelva,1248,Albano Vilanova-Lerma,Cortador
+538,1077,2024-10-16,En Proceso,49,Monreal-Landa,Ceuta,49,Begoña de Villena,Supervisor
+539,755,2025-05-14,Pendiente,796,Camacho LLC,Cáceres,796,Silvia del Guerrero,Cortador
+540,1364,2024-10-18,Completado,955,Alberto-Benet,León,955,Fortunato Rosselló Pérez,Empacador
+541,583,2025-01-05,En Proceso,639,Carrera Inc,Cádiz,639,Marcial Muñoz Toro,Empacador
+542,744,2025-02-21,En Proceso,8,Rius Inc,Baleares,8,Modesta Vera Melero,Confeccionista
+543,1290,2025-05-21,Pendiente,1076,Ferreras Group,Ceuta,1076,Cosme Pozuelo Agustín,Cortador
+544,806,2025-04-07,Pendiente,695,Piñol-Tovar,Almería,695,Baudelio Roman Estévez,Supervisor
+545,5,2025-06-09,Completado,1492,Galván PLC,Zaragoza,1492,Belen Pareja Jover,Confeccionista
+546,631,2024-10-09,Completado,298,"Cid, Ferrero and Saura",Zaragoza,298,Sancho Taboada Vazquez,Empacador
+547,682,2024-09-25,Completado,1479,"Benito, Pedrosa and Pedrero",Barcelona,1479,Delfina Amador López,Confeccionista
+548,133,2024-08-26,Pendiente,1155,Lloret-Pareja,Teruel,1155,María José Azcona Briones,Supervisor
+549,480,2024-12-15,Pendiente,1349,"Carretero, Gibert and Guitart",Segovia,1349,Edmundo Novoa Bertrán,Supervisor
+550,1337,2024-10-26,En Proceso,1479,"Acosta, Parejo and Morell",Ourense,1479,Delfina Amador López,Confeccionista
+551,1081,2025-01-28,Completado,1301,Valentín LLC,Barcelona,1301,Ramona Zabala Bayona,Diseñador
+552,499,2025-04-21,Pendiente,453,Torrent Group,Melilla,453,Leocadia del Goicoechea,Diseñador
+553,175,2024-12-15,Completado,418,"Carro, Navarrete and Francisco",Málaga,418,Felix Soto Navarrete,Cortador
+554,328,2025-05-23,Pendiente,1006,Fajardo Ltd,Almería,1006,Severino Bosch-Morillo,Supervisor
+555,438,2024-10-31,Pendiente,1177,Guillén-Bernat,Sevilla,1177,Geraldo Rozas Riba,Supervisor
+556,809,2025-05-03,Pendiente,1245,"Galván, Bosch and Almazán",La Rioja,1245,Felicia Valero Yuste,Confeccionista
+557,235,2025-04-15,Completado,477,Romero Inc,Ceuta,477,Eusebia Duran Tomas,Cortador
+558,1453,2024-09-21,En Proceso,1480,Lopez-Bayona,Soria,1480,Luis Ángel Santiago Sola Terrón,Diseñador
+559,309,2024-12-31,Completado,179,Galván LLC,Melilla,179,Anunciación Torrijos Gras,Empacador
+560,1497,2024-12-06,En Proceso,1091,Alcaraz PLC,Alicante,1091,Hortensia José Pagès Flor,Confeccionista
+561,527,2024-11-20,En Proceso,431,Silva-Téllez,Ávila,431,Telmo Aparicio Quesada,Cortador
+562,426,2024-09-24,Pendiente,108,Campo-Borrell,Valladolid,108,Fabián Barbero-Uriarte,Cortador
+563,109,2025-02-02,En Proceso,1210,"Toro, Vidal and Chaves",Cádiz,1210,Diana Sarabia-Sacristán,Supervisor
+564,79,2025-04-11,Pendiente,115,Puga-Pinto,León,115,Onofre Chico-Feijoo,Empacador
+565,73,2025-01-16,En Proceso,982,Cañizares-Luís,Barcelona,982,Leyre de Piñeiro,Supervisor
+566,132,2024-07-02,Completado,81,"Batlle, Moraleda and Valcárcel",Navarra,81,Reyes Riba Peñalver,Diseñador
+567,1480,2024-11-06,Pendiente,27,"Segarra, Pareja and Madrid",Burgos,27,Toño Figuerola Cabo,Diseñador
+568,778,2024-11-24,En Proceso,611,Fiol and Sons,Zaragoza,611,Micaela Batlle Gordillo,Supervisor
+569,403,2025-01-25,Pendiente,953,Reguera Inc,Santa Cruz de Tenerife,953,Lorena del Moliner,Confeccionista
+570,839,2025-03-27,Pendiente,779,"García, Bru and Domínguez",Valladolid,779,Antonia Paniagua-Benavent,Diseñador
+571,465,2025-02-17,Pendiente,426,Márquez-Dávila,Asturias,426,Hermenegildo Hoz,Cortador
+572,69,2024-07-31,Completado,555,"Seguí, Blasco and Bayo",Barcelona,555,Nuria Graciela Goicoechea Montserrat,Cortador
+573,818,2025-03-24,Pendiente,234,"Gracia, Ballester and Boix",Segovia,234,Rosaura Peña Vara,Cortador
+574,6,2025-05-20,Completado,993,Conesa PLC,Guipúzcoa,993,Paco Ferrera Galán,Supervisor
+575,419,2024-11-24,Completado,1093,"Haro, Castañeda and Aller",Murcia,1093,Artemio Posada,Supervisor
+576,1487,2024-12-22,Pendiente,717,"Valenciano, Carpio and Marcos",Baleares,717,Bartolomé Peláez Valle,Supervisor
+577,805,2024-09-13,Pendiente,730,Cañellas-Cuevas,Navarra,730,Ruben Pablo,Supervisor
+578,243,2024-11-12,Completado,359,"Alcolea, Bellido and Polo",Guadalajara,359,Reyna Ruano Ros,Confeccionista
+579,1145,2024-08-21,Completado,1033,"Diéguez, Castells and Cánovas",Asturias,1033,Eugenia Paniagua Bárcena,Empacador
+580,1213,2025-04-13,Completado,1056,Batalla-Yuste,La Coruña,1056,Lucas Toro,Confeccionista
+581,966,2024-09-22,Completado,1386,Menendez-Perelló,Cádiz,1386,Visitación Mayol Alberola,Cortador
+582,665,2025-01-02,Completado,193,Serrano LLC,Castellón,193,Pepita Godoy Vera,Supervisor
+583,56,2024-11-15,Completado,1392,Solsona Group,Navarra,1392,Laura Escrivá Miró,Confeccionista
+584,1320,2025-04-04,En Proceso,1108,Canet PLC,Baleares,1108,Eligia Arjona Chacón,Empacador
+585,1130,2024-12-04,Completado,1036,"Ramirez, Chacón and Casares",Soria,1036,Fabricio de Figueras,Supervisor
+586,1418,2025-03-22,Completado,176,Jover-Robledo,Sevilla,176,Zaira Angulo Vilar,Confeccionista
+587,713,2024-12-10,Pendiente,729,"Figueras, Beltran and Nieto",Albacete,729,Anunciación Luís Carbó,Supervisor
+588,1426,2024-11-04,En Proceso,52,Tejero Ltd,Palencia,52,Marcela Lucena-Cano,Cortador
+589,44,2025-04-13,Completado,179,Ibañez-Ariño,Zamora,179,Anunciación Torrijos Gras,Empacador
+590,247,2025-03-21,En Proceso,1356,"Tomé, Bejarano and Barrera",Cáceres,1356,Amada Mayo Codina,Cortador
+591,983,2025-01-13,Pendiente,242,Pedro-Casado,Navarra,242,Virginia Fernández Cal,Diseñador
+592,199,2025-03-25,Completado,1454,Galiano-Guitart,La Coruña,1454,Visitación Alvarado Tomé,Supervisor
+593,868,2025-03-13,Completado,1311,"Ortega, Cadenas and Morán",Huesca,1311,Teo Castillo Urrutia,Empacador
+594,137,2024-10-05,Pendiente,539,"Mancebo, Ariza and Egea",Valladolid,539,Aureliano Navarrete Belmonte,Diseñador
+595,471,2024-10-03,En Proceso,961,Doménech LLC,Lugo,961,Ale Evita Torrijos Téllez,Supervisor
+596,232,2025-02-20,En Proceso,163,Mosquera-Durán,Las Palmas,163,Aura Coloma Catalán,Diseñador
+597,548,2024-07-27,Completado,560,"Seguí, Abad and Alberto",Melilla,560,Leonel Domínguez Puente,Diseñador
+598,145,2025-04-12,Completado,283,Atienza Group,La Coruña,283,Amor Rovira-Gras,Cortador
+599,681,2024-06-21,En Proceso,775,Girona-Cruz,Vizcaya,775,Rufina del Alemany,Supervisor
+600,919,2024-06-24,Pendiente,773,Tena-Bayón,Málaga,773,Magdalena Arco Rosselló,Confeccionista
+601,954,2024-12-03,Pendiente,1266,"Lluch, Rocamora and Yuste",Jaén,1266,Roque Pallarès,Supervisor
+602,238,2025-05-23,En Proceso,73,Mateu-Gracia,Albacete,73,Lucas Rodríguez Molins,Confeccionista
+603,96,2025-01-10,Completado,466,Guzmán-Farré,Murcia,466,Óscar Galán Maza,Empacador
+604,669,2024-10-03,En Proceso,341,Franch LLC,Melilla,341,Nereida Campillo-Ramírez,Diseñador
+605,620,2024-06-24,En Proceso,236,Boada LLC,Granada,236,María Cristina Rincón Vilaplana,Supervisor
+606,1211,2024-09-03,Pendiente,1431,"Heras, Robledo and Marí",Valladolid,1431,Dora Lladó Villena,Supervisor
+607,717,2025-04-17,En Proceso,1152,"Arévalo, Arregui and Calderón",Girona,1152,Germán Muro-Calderon,Supervisor
+608,1129,2025-05-30,Completado,1317,"Tur, Aguilar and Tamayo",Ciudad,1317,Fulgencio de Cobos,Cortador
+609,1011,2024-08-02,Completado,686,Buendía Inc,Vizcaya,686,Hipólito Beltrán-Andrade,Diseñador
+610,1403,2025-03-15,Pendiente,898,Sanabria Group,Huesca,898,Aránzazu Camacho Ferrero,Supervisor
+611,464,2024-10-20,Completado,913,Bernad-Arregui,Zaragoza,913,Luisa Lina Tomé Zamorano,Confeccionista
+612,1182,2025-05-03,En Proceso,610,Viñas Group,Valencia,610,Agapito Juliá Lozano,Diseñador
+613,466,2024-12-06,Pendiente,937,Arias PLC,Guadalajara,937,Candelas Evangelina Agullo Maza,Confeccionista
+614,260,2024-12-21,Completado,281,Milla-Plaza,Málaga,281,Arcelia Casares,Supervisor
+615,543,2024-07-30,Pendiente,111,"González, Manzano and Vallejo",Salamanca,111,Leocadia Luisina Ferrero Galán,Diseñador
+616,1123,2024-07-08,En Proceso,798,Garcia and Sons,Tarragona,798,Édgar de Cortina,Cortador
+617,922,2025-06-05,En Proceso,177,"Porta, Roman and Vilalta",La Rioja,177,Bernardino Heriberto Arévalo Arregui,Confeccionista
+618,526,2024-11-26,Completado,1234,Muro-Santiago,León,1234,Tomasa Ester Cáceres Cárdenas,Supervisor
+619,462,2024-12-08,Completado,1273,Isern-Rueda,Valencia,1273,Narcisa Seco Cantón,Supervisor
+620,942,2024-09-24,En Proceso,833,Cornejo Group,Guipúzcoa,833,Lino Manjón Pareja,Cortador
+621,56,2025-01-27,En Proceso,663,Solsona Group,Navarra,663,Ezequiel Josep Alemán Busquets,Cortador
+622,1396,2025-03-14,En Proceso,966,Grau Group,Granada,966,Herminia Sanz-Torrent,Cortador
+623,505,2025-05-10,Completado,250,"Samper, Briones and Casares",Cádiz,250,Nerea Vergara Coloma,Empacador
+624,953,2025-03-09,Completado,529,Hervás Inc,Madrid,529,Mónica Acuña Fortuny,Confeccionista
+625,426,2025-05-03,Completado,777,Campo-Borrell,Valladolid,777,Aristides de Carballo,Supervisor
+626,1268,2024-06-21,Completado,631,Grau Group,Lugo,631,Adán Córdoba Mateos,Diseñador
+627,73,2025-05-25,En Proceso,427,Cañizares-Luís,Barcelona,427,Quirino Valentín Real,Diseñador
+628,112,2025-04-21,Pendiente,1338,Arcos LLC,Las Palmas,1338,Elisabet Coronado Bou,Diseñador
+629,868,2025-02-16,En Proceso,489,"Ortega, Cadenas and Morán",Huesca,489,Silvestre Polo Hoyos,Confeccionista
+630,544,2025-03-08,En Proceso,1043,Lobato and Sons,Alicante,1043,Adalberto Cobo Valenzuela,Supervisor
+631,1484,2025-04-15,En Proceso,906,"Benavente, Calderon and Pol",Toledo,906,Clotilde Carro Azorin,Supervisor
+632,270,2024-11-10,En Proceso,117,Campillo-Alberdi,Granada,117,Paca del Valenciano,Empacador
+633,440,2024-07-07,Completado,1043,"Sandoval, Sarmiento and Lledó",Zamora,1043,Adalberto Cobo Valenzuela,Supervisor
+634,405,2025-05-09,En Proceso,1308,Molina-Patiño,Vizcaya,1308,Flor Ferreras Herrera,Confeccionista
+635,1497,2024-10-09,Pendiente,1055,Alcaraz PLC,Alicante,1055,Viviana España Ballesteros,Diseñador
+636,7,2024-07-27,Pendiente,555,Rodríguez Ltd,Cádiz,555,Nuria Graciela Goicoechea Montserrat,Cortador
+637,991,2025-02-02,Completado,358,Solera and Sons,La Rioja,358,Asunción Bellido-Sola,Supervisor
+638,944,2024-09-20,Pendiente,708,Roselló Group,Cáceres,708,Arcelia Giralt-Nogués,Cortador
+639,656,2024-12-20,Pendiente,1468,"Agustín, Codina and Arranz",Toledo,1468,Reyna Ros Guitart,Confeccionista
+640,675,2024-07-30,Pendiente,672,"Roldán, Becerra and Castells",Huelva,672,Belen Daza-Esparza,Confeccionista
+641,1220,2025-01-04,Completado,468,Fajardo-Coello,Vizcaya,468,Hernán Morante Esteve,Supervisor
+642,741,2024-07-21,Pendiente,816,"Castejón, Solé and Atienza",Melilla,816,Nereida Lara Miranda,Empacador
+643,67,2025-02-23,Completado,1082,Falcó Ltd,Navarra,1082,Casandra Antonia Parejo Fernandez,Cortador
+644,75,2025-02-02,En Proceso,1087,Mata Group,Alicante,1087,Lino Cabo-Saez,Confeccionista
+645,871,2024-09-05,Pendiente,921,"Planas, Berenguer and Rodriguez",Badajoz,921,Aureliano Moreno Garmendia,Supervisor
+646,749,2025-01-17,Pendiente,1464,Barón-Palmer,Las Palmas,1464,María Manuela Pedrosa Prieto,Empacador
+647,1339,2025-02-16,En Proceso,376,"Comas, Miró and Soto",Málaga,376,Bartolomé Suarez,Cortador
+648,164,2024-06-24,Completado,980,Solana Ltd,La Rioja,980,Eligio Cristian Melero Haro,Confeccionista
+649,863,2024-08-27,Pendiente,1114,Caballero LLC,Barcelona,1114,Sandra Orozco,Cortador
+650,1149,2024-06-22,En Proceso,1496,"Frutos, Cordero and Yáñez",Palencia,1496,Corona Quero Lluch,Empacador
+651,1460,2024-12-02,Completado,1057,Lloret-Roma,Valencia,1057,Felisa Álamo Vergara,Empacador
+652,779,2024-08-22,Pendiente,413,Vaquero and Sons,Huesca,413,Gerónimo Julián Ángel Guerrero,Supervisor
+653,697,2024-11-08,Completado,968,Ramírez-Collado,Zamora,968,Ignacia Pallarès Alvarez,Confeccionista
+654,862,2024-09-23,En Proceso,257,Morán-Albero,Murcia,257,Zoraida Pacheco Agustín,Cortador
+655,988,2025-05-16,Pendiente,101,Barón and Sons,La Coruña,101,Jesús Oliveras Mendoza,Diseñador
+656,295,2024-10-07,Completado,1250,Guerrero Ltd,Ávila,1250,Arsenio Ortega,Diseñador
+657,1386,2025-03-04,En Proceso,1272,Goicoechea Inc,Zamora,1272,Rosario José Pino Osorio,Confeccionista
+658,591,2024-12-02,Completado,293,Arregui-Velázquez,Huesca,293,Custodio Verdugo,Confeccionista
+659,605,2024-07-12,Pendiente,249,Gallardo LLC,Soria,249,Anna Cal Marín,Cortador
+660,984,2025-03-08,En Proceso,824,Falcó-Fuster,Alicante,824,Angelino Lino Juan Cabezas,Supervisor
+661,809,2024-10-24,Completado,130,"Galván, Bosch and Almazán",La Rioja,130,María José Pagès Gisbert,Cortador
+662,951,2025-02-22,Completado,676,"Mesa, Taboada and Mariño",Barcelona,676,Teobaldo Bernal Palacios,Cortador
+663,599,2024-08-06,Pendiente,104,Alcázar Group,Huelva,104,Heriberto Rómulo Martínez Huguet,Diseñador
+664,839,2025-02-04,En Proceso,241,"García, Bru and Domínguez",Valladolid,241,Fito Bermúdez,Diseñador
+665,1393,2024-11-21,Completado,76,"Castells, Rivas and Espada",Almería,76,Renato Pino Gálvez,Empacador
+666,1197,2024-06-29,Pendiente,703,"Noriega, Valcárcel and Rosselló",Ceuta,703,Ignacio Coca-Quintanilla,Diseñador
+667,390,2024-09-22,En Proceso,708,Palma-Jara,Toledo,708,Arcelia Giralt-Nogués,Cortador
+668,1449,2024-06-24,Pendiente,720,"Miguel, Laguna and Vilanova",Lugo,720,Bonifacio de Bernat,Empacador
+669,1352,2024-09-11,Completado,570,Salamanca-Sarmiento,Ourense,570,Nereida Benavente Ferrández,Empacador
+670,790,2025-02-14,Completado,552,Puerta Ltd,Guadalajara,552,Adelaida Vives-Nadal,Diseñador
+671,266,2025-02-19,Completado,855,Linares-Arnal,Ávila,855,Emilio Maxi Espinosa Dueñas,Cortador
+672,799,2025-03-22,Pendiente,190,Daza PLC,Cáceres,190,Carmelita Ortiz Páez,Empacador
+673,897,2025-06-09,Pendiente,1049,Solé Group,Palencia,1049,Azeneth Ballesteros-Galvez,Diseñador
+674,74,2024-07-15,Pendiente,897,Nogueira-Cabeza,Ávila,897,Eufemia del Melero,Supervisor
+675,1081,2024-12-12,Pendiente,1289,Valentín LLC,Barcelona,1289,Tere Moya Mateos,Empacador
+676,1499,2024-08-21,Completado,534,Vilanova-Serrano,Badajoz,534,Rico del Sanz,Supervisor
+677,668,2024-09-08,Pendiente,212,Melero Inc,Lugo,212,Emperatriz Patiño Mariscal,Confeccionista
+678,58,2025-05-28,Pendiente,564,Beltran-Arce,Salamanca,564,Marcela Vicens Martínez,Confeccionista
+679,1204,2024-12-01,Pendiente,1254,Verdugo-Dueñas,Las Palmas,1254,Eligia Pavón Mayoral,Cortador
+680,646,2025-02-17,Completado,877,Sevilla PLC,Lleida,877,Cloe Giménez Azcona,Confeccionista
+681,936,2025-02-05,Pendiente,347,"Verdugo, Paredes and Sevillano",Lugo,347,Mercedes Sobrino Fuente,Empacador
+682,1338,2025-05-03,Completado,858,Franco-Briones,Cáceres,858,Fito Francisco Javier Puente Blasco,Empacador
+683,1212,2024-12-09,Pendiente,30,Pombo Ltd,Cantabria,30,Juan José Escobar Casanova,Cortador
+684,1316,2024-11-22,Completado,1347,Bermejo LLC,Toledo,1347,Sarita Machado Sanchez,Supervisor
+685,1308,2024-08-08,Completado,613,"Andreu, Huguet and Azcona",Girona,613,Timoteo Salinas Uriarte,Diseñador
+686,1353,2024-11-10,Completado,445,Palomares-Rocamora,Cádiz,445,Pilar Acedo-Cano,Confeccionista
+687,1192,2025-05-12,En Proceso,368,Cueto-Seco,Burgos,368,Ciríaco Benítez-Coello,Cortador
+688,946,2024-08-05,Completado,1247,"Zurita, Baena and Arenas",Vizcaya,1247,Jordana Olalla Carrión Urrutia,Empacador
+689,718,2024-12-09,Completado,13,"Puente, Verdú and Murillo",Ciudad,13,Amador Clavero-Llorens,Empacador
+690,266,2024-11-11,Pendiente,1326,Linares-Arnal,Ávila,1326,Francisco Javier del Sevillano,Supervisor
+691,68,2025-06-03,Completado,677,Palacios PLC,Lleida,677,Olivia Alfaro Lobato,Empacador
+692,1254,2024-07-17,En Proceso,385,Carvajal-Serra,Baleares,385,Marcial Clavero Juárez,Supervisor
+693,977,2025-06-06,En Proceso,370,"Abascal, Bustamante and Carlos",Girona,370,Ricarda Angulo Rovira,Cortador
+694,793,2025-01-10,Pendiente,274,Andrade-Rovira,Guipúzcoa,274,Salud Loida Nieto Arana,Diseñador
+695,1263,2025-01-15,Completado,540,Corominas-Rojas,Valencia,540,Sigfrido Arranz Conde,Supervisor
+696,1311,2024-06-30,Completado,199,Cerezo Ltd,Barcelona,199,Gracia Teófila Elorza Noguera,Supervisor
+697,1173,2024-12-10,Completado,893,"Perez, Parejo and Hernández",Lugo,893,Elena Reyes-Querol,Diseñador
+698,774,2025-05-29,En Proceso,1485,Rius-Tejedor,Pontevedra,1485,Chema Nevado Esteban,Diseñador
+699,506,2024-08-27,En Proceso,1477,"Llamas, Egea and Camacho",Sevilla,1477,Leonardo Cosme Diaz Morante,Supervisor
+700,1276,2024-07-28,Pendiente,154,Ledesma-Calzada,Ávila,154,Joaquín Mata-Hervia,Cortador
+701,306,2024-06-25,En Proceso,59,Rovira PLC,Albacete,59,Ágata Carbonell Pol,Empacador
+702,101,2024-12-31,Pendiente,384,Pina LLC,Barcelona,384,Laura Arregui Goicoechea,Confeccionista
+703,485,2024-08-05,Pendiente,299,"Cózar, Viana and Uribe",Valencia,299,Anunciación Martin Sales,Cortador
+704,132,2024-10-15,Completado,492,"Batlle, Moraleda and Valcárcel",Navarra,492,Chita del Jódar,Diseñador
+705,215,2024-08-24,Completado,1237,"Alcántara, Prats and Canals",La Coruña,1237,Marino Adán-Piquer,Empacador
+706,692,2024-10-07,Pendiente,883,"Carpio, Peña and Larrañaga",Almería,883,Nando Vaquero-Chacón,Cortador
+707,329,2024-10-17,En Proceso,908,"Estevez, Nadal and Coello",Sevilla,908,Ismael de Menéndez,Empacador
+708,831,2024-10-03,En Proceso,798,Farré Ltd,La Rioja,798,Édgar de Cortina,Cortador
+709,474,2025-02-21,Completado,1144,Falcó Group,Ceuta,1144,Xiomara Adelaida Segarra Rosado,Supervisor
+710,1103,2024-10-01,En Proceso,1328,Seco and Sons,Barcelona,1328,Abraham Sabater Niño,Confeccionista
+711,154,2024-12-04,Pendiente,894,"Santamaría, Juliá and Barón",Navarra,894,Íñigo Borja,Diseñador
+712,262,2024-11-03,En Proceso,2,Sevillano Inc,Santa Cruz de Tenerife,2,Horacio del Jover,Supervisor
+713,76,2024-10-20,Completado,1389,Durán-Artigas,Ceuta,1389,Maura Aliaga Catalá,Empacador
+714,329,2024-12-26,Completado,1029,"Estevez, Nadal and Coello",Sevilla,1029,Aroa Barrera Lucas,Confeccionista
+715,1069,2025-05-01,En Proceso,264,Porcel-Busquets,Barcelona,264,Esteban Guzman Galiano,Supervisor
+716,890,2025-05-22,Pendiente,1012,Cuervo Inc,Madrid,1012,Zacarías Andres,Confeccionista
+717,1394,2024-08-08,En Proceso,793,Fabregat Group,Teruel,793,Olimpia Ramírez Rebollo,Supervisor
+718,1343,2024-08-15,En Proceso,950,Pablo Ltd,Zaragoza,950,Zaida Arregui Cortina,Supervisor
+719,1223,2024-06-21,En Proceso,1237,Higueras Group,Palencia,1237,Marino Adán-Piquer,Empacador
+720,717,2025-01-17,Completado,546,"Arévalo, Arregui and Calderón",Girona,546,Nazaret Valero Toro,Cortador
+721,1172,2025-04-13,En Proceso,1268,"Mínguez, Sánchez and Mínguez",Cantabria,1268,Teodosio Guillén Barbero,Cortador
+722,934,2025-01-03,Completado,299,Lopez and Sons,Lugo,299,Anunciación Martin Sales,Cortador
+723,40,2024-10-13,En Proceso,867,Paniagua PLC,Granada,867,Tatiana Perera Benavides,Diseñador
+724,250,2024-09-21,En Proceso,900,Murcia PLC,Córdoba,900,Amado Vigil Leal,Empacador
+725,528,2024-11-08,Pendiente,1179,"Piñeiro, Zorrilla and Osuna",Valladolid,1179,Adoración Pol Alegria,Empacador
+726,864,2025-05-04,Pendiente,637,"Carrera, Cámara and Nicolau",Valladolid,637,Vinicio Nicolau Cabañas,Cortador
+727,640,2024-07-28,En Proceso,1462,"Acosta, Catalán and Valdés",Cáceres,1462,Consuela Lobato Caballero,Diseñador
+728,1473,2024-12-16,Completado,1129,Dávila-Olivé,Guipúzcoa,1129,Damián Font Casanova,Confeccionista
+729,1251,2024-08-18,Pendiente,1235,Bustos Group,Vizcaya,1235,Toribio Esteban Gonzalez Hervia,Cortador
+730,1329,2025-05-07,Completado,354,Sanmartín-Clavero,Albacete,354,Humberto Galvez-Romeu,Confeccionista
+731,12,2024-11-16,En Proceso,160,Guardiola-Rodriguez,León,160,Vasco Calvet Meléndez,Diseñador
+732,117,2024-07-25,Pendiente,601,Fortuny-Zaragoza,Tarragona,601,Enrique Carranza Baquero,Supervisor
+733,1250,2025-03-22,En Proceso,712,"Ayala, Zabaleta and Tejero",Murcia,712,Francisco Javier Guzman Lorenzo,Cortador
+734,1346,2024-07-25,Completado,913,Ramis Ltd,Ourense,913,Luisa Lina Tomé Zamorano,Confeccionista
+735,793,2025-05-16,Pendiente,975,Andrade-Rovira,Guipúzcoa,975,Caridad Manuel-Daza,Diseñador
+736,403,2025-04-20,En Proceso,616,Reguera Inc,Santa Cruz de Tenerife,616,Edu Salcedo Mir,Cortador
+737,110,2024-09-20,En Proceso,291,"Pedro, Pinedo and Villar",Huesca,291,Lupe Sans Izaguirre,Confeccionista
+738,237,2025-01-04,En Proceso,555,Trillo and Sons,Teruel,555,Nuria Graciela Goicoechea Montserrat,Cortador
+739,285,2025-04-14,En Proceso,47,Vizcaíno and Sons,Cádiz,47,Mamen Blanca Narváez,Supervisor
+740,1327,2024-08-23,Pendiente,587,Luna-Amorós,Ourense,587,Piedad Cárdenas Ortiz,Diseñador
+741,547,2024-07-14,En Proceso,284,Vélez-Morell,Toledo,284,Ricarda Adán Poza,Empacador
+742,638,2025-02-16,En Proceso,815,León-Palomares,Ávila,815,Juan Francisco de Baena,Supervisor
+743,589,2024-09-06,Completado,268,Pineda-Rodrigo,Pontevedra,268,Tristán Sevilla Alegria,Cortador
+744,1095,2024-10-18,Pendiente,1443,Abellán Ltd,Cuenca,1443,Jaime Perelló Valderrama,Confeccionista
+745,202,2025-04-04,En Proceso,1308,Canet Inc,Huesca,1308,Flor Ferreras Herrera,Confeccionista
+746,24,2024-10-30,Completado,673,"Colomer, Escrivá and Alberto",Toledo,673,Verónica Sala Lucas,Cortador
+747,1352,2024-09-19,Pendiente,376,Salamanca-Sarmiento,Ourense,376,Bartolomé Suarez,Cortador
+748,379,2024-09-29,Pendiente,210,Valverde LLC,Girona,210,Adelia Casals Ropero,Supervisor
+749,731,2024-08-23,Pendiente,650,"Canales, Navas and Martinez",Santa Cruz de Tenerife,650,Ruperto Aragonés-Palacios,Supervisor
+750,706,2025-03-19,Pendiente,1386,Garcés-Llobet,Barcelona,1386,Visitación Mayol Alberola,Cortador
+751,980,2025-01-04,Completado,720,"Chamorro, Escudero and Sainz",Badajoz,720,Bonifacio de Bernat,Empacador
+752,589,2025-03-29,En Proceso,232,Pineda-Rodrigo,Pontevedra,232,Tamara Estrada Clemente,Confeccionista
+753,1409,2025-05-19,Pendiente,408,Cuevas LLC,Zaragoza,408,Francisca Simó Gallardo,Cortador
+754,291,2024-07-25,Pendiente,257,"Cabo, García and Peláez",Castellón,257,Zoraida Pacheco Agustín,Cortador
+755,1065,2024-07-04,Pendiente,1405,"Ayala, Zabaleta and Andrade",Sevilla,1405,Sonia Ariel Álvaro Iglesia,Diseñador
+756,282,2025-02-13,Completado,931,Barreda Group,Valencia,931,Aroa Galvez Llorens,Diseñador
+757,786,2024-07-17,En Proceso,1274,Pla-Amigó,Cáceres,1274,Severiano Dueñas,Empacador
+758,1180,2024-06-19,Pendiente,1394,"Granados, Godoy and Sanmiguel",Cáceres,1394,Adelardo del Zaragoza,Confeccionista
+759,146,2024-06-30,En Proceso,289,Amaya PLC,León,289,Iván Talavera Rosa,Empacador
+760,881,2024-09-30,Completado,659,"Elorza, Maestre and Aguiló",La Coruña,659,Dionisia Vicens,Diseñador
+761,939,2025-03-18,En Proceso,762,"Espada, Querol and Donoso",Almería,762,Jordán Carretero,Empacador
+762,1040,2025-03-30,Completado,1343,Alarcón-Granados,Huesca,1343,Julia Cerezo Bilbao,Confeccionista
+763,637,2025-03-12,Completado,417,Fajardo Inc,Madrid,417,Merche Sans Luís,Confeccionista
+764,1076,2025-03-30,En Proceso,440,Báez Group,Ávila,440,Samuel Germán Tomé Avilés,Cortador
+765,808,2025-03-09,Completado,498,Bernat Inc,Segovia,498,Custodia Aramburu Priego,Empacador
+766,311,2024-07-05,Completado,560,Aroca PLC,Jaén,560,Leonel Domínguez Puente,Diseñador
+767,717,2025-05-12,Completado,1348,"Arévalo, Arregui and Calderón",Girona,1348,Almudena Corona Narváez Baeza,Confeccionista
+768,868,2025-06-02,Completado,402,"Ortega, Cadenas and Morán",Huesca,402,Ibán Bilbao Montenegro,Empacador
+769,1321,2024-10-07,En Proceso,635,"Pujol, Cueto and Camino",Badajoz,635,Manu Fajardo Jaén,Empacador
+770,551,2025-02-10,Pendiente,747,Trillo Group,Toledo,747,Juana Manjón Santiago,Empacador
+771,1178,2024-10-18,Completado,372,Moreno PLC,Córdoba,372,Poncio Cuervo Mayo,Empacador
+772,611,2025-06-09,En Proceso,392,Vilar and Sons,Álava,392,Eleuterio Cordero Jurado,Empacador
+773,699,2024-06-25,En Proceso,1017,"Blanch, Benavent and Cañas",Ciudad,1017,Felicia Paz-Llabrés,Empacador
+774,1090,2025-01-19,En Proceso,1419,Arrieta-Chaves,Girona,1419,Azahara del Pacheco,Confeccionista
+775,160,2024-10-03,Pendiente,1108,Jaume LLC,Salamanca,1108,Eligia Arjona Chacón,Empacador
+776,1064,2024-10-29,En Proceso,1297,Ballester-Duque,Ávila,1297,David Lumbreras-Román,Cortador
+777,253,2024-11-21,Pendiente,1437,Ruano-Artigas,Ávila,1437,Amelia Jurado Andreu,Empacador
+778,161,2025-06-06,Completado,1184,Barragán-Acevedo,Tarragona,1184,Gloria Rueda Peláez,Supervisor
+779,895,2024-10-16,Pendiente,830,"Olivera, Andreu and Arco",Cuenca,830,Juan Bautista Nuñez Albero,Diseñador
+780,1041,2025-01-23,En Proceso,1040,Capdevila Inc,Palencia,1040,Máxima de Zabaleta,Supervisor
+781,465,2025-04-29,Completado,1038,Márquez-Dávila,Asturias,1038,Haydée Vilar-Cantero,Empacador
+782,350,2025-05-01,Completado,1064,Sanz and Sons,Teruel,1064,Baldomero del Morillo,Cortador
+783,346,2024-08-22,En Proceso,353,"Berenguer, Maestre and Roda",Teruel,353,Rico Remigio Camino Abella,Supervisor
+784,1162,2025-05-08,Pendiente,1466,Tapia-Fuentes,Álava,1466,Imelda Aramburu Saavedra,Confeccionista
+785,1096,2025-03-03,En Proceso,1373,"Sala, Guerra and Pol",Salamanca,1373,Iván Escudero-Guillén,Empacador
+786,846,2025-03-08,Pendiente,1458,Peñalver PLC,Baleares,1458,Nydia Exposito Llano,Supervisor
+787,418,2024-07-13,En Proceso,1439,Rios and Sons,León,1439,Mireia del Villena,Confeccionista
+788,101,2024-11-21,Completado,807,Pina LLC,Barcelona,807,Hugo Crespi Méndez,Cortador
+789,844,2024-11-11,En Proceso,575,González-Carlos,Toledo,575,Modesto Macias González,Cortador
+790,33,2024-07-28,En Proceso,670,Camacho Inc,Palencia,670,Manu Moles Gargallo,Cortador
+791,400,2024-07-15,Pendiente,934,"Gabaldón, Moll and Cases",Tarragona,934,Fausto del Sanmartín,Supervisor
+792,1094,2025-02-12,En Proceso,572,"Tormo, Marin and Saavedra",Ourense,572,Lupita Melero Coronado,Empacador
+793,1470,2024-06-28,Completado,1029,Cases-Leiva,Vizcaya,1029,Aroa Barrera Lucas,Confeccionista
+794,853,2024-10-09,Pendiente,411,Bravo Group,Toledo,411,Jenaro Navas Ávila,Diseñador
+795,332,2025-03-22,En Proceso,850,"Frías, Arregui and Vergara",Zaragoza,850,Eliseo del Adadia,Diseñador
+796,329,2024-07-13,Pendiente,833,"Estevez, Nadal and Coello",Sevilla,833,Lino Manjón Pareja,Cortador
+797,44,2025-04-19,Pendiente,881,Ibañez-Ariño,Zamora,881,Goyo Alonso Puerta,Cortador
+798,849,2024-07-01,Pendiente,1124,Gomez-Cuéllar,Huelva,1124,Georgina Cid Díez,Supervisor
+799,857,2024-07-12,Pendiente,1238,Serna-Rovira,La Rioja,1238,Felisa del Sanjuan,Confeccionista
+800,149,2025-01-08,Completado,331,Abad-Soria,Ourense,331,Cecilio Emiliano Beltran Martí,Empacador
+801,432,2024-12-21,Completado,7,"Gargallo, Vives and Cobos",Badajoz,7,Eligia Diaz Cabezas,Confeccionista
+802,1368,2024-11-29,Pendiente,920,Gabaldón Ltd,Segovia,920,Trinidad Oller Montenegro,Cortador
+803,751,2025-02-14,Pendiente,1153,Vizcaíno Inc,Asturias,1153,Santos Valderrama Román,Confeccionista
+804,530,2024-09-25,En Proceso,1396,"Jordá, Gárate and Falcón",Pontevedra,1396,Cristina Baena,Supervisor
+805,781,2025-04-01,Pendiente,150,Andreu-Morante,Palencia,150,Pío Epifanio Villalba Amador,Diseñador
+806,85,2025-05-24,Pendiente,1141,Andrade PLC,Guadalajara,1141,Dionisia Uribe Marco,Supervisor
+807,1216,2024-08-15,En Proceso,1393,"Campoy, Palau and Marí",Girona,1393,Carmen Jódar Melero,Cortador
+808,622,2025-05-03,Pendiente,1462,Ballesteros-Linares,Zaragoza,1462,Consuela Lobato Caballero,Diseñador
+809,977,2025-02-11,En Proceso,1361,"Abascal, Bustamante and Carlos",Girona,1361,Conrado Espiridión Bastida Gras,Supervisor
+810,844,2025-02-03,Completado,302,González-Carlos,Toledo,302,Artemio Canet Arellano,Supervisor
+811,975,2025-02-03,Completado,428,Arregui and Sons,Lugo,428,Fortunato Gutierrez-Lloret,Supervisor
+812,303,2025-05-22,Completado,1037,"Dávila, Bermúdez and Alegre",Zaragoza,1037,Samanta Aránzazu Beltrán Sevilla,Empacador
+813,1221,2024-09-05,Pendiente,1251,"Sola, Fuente and Tomé",Asturias,1251,Azeneth Galvez Ocaña,Diseñador
+814,661,2024-12-09,Completado,220,"Gonzalo, Sanchez and Peinado",Huesca,220,Débora Ibarra-Pomares,Supervisor
+815,1478,2025-03-13,Completado,214,"Sales, Palomar and Casas",Castellón,214,Onofre del Canals,Supervisor
+816,836,2024-12-30,En Proceso,752,"Tenorio, Pablo and Múñiz",Granada,752,Amaro Cazorla Alemán,Supervisor
+817,375,2025-05-20,En Proceso,1486,"Dominguez, Ruiz and Bauzà",Melilla,1486,Marcia Pereira Rosell,Empacador
+818,665,2025-06-17,Completado,140,Serrano LLC,Castellón,140,Leandro Ramírez-Crespi,Supervisor
+819,721,2024-08-10,En Proceso,343,"Belmonte, Vilalta and Cobo",Navarra,343,Rafaela Moya Bravo,Empacador
+820,631,2024-09-30,En Proceso,521,"Cid, Ferrero and Saura",Zaragoza,521,Teo Torre Torrijos,Empacador
+821,974,2025-05-21,Pendiente,681,Bauzà Inc,Castellón,681,Marisela Moles Alemán,Diseñador
+822,590,2024-10-22,En Proceso,166,Bertrán Group,La Coruña,166,Iris de Barceló,Diseñador
+823,965,2024-11-29,En Proceso,221,Luján-Hoyos,Girona,221,Norberto Valenzuela Benavides,Empacador
+824,171,2024-08-23,Completado,1445,Castro-Cases,Madrid,1445,Nazario Porta Mascaró,Cortador
+825,43,2024-12-10,En Proceso,1023,Abril Group,Ceuta,1023,Camila Cornejo Bernat,Cortador
+826,861,2025-06-01,Pendiente,659,Fortuny and Sons,Málaga,659,Dionisia Vicens,Diseñador
+827,244,2024-06-30,Pendiente,1325,Verdejo PLC,Huesca,1325,Ariadna Gallo Villegas,Confeccionista
+828,900,2024-09-16,Completado,614,Carranza LLC,Cuenca,614,Hortensia Sancho-Ledesma,Confeccionista
+829,1184,2025-02-07,Completado,1117,"Mendoza, Haro and Losada",Alicante,1117,Camilo Ródenas Ródenas,Diseñador
+830,1333,2024-11-13,Completado,321,Casanovas Group,Ávila,321,José María Arellano Soria,Confeccionista
+831,93,2025-05-08,Pendiente,211,"Chaparro, Cañizares and Naranjo",Castellón,211,Abigaíl Juárez,Empacador
+832,253,2024-10-03,En Proceso,155,Ruano-Artigas,Ávila,155,Abigaíl de Pozo,Confeccionista
+833,263,2025-01-28,Completado,50,Ros PLC,Zaragoza,50,Lupita Cabezas Rubio,Diseñador
+834,64,2025-03-07,Pendiente,1461,"Goñi, Aguiló and Guerrero",Guadalajara,1461,Custodio Mancebo Baños,Cortador
+835,1271,2024-07-05,En Proceso,939,Contreras-Vicens,Valencia,939,Curro Cirino Escolano Ibáñez,Supervisor
+836,472,2024-09-12,En Proceso,533,"Rozas, Barón and Feliu",Melilla,533,Francisco Jose Jiménez-Calatayud,Confeccionista
+837,1065,2024-10-09,Pendiente,1321,"Ayala, Zabaleta and Andrade",Sevilla,1321,Bernardino Fidel Roldan Malo,Empacador
+838,839,2024-07-11,Pendiente,228,"García, Bru and Domínguez",Valladolid,228,Kike Real Moraleda,Confeccionista
+839,170,2024-10-13,En Proceso,299,Patiño-Zamorano,Albacete,299,Anunciación Martin Sales,Cortador
+840,1485,2025-03-15,Completado,459,Vélez PLC,Badajoz,459,Roque Hugo Cadenas Alsina,Diseñador
+841,605,2025-02-04,Pendiente,256,Gallardo LLC,Soria,256,Nerea Aguiló Reina,Diseñador
+842,1486,2024-07-09,Completado,870,"Priego, Simó and Gonzalez",Salamanca,870,Laura Quero Calatayud,Empacador
+843,789,2024-09-11,En Proceso,231,Hidalgo-Solera,Cádiz,231,Filomena Baños Roda,Empacador
+844,394,2024-12-21,En Proceso,971,"Ruano, Sanz and Bellido",Cádiz,971,Mayte Bayón Coll,Diseñador
+845,276,2024-10-13,Completado,1319,Santamaria-Ponce,Girona,1319,Quique Duarte Ramos,Cortador
+846,20,2024-12-31,En Proceso,215,Bernat and Sons,Girona,215,Duilio Cisneros,Empacador
+847,1380,2024-11-11,Pendiente,1173,"Galván, Maza and Cobo",Córdoba,1173,Bernarda Valls Tena,Diseñador
+848,158,2025-02-16,Completado,190,"Carro, Rincón and Manzano",Asturias,190,Carmelita Ortiz Páez,Empacador
+849,295,2025-06-05,Pendiente,83,Guerrero Ltd,Ávila,83,Pancho Huerta Parra,Empacador
+850,941,2024-11-18,En Proceso,1042,"Palmer, Quintero and Salamanca",Girona,1042,Octavia Gabaldón Pacheco,Supervisor
+851,1357,2024-06-17,Completado,1416,Ureña Group,León,1416,Modesto del Falcón,Cortador
+852,1297,2025-01-29,Completado,677,"Cid, Cerro and Prado",Ceuta,677,Olivia Alfaro Lobato,Empacador
+853,539,2024-09-17,Pendiente,87,Arévalo Group,Sevilla,87,Ágata Marqués,Diseñador
+854,1009,2024-10-30,Pendiente,1171,"Izaguirre, Mur and Coello",Navarra,1171,Josefina Neira Parejo,Supervisor
+855,405,2024-09-09,En Proceso,527,Molina-Patiño,Vizcaya,527,Odalys Guerrero Rebollo,Confeccionista
+856,1287,2025-03-14,En Proceso,446,Aparicio PLC,Valencia,446,Ramón Rómulo Montenegro Torralba,Diseñador
+857,738,2024-11-25,Pendiente,260,"Arellano, Ochoa and Carro",Toledo,260,Débora de Pino,Confeccionista
+858,183,2024-07-25,Completado,920,"Lillo, Pintor and Romeu",Burgos,920,Trinidad Oller Montenegro,Cortador
+859,792,2024-12-10,En Proceso,1161,Calleja PLC,Álava,1161,Rubén Hoz,Supervisor
+860,1138,2024-09-23,En Proceso,753,"Valle, Coll and Cabello",Álava,753,Nereida Carrión Vallés,Diseñador
+861,221,2024-08-25,Completado,194,Gaya LLC,Guipúzcoa,194,Serafina Zabala,Cortador
+862,329,2025-03-28,En Proceso,1120,"Estevez, Nadal and Coello",Sevilla,1120,Inmaculada Oliva,Confeccionista
+863,10,2025-05-05,Pendiente,455,Cuadrado-Marti,Lleida,455,Ricardo Colom Farré,Supervisor
+864,895,2024-10-18,Completado,649,"Olivera, Andreu and Arco",Cuenca,649,Guiomar Arribas-Bellido,Empacador
+865,906,2025-01-06,En Proceso,429,"Carreño, Pardo and Farré",Barcelona,429,Petrona de Llanos,Empacador
+866,63,2025-05-12,En Proceso,1259,Esteve-Figueras,Las Palmas,1259,Teresa Dolores Chamorro Solé,Empacador
+867,656,2024-12-07,En Proceso,113,"Agustín, Codina and Arranz",Toledo,113,Clímaco de Anaya,Empacador
+868,1091,2024-12-27,Completado,638,"Vaquero, Saez and Neira",Murcia,638,Eulalia Vidal Mulet,Cortador
+869,1136,2024-09-30,Completado,1379,Coello-Cervera,Huelva,1379,Rodolfo Barreda Barceló,Diseñador
+870,1287,2025-02-09,En Proceso,253,Aparicio PLC,Valencia,253,Federico Barroso Bueno,Supervisor
+871,639,2024-06-19,Pendiente,667,Espinosa Inc,Valladolid,667,Ruben Guzmán Barrio,Empacador
+872,1287,2025-01-01,En Proceso,1428,Aparicio PLC,Valencia,1428,Ángeles Lago Catalá,Supervisor
+873,734,2024-07-02,En Proceso,1319,"Carrasco, Mariño and Lloret",Segovia,1319,Quique Duarte Ramos,Cortador
+874,664,2025-04-30,Completado,1027,Padilla-Nuñez,Huelva,1027,Renata Cabrera Castells,Cortador
+875,400,2025-01-10,Pendiente,670,"Gabaldón, Moll and Cases",Tarragona,670,Manu Moles Gargallo,Cortador
+876,915,2025-01-13,Completado,337,Elías-Marin,Málaga,337,Anabel Goicoechea-Arnaiz,Empacador
+877,1201,2024-12-16,En Proceso,1376,Castilla-Ugarte,Lleida,1376,Carlito Herberto Nadal Alegre,Supervisor
+878,1163,2024-08-13,Completado,450,Amigó Ltd,Asturias,450,Alma Viña-Romeu,Cortador
+879,476,2025-02-09,Completado,27,Iglesia Group,Pontevedra,27,Toño Figuerola Cabo,Diseñador
+880,1135,2024-12-13,En Proceso,152,Céspedes LLC,Ourense,152,Máxima Ibáñez Vázquez,Empacador
+881,407,2025-05-06,Pendiente,335,Royo-Llano,Murcia,335,Amado Vicente Arce,Confeccionista
+882,1148,2024-12-01,Pendiente,941,Bustos-Llorente,Huesca,941,Anacleto de Losa,Diseñador
+883,1063,2024-12-11,Pendiente,1474,Gracia-Manzano,Vizcaya,1474,Paco Conde-Olivares,Cortador
+884,1250,2024-12-05,Pendiente,111,"Ayala, Zabaleta and Tejero",Murcia,111,Leocadia Luisina Ferrero Galán,Diseñador
+885,981,2025-02-12,Completado,96,Esparza-Montaña,Granada,96,Ciro Somoza Llorente,Supervisor
+886,805,2024-12-16,Completado,40,Cañellas-Cuevas,Navarra,40,Cristian Andrés Mesa Fortuny,Empacador
+887,927,2024-07-03,Completado,603,Campoy-Fortuny,Salamanca,603,Eva María Otero,Supervisor
+888,1085,2025-03-16,Pendiente,582,"Donaire, Múgica and Solé",Ourense,582,Salomón Francisco Jose Ribera Calderon,Supervisor
+889,1441,2024-09-28,Completado,1238,Cases-Araujo,Vizcaya,1238,Felisa del Sanjuan,Confeccionista
+890,1084,2025-02-27,Completado,1245,Guerrero and Sons,Valencia,1245,Felicia Valero Yuste,Confeccionista
+891,1373,2024-09-24,Completado,312,"Navarrete, Lago and Castell",Cádiz,312,Victorino Madrid Pereira,Diseñador
+892,626,2025-04-09,En Proceso,400,Iglesia and Sons,Guadalajara,400,Máximo Pablo López,Diseñador
+893,1173,2024-11-12,Pendiente,251,"Perez, Parejo and Hernández",Lugo,251,Plinio Mosquera Carnero,Confeccionista
+894,1143,2025-03-10,Completado,1331,Alsina-Albero,Sevilla,1331,Luis Ángel Agudo Fuente,Confeccionista
+895,501,2024-07-13,Pendiente,590,Aznar-Araujo,Cuenca,590,Venceslás Javier Sanjuan Arnal,Supervisor
+896,1407,2025-01-27,Pendiente,883,Azorin-Diego,La Rioja,883,Nando Vaquero-Chacón,Cortador
+897,396,2025-03-15,En Proceso,633,Castell PLC,Melilla,633,Mario Jáuregui Tejada,Cortador
+898,1354,2025-05-02,Completado,247,Rocha PLC,Castellón,247,Camilo Segismundo Garcia Goicoechea,Confeccionista
+899,505,2024-10-11,Completado,1027,"Samper, Briones and Casares",Cádiz,1027,Renata Cabrera Castells,Cortador
+900,1231,2024-12-13,Pendiente,145,Sobrino-Manuel,Barcelona,145,Íngrid Jaén Agustín,Empacador
+901,429,2025-04-08,Completado,1453,Luque Inc,Jaén,1453,Fernando Manrique Canales,Diseñador
+902,242,2025-04-06,Completado,35,Acedo Ltd,Jaén,35,Rocío Ródenas Elías,Empacador
+903,676,2025-01-06,Completado,1170,"Bolaños, Murillo and Román",Valladolid,1170,Gloria Cervera Pizarro,Cortador
+904,1365,2024-08-08,Pendiente,531,"Cantero, Daza and Salas",Huesca,531,Haydée Ochoa Bueno,Diseñador
+905,847,2025-03-17,En Proceso,1147,Núñez Ltd,Valladolid,1147,Che Ibán Mendez Noriega,Cortador
+906,454,2024-06-29,Completado,952,Bru-Rosa,Asturias,952,Brunilda Arnau Doménech,Empacador
+907,672,2024-06-23,Pendiente,656,"Goicoechea, Vélez and Español",Soria,656,Guiomar Sacristán Riba,Cortador
+908,763,2024-11-21,Pendiente,1236,Infante-Sebastián,Almería,1236,Virgilio Diego Arce Bernat,Supervisor
+909,273,2024-10-30,En Proceso,121,Escamilla-Olmo,Jaén,121,Isabel Contreras Noriega,Cortador
+910,35,2025-03-21,Completado,1282,Sans and Sons,Lugo,1282,Soraya Aliaga Cuervo,Cortador
+911,1174,2025-04-03,Pendiente,1251,Camps PLC,Cáceres,1251,Azeneth Galvez Ocaña,Diseñador
+912,631,2024-12-09,Pendiente,115,"Cid, Ferrero and Saura",Zaragoza,115,Onofre Chico-Feijoo,Empacador
+913,843,2024-12-10,Pendiente,1155,"Zabaleta, Larrea and Sureda",Cuenca,1155,María José Azcona Briones,Supervisor
+914,171,2024-07-25,En Proceso,2,Castro-Cases,Madrid,2,Horacio del Jover,Supervisor
+915,1163,2024-07-05,Completado,1356,Amigó Ltd,Asturias,1356,Amada Mayo Codina,Cortador
+916,417,2024-10-23,En Proceso,245,"Bonet, Palmer and Rodríguez",Zamora,245,Bernardita Garcia,Cortador
+917,1456,2025-01-01,Pendiente,173,Pacheco-Casanova,Segovia,173,Genoveva Narváez Moraleda,Diseñador
+918,879,2025-03-19,Pendiente,44,Duran PLC,Granada,44,Ovidio Ríos Cárdenas,Supervisor
+919,598,2024-07-03,En Proceso,1141,Suarez-Pedrosa,Málaga,1141,Dionisia Uribe Marco,Supervisor
+920,437,2024-11-08,Completado,174,Luján-Martín,Segovia,174,Severiano Ovidio Santiago Viña,Supervisor
+921,721,2025-01-19,Pendiente,416,"Belmonte, Vilalta and Cobo",Navarra,416,Mateo Amaya Chacón,Supervisor
+922,1331,2025-01-17,Pendiente,546,"Echevarría, Quirós and Daza",Girona,546,Nazaret Valero Toro,Cortador
+923,871,2025-03-29,Completado,1241,"Planas, Berenguer and Rodriguez",Badajoz,1241,Ruy Salcedo Luna,Empacador
+924,1153,2024-08-03,Pendiente,1265,Gabaldón Ltd,Zamora,1265,Marta Sola-Pulido,Diseñador
+925,834,2024-09-25,Completado,479,Mariscal-Mayo,Soria,479,Lalo Linares Palacios,Diseñador
+926,1001,2025-01-13,Completado,1025,Duarte and Sons,Zamora,1025,Ámbar Velázquez Robles,Cortador
+927,1263,2024-09-14,Completado,287,Corominas-Rojas,Valencia,287,Felipa Tur,Supervisor
+928,345,2025-03-14,En Proceso,1232,Sanz-Cuervo,Teruel,1232,Pascuala Aragonés Fonseca,Empacador
+929,264,2024-09-26,En Proceso,11,Herrera-Perelló,Jaén,11,Luis Miguel Canals-Montesinos,Diseñador
+930,657,2025-05-25,Completado,1321,"Carrera, Marin and Ramirez",Teruel,1321,Bernardino Fidel Roldan Malo,Empacador
+931,1298,2024-08-30,Pendiente,1440,"Vall, Tapia and Valdés",Toledo,1440,Vasco del Vila,Confeccionista
+932,70,2024-12-30,Completado,901,Nevado-Hervia,Valladolid,901,Ruth Lobato,Confeccionista
+933,197,2025-01-09,En Proceso,964,Jimenez LLC,Zaragoza,964,David del Córdoba,Diseñador
+934,628,2024-12-27,En Proceso,416,Sebastián Inc,Toledo,416,Mateo Amaya Chacón,Supervisor
+935,857,2025-02-17,En Proceso,1229,Serna-Rovira,La Rioja,1229,Isa Almazán Díaz,Cortador
+936,709,2024-09-23,En Proceso,1488,Marín-Recio,Guadalajara,1488,Cesar Cabrero Gargallo,Diseñador
+937,850,2024-08-20,Completado,1421,"Sarmiento, Jover and Álamo",Zamora,1421,Marisol Sotelo Montenegro,Diseñador
+938,1017,2024-11-13,Completado,30,Villalba-Orozco,Castellón,30,Juan José Escobar Casanova,Cortador
+939,786,2024-08-04,Pendiente,659,Pla-Amigó,Cáceres,659,Dionisia Vicens,Diseñador
+940,1434,2024-12-22,Completado,558,Gelabert-Ibañez,Teruel,558,Chelo Pinilla Font,Confeccionista
+941,707,2025-05-26,Completado,283,Duarte-Leal,Burgos,283,Amor Rovira-Gras,Cortador
+942,988,2024-10-15,En Proceso,1117,Barón and Sons,La Coruña,1117,Camilo Ródenas Ródenas,Diseñador
+943,828,2024-07-30,Completado,1062,"Escolano, Álamo and Farré",Jaén,1062,Dionisia Padilla Juliá,Empacador
+944,1202,2025-06-01,En Proceso,142,"Tamayo, Arranz and Galan",Ciudad,142,Ariadna Arellano Porras,Confeccionista
+945,777,2024-08-02,En Proceso,11,Ortega-Morales,Melilla,11,Luis Miguel Canals-Montesinos,Diseñador
+946,715,2025-03-14,Pendiente,793,"Yáñez, Zorrilla and Bernat",Badajoz,793,Olimpia Ramírez Rebollo,Supervisor
+947,1341,2024-07-11,Completado,302,Molina-Ramos,Huelva,302,Artemio Canet Arellano,Supervisor
+948,268,2025-01-16,Completado,838,"Arnal, Ayllón and Baró",Cáceres,838,Felicidad Sanz Vicens,Cortador
+949,1035,2024-11-24,Completado,520,Caro Inc,Asturias,520,Alondra Navarrete Ayllón,Cortador
+950,919,2024-08-27,En Proceso,1080,Tena-Bayón,Málaga,1080,Aureliano Simó Martinez,Empacador
+951,77,2025-01-02,Completado,1014,Peñalver LLC,Alicante,1014,Amada Salinas Cuéllar,Cortador
+952,1489,2025-05-28,En Proceso,100,"Gomez, Aragonés and Gimenez",Valladolid,100,Gabriel Víctor Esteve Diaz,Cortador
+953,71,2024-07-14,Pendiente,1334,Gomis-Echevarría,Cuenca,1334,Ascensión Concepción Yuste Quintero,Supervisor
+954,973,2024-09-06,Pendiente,1388,"Mosquera, Macias and Piñeiro",Vizcaya,1388,María Fernanda Andrade-Gallardo,Cortador
+955,734,2025-02-21,Completado,1464,"Carrasco, Mariño and Lloret",Segovia,1464,María Manuela Pedrosa Prieto,Empacador
+956,1379,2025-01-21,Completado,694,"Fabregat, Exposito and Noriega",Navarra,694,Benita Cobos Segarra,Empacador
+957,214,2025-06-08,En Proceso,37,"Aller, Velázquez and Solé",Cuenca,37,Anabel Armida Haro Lopez,Cortador
+958,1163,2024-07-09,Pendiente,339,Amigó Ltd,Asturias,339,Felicia Santamaría-Falcó,Supervisor
+959,1370,2024-06-21,Completado,1168,Raya-Amigó,Melilla,1168,Belén Báez Comas,Diseñador
+960,825,2025-05-27,En Proceso,1121,Coll-Caballero,Teruel,1121,Fidela Pallarès Hernandez,Cortador
+961,1089,2024-08-01,Completado,787,Alcaraz-Arranz,Ciudad,787,Lourdes Barragán Moraleda,Supervisor
+962,1056,2025-05-17,Completado,29,"Figuerola, Egea and Castilla",Melilla,29,Nuria Gomila-Infante,Supervisor
+963,572,2025-05-15,Completado,376,Pintor PLC,Valencia,376,Bartolomé Suarez,Cortador
+964,926,2025-05-14,Pendiente,531,"Vara, Reyes and Fuster",Vizcaya,531,Haydée Ochoa Bueno,Diseñador
+965,1452,2024-12-09,Pendiente,952,Benito-Múñiz,Segovia,952,Brunilda Arnau Doménech,Empacador
+966,984,2025-05-14,En Proceso,835,Falcó-Fuster,Alicante,835,Guiomar Alvarado,Empacador
+967,330,2025-06-07,Pendiente,1460,Capdevila Group,Lleida,1460,Heraclio Calisto Girona Egea,Empacador
+968,1183,2024-08-14,En Proceso,606,"Martínez, Barroso and Canales",Toledo,606,Rubén Carrasco Gracia,Confeccionista
+969,285,2024-08-07,Pendiente,957,Vizcaíno and Sons,Cádiz,957,Manu Santana Hidalgo,Diseñador
+970,531,2025-02-27,Pendiente,1354,"Anguita, Palacio and Palomo",Madrid,1354,Jordán Olmedo Ledesma,Cortador
+971,479,2025-02-12,En Proceso,618,Agullo-Arco,Cáceres,618,Máxima Arce Oliva,Cortador
+972,1426,2025-04-28,Pendiente,475,Tejero Ltd,Palencia,475,Estefanía Hoz Martín,Diseñador
+973,1439,2025-04-05,En Proceso,1222,Jove-Salinas,Lleida,1222,Plácido Jódar Gonzalez,Confeccionista
+974,743,2024-08-12,Completado,408,Angulo-Saez,Girona,408,Francisca Simó Gallardo,Cortador
+975,843,2025-04-25,Completado,475,"Zabaleta, Larrea and Sureda",Cuenca,475,Estefanía Hoz Martín,Diseñador
+976,162,2024-11-02,Completado,1062,Riquelme-Cabeza,Ciudad,1062,Dionisia Padilla Juliá,Empacador
+977,506,2024-06-19,Completado,307,"Llamas, Egea and Camacho",Sevilla,307,Martin Nilo Montserrat Avilés,Cortador
+978,299,2025-02-28,Completado,700,Gargallo-Cerezo,Melilla,700,Teo Canet Lillo,Cortador
+979,505,2024-10-01,En Proceso,737,"Samper, Briones and Casares",Cádiz,737,Chita Losada Sainz,Cortador
+980,1279,2025-03-26,En Proceso,738,Hernandez-Aguiló,Zaragoza,738,Dolores Prat Domingo,Confeccionista
+981,837,2025-05-01,Completado,899,Elías LLC,Córdoba,899,Rafael Dueñas Olmedo,Cortador
+982,613,2025-05-24,En Proceso,1193,Garmendia Ltd,Palencia,1193,Nazaret Zapata Torrent,Confeccionista
+983,1355,2025-05-12,Completado,23,Sotelo-Benet,Vizcaya,23,Patricio Barón Arribas,Cortador
+984,1275,2025-02-04,Pendiente,454,Reyes LLC,Córdoba,454,Candelaria Miguel-Muro,Diseñador
+985,820,2025-04-09,Completado,290,Prado Inc,La Coruña,290,Roberta Gómez Salvador,Cortador
+986,428,2024-09-03,En Proceso,659,"Tejero, Cabrera and Albero",Girona,659,Dionisia Vicens,Diseñador
+987,979,2025-04-02,En Proceso,1042,Benítez-Alcolea,Madrid,1042,Octavia Gabaldón Pacheco,Supervisor
+988,397,2024-10-21,En Proceso,489,Reguera Group,Burgos,489,Silvestre Polo Hoyos,Confeccionista
+989,583,2024-09-19,En Proceso,162,Carrera Inc,Cádiz,162,Abril Echeverría Cerdá,Empacador
+990,1219,2024-09-07,Pendiente,74,"Torre, Perera and Jerez",Albacete,74,Lalo Cervantes Aragón,Cortador
+991,1411,2025-02-03,En Proceso,479,Valera-Rivas,Las Palmas,479,Lalo Linares Palacios,Diseñador
+992,542,2024-08-28,En Proceso,755,Heras-Cánovas,Teruel,755,Ramona Diez-Herrera,Diseñador
+993,582,2025-01-27,En Proceso,1367,Batalla Inc,Vizcaya,1367,Vicente Gras Luna,Cortador
+994,998,2025-04-23,Pendiente,462,Alba-Mayol,Granada,462,Íngrid Martorell-Blanch,Diseñador
+995,318,2025-04-26,Pendiente,1365,Monreal-Perales,Cantabria,1365,Maristela Domingo,Empacador
+996,1056,2025-05-17,Completado,713,"Figuerola, Egea and Castilla",Melilla,713,Nidia España Serna,Empacador
+997,763,2024-10-21,Pendiente,756,Infante-Sebastián,Almería,756,Basilio Lisandro Rueda Menendez,Diseñador
+998,735,2025-01-02,Completado,705,Pino-Silva,Guipúzcoa,705,Vicente Blanca Teruel,Supervisor
+999,1349,2024-07-11,Pendiente,1403,Alemán Inc,Baleares,1403,Edmundo Espinosa Casares,Supervisor
+1000,1492,2024-07-14,Pendiente,675,Sanchez-Jordán,Valladolid,675,Balduino Francisco Garriga,Cortador
+1001,1130,2025-05-13,Completado,407,"Ramirez, Chacón and Casares",Soria,407,Goyo Fortuny Mateos,Diseñador
+1002,1153,2025-06-15,Pendiente,890,Gabaldón Ltd,Zamora,890,Florentino Vendrell,Cortador
+1003,1032,2024-09-12,Completado,1025,Echeverría Inc,León,1025,Ámbar Velázquez Robles,Cortador
+1004,127,2024-10-28,Completado,495,Arroyo LLC,Alicante,495,Carmelita Mir Ricart,Supervisor
+1005,239,2024-10-13,Pendiente,1452,"Cuevas, Serrano and Alcalde",Baleares,1452,David de Herrera,Supervisor
+1006,140,2024-11-27,Pendiente,1146,Neira-Carreras,Asturias,1146,Begoña Hidalgo-Galindo,Supervisor
+1007,806,2025-04-20,En Proceso,829,Piñol-Tovar,Almería,829,Bruno Cal Monreal,Cortador
+1008,660,2024-08-08,En Proceso,1377,Arregui-Águila,Melilla,1377,Armando Camps Carballo,Confeccionista
+1009,74,2025-03-09,En Proceso,1331,Nogueira-Cabeza,Ávila,1331,Luis Ángel Agudo Fuente,Confeccionista
+1010,1331,2025-04-04,Completado,740,"Echevarría, Quirós and Daza",Girona,740,Aurelia Nebot Narváez,Cortador
+1011,272,2024-07-29,Pendiente,284,Aliaga-Reina,Huesca,284,Ricarda Adán Poza,Empacador
+1012,979,2024-08-29,Pendiente,1442,Benítez-Alcolea,Madrid,1442,Severo Sola Nogués,Empacador
+1013,152,2024-10-10,Completado,1216,Sanjuan PLC,Ourense,1216,Fernanda Casado Hervia,Diseñador
+1014,1108,2024-12-01,En Proceso,8,Ocaña-Robles,Ceuta,8,Modesta Vera Melero,Confeccionista
+1015,1410,2024-11-16,Pendiente,804,Criado-Batalla,Navarra,804,Angelina Fuertes Barba,Supervisor
+1016,911,2025-01-25,En Proceso,593,"Pedro, Pulido and Mariño",Álava,593,Jose Ignacio Roselló-Varela,Confeccionista
+1017,1151,2024-06-29,En Proceso,863,Leiva Group,Barcelona,863,Joel Hidalgo Salgado,Diseñador
+1018,592,2024-08-15,Pendiente,420,Serna Ltd,Zamora,420,América del Estrada,Empacador
+1019,935,2024-08-09,Pendiente,454,Heras and Sons,Guipúzcoa,454,Candelaria Miguel-Muro,Diseñador
+1020,1295,2024-06-24,Pendiente,654,Villaverde LLC,Zamora,654,Vito Jiménez,Supervisor
+1021,1375,2025-01-24,Pendiente,150,Mosquera-Catalá,Las Palmas,150,Pío Epifanio Villalba Amador,Diseñador
+1022,96,2024-08-14,Completado,401,Guzmán-Farré,Murcia,401,Eufemia Zorrilla Agullo,Confeccionista
+1023,502,2024-10-20,Completado,462,"Mate, Múgica and Vilanova",Huesca,462,Íngrid Martorell-Blanch,Diseñador
+1024,47,2024-10-29,Pendiente,912,Pérez Inc,Madrid,912,Alexandra España Dalmau,Confeccionista
+1025,727,2025-03-22,Pendiente,837,Suárez LLC,Cáceres,837,Visitación Aparicio,Cortador
+1026,1348,2024-08-24,Completado,88,"Ripoll, Melero and Sedano",Segovia,88,Bernabé Figueroa Acedo,Confeccionista
+1027,617,2024-09-14,En Proceso,1034,"Aranda, Vicente and Zamora",Albacete,1034,Amaya Bienvenida Andrés Solsona,Cortador
+1028,709,2024-12-02,En Proceso,860,Marín-Recio,Guadalajara,860,Reina Tenorio Rodríguez,Diseñador
+1029,90,2025-04-23,En Proceso,991,Reyes PLC,Palencia,991,Emigdio Salom Guijarro,Confeccionista
+1030,56,2024-07-01,Pendiente,554,Solsona Group,Navarra,554,Ariadna Campoy Lozano,Empacador
+1031,40,2024-10-09,Completado,197,Paniagua PLC,Granada,197,Desiderio Ayllón Pizarro,Empacador
+1032,233,2025-01-01,En Proceso,1188,"Montalbán, Rivas and Giménez",Melilla,1188,Graciana Roldán Aller,Diseñador
+1033,1184,2025-03-09,Completado,557,"Mendoza, Haro and Losada",Alicante,557,Dionisia Blanca Araujo,Cortador
+1034,323,2024-08-08,En Proceso,958,"Tovar, Carrera and Palma",Valencia,958,Cruz Raquel Dávila Fábregas,Empacador
+1035,1196,2024-09-13,En Proceso,734,"Juliá, Cadenas and Osorio",Valencia,734,Valerio del Cuervo,Confeccionista
+1036,1249,2024-11-25,En Proceso,374,"Peiró, Rivero and Andrés",Pontevedra,374,Mireia Esteban Palacios,Supervisor
+1037,438,2025-05-29,Pendiente,811,Guillén-Bernat,Sevilla,811,Lola Rubio Robles,Diseñador
+1038,138,2024-07-29,Completado,114,"Sabater, Barrios and Domingo",León,114,Kike Rosselló-Roig,Confeccionista
+1039,611,2024-11-12,En Proceso,540,Vilar and Sons,Álava,540,Sigfrido Arranz Conde,Supervisor
+1040,231,2025-05-24,En Proceso,173,Crespi-Ríos,Almería,173,Genoveva Narváez Moraleda,Diseñador
+1041,837,2024-08-17,Completado,1418,Elías LLC,Córdoba,1418,María Jesús del Palomar,Supervisor
+1042,308,2024-09-19,Pendiente,525,Castro LLC,Santa Cruz de Tenerife,525,Amalia Villar Torre,Cortador
+1043,620,2025-05-11,Pendiente,1416,Boada LLC,Granada,1416,Modesto del Falcón,Cortador
+1044,581,2025-02-12,Pendiente,86,Haro-Ramón,La Rioja,86,Sergio Guijarro Segarra,Empacador
+1045,532,2025-04-26,En Proceso,784,"Cortina, Calatayud and Azorin",La Coruña,784,Maxi Bernardita Arnaiz Real,Cortador
+1046,1022,2025-05-05,Completado,559,Conesa-Morales,Murcia,559,Zacarías Olivera Talavera,Diseñador
+1047,1398,2024-10-20,En Proceso,96,"Julián, Galán and Quero",Córdoba,96,Ciro Somoza Llorente,Supervisor
+1048,606,2025-05-06,Completado,1316,Palomar-Barrena,Málaga,1316,Carlito Salom Mendoza,Empacador
+1049,1326,2024-09-04,En Proceso,694,Madrid LLC,Badajoz,694,Benita Cobos Segarra,Empacador
+1050,294,2024-10-03,En Proceso,576,Pou LLC,Pontevedra,576,Amalia Peinado,Diseñador
+1051,524,2025-02-24,Pendiente,792,Barba and Sons,Lugo,792,Josefa Castañeda Marti,Diseñador
+1052,739,2024-11-26,Completado,34,Fábregas Inc,Alicante,34,Alonso del Nieto,Confeccionista
+1053,300,2025-06-15,Completado,1086,"Novoa, Llamas and Camps",Palencia,1086,Paulina Beltrán Arribas,Supervisor
+1054,680,2024-10-11,Completado,286,"Godoy, Bermúdez and Alvarado",Ceuta,286,Blanca Falcó Villar,Cortador
+1055,1280,2025-06-17,En Proceso,119,Carreño-Castro,Vizcaya,119,Dulce Loida Rocamora Ángel,Cortador
+1056,195,2025-04-24,Completado,287,Iglesia-Cabrero,Guadalajara,287,Felipa Tur,Supervisor
+1057,1096,2024-12-03,Pendiente,142,"Sala, Guerra and Pol",Salamanca,142,Ariadna Arellano Porras,Confeccionista
+1058,203,2025-01-12,En Proceso,228,Manjón-Reyes,Córdoba,228,Kike Real Moraleda,Confeccionista
+1059,1079,2024-11-18,Pendiente,136,Escolano LLC,Lugo,136,Aurelio Tito Exposito Almazán,Cortador
+1060,1187,2024-09-18,Pendiente,596,Vicente and Sons,La Coruña,596,Ester Aznar Guzmán,Confeccionista
+1061,969,2024-09-03,Completado,630,Mínguez PLC,Girona,630,Wálter Eugenio Pintor Bosch,Supervisor
+1062,1108,2024-12-26,Pendiente,450,Ocaña-Robles,Ceuta,450,Alma Viña-Romeu,Cortador
+1063,1111,2024-12-09,Pendiente,1450,"Coloma, Suarez and Miguel",Sevilla,1450,Consuela Sáenz Santana,Diseñador
+1064,318,2024-09-06,Pendiente,698,Monreal-Perales,Cantabria,698,Iris Uría Blazquez,Cortador
+1065,722,2025-02-09,Completado,1152,Muñoz Ltd,Castellón,1152,Germán Muro-Calderon,Supervisor
+1066,81,2025-04-30,En Proceso,831,"Tirado, Paredes and Falcón",Navarra,831,Emperatriz Santana,Empacador
+1067,1430,2024-08-28,Pendiente,1328,Tejero-Rivera,Burgos,1328,Abraham Sabater Niño,Confeccionista
+1068,807,2024-12-14,Completado,913,Mínguez Group,Ourense,913,Luisa Lina Tomé Zamorano,Confeccionista
+1069,894,2024-09-14,Pendiente,434,Carro-Roma,Toledo,434,Imelda Miralles Roman,Diseñador
+1070,650,2025-04-30,Pendiente,1221,Guerrero-Isern,Badajoz,1221,Eliseo Teodosio Quintana Ariza,Supervisor
+1071,1463,2024-08-07,Pendiente,1444,Vilaplana-Villar,Granada,1444,Anacleto Merino Carbonell,Cortador
+1072,1339,2024-09-02,En Proceso,618,"Comas, Miró and Soto",Málaga,618,Máxima Arce Oliva,Cortador
+1073,9,2024-08-02,En Proceso,1289,"Molins, Tello and Bonet",Valladolid,1289,Tere Moya Mateos,Empacador
+1074,31,2024-10-20,Pendiente,852,Uribe and Sons,Baleares,852,Clemente Amador Villaverde Porta,Empacador
+1075,1345,2024-12-14,Pendiente,1348,Uribe PLC,Córdoba,1348,Almudena Corona Narváez Baeza,Confeccionista
+1076,1476,2025-01-17,Completado,1044,Segura-Ferrándiz,León,1044,Angelino Tejera,Supervisor
+1077,634,2024-12-11,En Proceso,379,"Manso, Castell and Bueno",Castellón,379,Eliseo Amaro Espinosa Corral,Supervisor
+1078,356,2024-12-09,Completado,693,Orozco Inc,Badajoz,693,Eustaquio Manzano Ariza,Empacador
+1079,779,2024-08-19,En Proceso,193,Vaquero and Sons,Huesca,193,Pepita Godoy Vera,Supervisor
+1080,838,2025-05-15,Completado,377,Lago Ltd,Asturias,377,María Dolores Madrigal Larrea,Confeccionista
+1081,10,2024-07-17,En Proceso,471,Cuadrado-Marti,Lleida,471,Petrona Naranjo Iñiguez,Supervisor
+1082,1428,2024-12-14,Pendiente,49,Aragón and Sons,Valencia,49,Begoña de Villena,Supervisor
+1083,516,2025-01-17,Completado,42,"Sierra, Vergara and Trujillo",Teruel,42,Danilo Pons Hernando,Confeccionista
+1084,1387,2025-02-01,En Proceso,1155,Abellán-Sobrino,Lleida,1155,María José Azcona Briones,Supervisor
+1085,238,2025-03-27,Completado,982,Mateu-Gracia,Albacete,982,Leyre de Piñeiro,Supervisor
+1086,663,2024-12-01,En Proceso,1470,"Santiago, Valle and Palacio",Sevilla,1470,Jonatan Rodríguez Heredia,Supervisor
+1087,1208,2024-12-26,Completado,1177,"Nogueira, Salgado and Barbero",Málaga,1177,Geraldo Rozas Riba,Supervisor
+1088,1245,2025-02-01,En Proceso,1238,Villa Inc,Guadalajara,1238,Felisa del Sanjuan,Confeccionista
+1089,1364,2024-07-03,Completado,48,Alberto-Benet,León,48,Luciana Zurita Menendez,Cortador
+1090,49,2025-06-04,Pendiente,366,Bastida Ltd,Barcelona,366,Wilfredo Cordero Orozco,Supervisor
+1091,832,2024-12-26,Pendiente,183,Pulido-Valcárcel,Córdoba,183,Iván Perea,Empacador
+1092,1343,2025-03-11,En Proceso,841,Pablo Ltd,Zaragoza,841,Abraham Múgica Bellido,Supervisor
+1093,994,2024-11-02,Completado,611,Martorell-Salcedo,Málaga,611,Micaela Batlle Gordillo,Supervisor
+1094,1135,2024-09-19,En Proceso,291,Céspedes LLC,Ourense,291,Lupe Sans Izaguirre,Confeccionista
+1095,1082,2024-12-14,Completado,401,Bonet LLC,Valladolid,401,Eufemia Zorrilla Agullo,Confeccionista
+1096,1160,2024-08-12,En Proceso,507,"Domínguez, Noguera and Zamora",Zamora,507,Dimas Palacio Puerta,Confeccionista
+1097,956,2025-05-03,Completado,1386,"Correa, Santos and Pizarro",Vizcaya,1386,Visitación Mayol Alberola,Cortador
+1098,367,2025-02-27,En Proceso,1002,Losa-Manzanares,Badajoz,1002,Íngrid Camila Carretero Botella,Empacador
+1099,764,2024-09-29,En Proceso,1406,Oliveras Inc,Cádiz,1406,Edu Julio César Tamarit Burgos,Diseñador
+1100,1133,2025-01-18,Completado,14,Carlos-Ojeda,Burgos,14,Genoveva Hoyos Vilalta,Empacador
+1101,1174,2024-09-16,Completado,229,Camps PLC,Cáceres,229,Ágata Manzano Ramirez,Cortador
+1102,1149,2025-06-08,Completado,97,"Frutos, Cordero and Yáñez",Palencia,97,Moreno Flores Pulido,Diseñador
+1103,67,2024-09-10,Completado,259,Falcó Ltd,Navarra,259,Noelia Calleja-Cózar,Empacador
+1104,221,2024-12-07,Pendiente,1436,Gaya LLC,Guipúzcoa,1436,Edgardo Jordán-Palomar,Supervisor
+1105,1103,2025-05-30,Pendiente,1221,Seco and Sons,Barcelona,1221,Eliseo Teodosio Quintana Ariza,Supervisor
+1106,1203,2025-05-03,Completado,788,"Chamorro, Arranz and Alegria",Cuenca,788,Etelvina Leyre Amorós Olivé,Supervisor
+1107,1271,2025-04-09,En Proceso,809,Contreras-Vicens,Valencia,809,Emiliana Nogués-Gallardo,Supervisor
+1108,1389,2024-10-10,En Proceso,171,"Planas, Galindo and Riera",Ávila,171,Yéssica Dalila Garmendia Miralles,Diseñador
+1109,639,2025-01-23,En Proceso,11,Espinosa Inc,Valladolid,11,Luis Miguel Canals-Montesinos,Diseñador
+1110,592,2025-02-15,En Proceso,935,Serna Ltd,Zamora,935,Gaspar Ibarra Sabater,Cortador
+1111,800,2024-11-01,En Proceso,879,"Bernat, Peñas and Cañellas",Almería,879,Emelina Lladó Egea,Supervisor
+1112,1298,2024-12-03,Completado,315,"Vall, Tapia and Valdés",Toledo,315,Prudencia Anguita Torre,Diseñador
+1113,1280,2025-02-02,Completado,345,Carreño-Castro,Vizcaya,345,Crescencia Ibañez Barbero,Cortador
+1114,1469,2024-10-06,Pendiente,559,"Prats, Pareja and Cabeza",Lugo,559,Zacarías Olivera Talavera,Diseñador
+1115,1119,2024-11-04,Pendiente,189,Donaire-Chamorro,Pontevedra,189,Mirta Páez Barceló,Cortador
+1116,395,2025-04-18,Pendiente,1364,Pulido Ltd,Barcelona,1364,Nicanor Mayo Méndez,Diseñador
+1117,777,2024-07-13,Pendiente,342,Ortega-Morales,Melilla,342,Mateo Quintero Ramos,Supervisor
+1118,1297,2024-10-14,Pendiente,428,"Cid, Cerro and Prado",Ceuta,428,Fortunato Gutierrez-Lloret,Supervisor
+1119,1436,2025-03-31,Completado,279,Pardo-Rivera,Albacete,279,Ester Gargallo Bustamante,Supervisor
+1120,592,2024-10-06,Completado,683,Serna Ltd,Zamora,683,Hector Pomares Samper,Supervisor
+1121,233,2024-06-30,Completado,541,"Montalbán, Rivas and Giménez",Melilla,541,Andrés Palacio,Confeccionista
+1122,1066,2025-03-11,Completado,584,Saldaña-Ricart,Zamora,584,Sigfrido Anastasio Lopez Llopis,Supervisor
+1123,338,2025-05-01,Completado,1193,Roldan-Aragón,Albacete,1193,Nazaret Zapata Torrent,Confeccionista
+1124,423,2024-08-30,Completado,843,Vargas Ltd,Valladolid,843,Román del Juan,Empacador
+1125,33,2025-04-30,Pendiente,578,Camacho Inc,Palencia,578,Rufino Severiano Muro Barón,Confeccionista
+1126,484,2025-03-14,En Proceso,975,Quirós-Pinedo,Sevilla,975,Caridad Manuel-Daza,Diseñador
+1127,715,2025-06-01,Pendiente,454,"Yáñez, Zorrilla and Bernat",Badajoz,454,Candelaria Miguel-Muro,Diseñador
+1128,743,2025-05-01,En Proceso,3,Angulo-Saez,Girona,3,Alex Carbajo,Supervisor
+1129,1299,2025-05-22,En Proceso,347,Garay LLC,Albacete,347,Mercedes Sobrino Fuente,Empacador
+1130,1054,2024-10-20,Pendiente,794,Calatayud PLC,Pontevedra,794,Emiliana del Prats,Cortador
+1131,671,2025-02-06,Completado,992,Suárez-Avilés,Lugo,992,Blanca Nieves Cuesta Barreda,Cortador
+1132,466,2024-08-23,Completado,57,Arias PLC,Guadalajara,57,Donato Fabregat Vilalta,Confeccionista
+1133,404,2024-07-08,Pendiente,1202,Albero-Exposito,Albacete,1202,Florencio Gascón Heras,Diseñador
+1134,275,2025-01-06,Pendiente,863,Morell-Hernandez,Lugo,863,Joel Hidalgo Salgado,Diseñador
+1135,820,2025-03-12,Pendiente,1471,Prado Inc,La Coruña,1471,Cecilio Alsina Moraleda,Diseñador
+1136,992,2025-01-22,Completado,1022,Miguel LLC,Soria,1022,Lucas Jordá-Pinto,Diseñador
+1137,80,2024-06-17,Pendiente,1013,Gibert Group,Cantabria,1013,René Bellido,Confeccionista
+1138,594,2025-02-06,En Proceso,1267,Bustos Group,Granada,1267,Bonifacio Sosa Sáenz,Cortador
+1139,1162,2025-04-19,En Proceso,45,Tapia-Fuentes,Álava,45,Armando Clemente Torrents,Confeccionista
+1140,451,2024-08-23,Completado,318,Seco-Heredia,Granada,318,Aura Iriarte Jurado,Diseñador
+1141,1007,2025-01-23,Completado,1100,Torrent Ltd,La Rioja,1100,Néstor Linares,Cortador
+1142,175,2024-08-08,Pendiente,1226,"Carro, Navarrete and Francisco",Málaga,1226,Diana Mayol,Confeccionista
+1143,1371,2025-01-13,Pendiente,1057,Sainz-Mateu,Ceuta,1057,Felisa Álamo Vergara,Empacador
+1144,1385,2025-02-25,En Proceso,1278,Aguirre PLC,Sevilla,1278,Gerónimo Cortes Acevedo,Empacador
+1145,35,2024-08-28,En Proceso,1069,Sans and Sons,Lugo,1069,Anabel de Ballester,Cortador
+1146,492,2024-10-06,En Proceso,813,"Boada, Tenorio and Armas",Cuenca,813,Maribel Caballero Olivera,Empacador
+1147,1173,2025-05-31,En Proceso,441,"Perez, Parejo and Hernández",Lugo,441,Evaristo Esteban Peiró,Empacador
+1148,15,2024-11-03,Pendiente,613,Balaguer Group,Huesca,613,Timoteo Salinas Uriarte,Diseñador
+1149,262,2024-12-06,Pendiente,1363,Sevillano Inc,Santa Cruz de Tenerife,1363,Martirio Gámez Morillo,Diseñador
+1150,765,2024-12-23,Completado,1283,Estrada LLC,Segovia,1283,César Prado Amigó,Supervisor
+1151,625,2025-02-27,Completado,992,Llano-Bru,Navarra,992,Blanca Nieves Cuesta Barreda,Cortador
+1152,792,2025-01-15,Pendiente,628,Calleja PLC,Álava,628,Jonatan Cuesta Asensio,Supervisor
+1153,949,2024-07-06,En Proceso,1072,Valle LLC,Álava,1072,María Fernanda Sanchez Múgica,Diseñador
+1154,834,2025-02-17,Pendiente,977,Mariscal-Mayo,Soria,977,Anastasio Teruel Merino,Confeccionista
+1155,978,2024-12-18,Pendiente,557,"Pelayo, Santiago and Aranda",Zamora,557,Dionisia Blanca Araujo,Cortador
+1156,1336,2025-05-16,En Proceso,1357,"Anglada, Alcalá and Zorrilla",Navarra,1357,Cecilia Sanjuan Sanz,Confeccionista
+1157,995,2025-05-29,Completado,123,"Atienza, Porcel and Tudela",Ávila,123,Plinio Nevado,Supervisor
+1158,409,2024-12-20,En Proceso,781,Goicoechea-Amo,Pontevedra,781,Martirio Peral,Diseñador
+1159,1500,2025-02-09,Completado,830,Canet-Garzón,Huesca,830,Juan Bautista Nuñez Albero,Diseñador
+1160,149,2024-07-08,Completado,285,Abad-Soria,Ourense,285,Marta Ramis,Supervisor
+1161,770,2025-02-18,Pendiente,851,"Sastre, Aranda and Busquets",Barcelona,851,Samu de Gibert,Supervisor
+1162,47,2025-01-07,En Proceso,255,Pérez Inc,Madrid,255,Otilia África Elorza Méndez,Empacador
+1163,370,2025-04-22,En Proceso,498,Busquets-Donoso,Valladolid,498,Custodia Aramburu Priego,Empacador
+1164,1038,2024-11-10,Pendiente,624,Araujo-Reig,Barcelona,624,Eugenia Jaén,Diseñador
+1165,1472,2025-02-22,En Proceso,935,Pi PLC,Ciudad,935,Gaspar Ibarra Sabater,Cortador
+1166,1104,2025-01-28,Pendiente,865,Amorós Inc,Navarra,865,Carolina Portero Hidalgo,Cortador
+1167,897,2024-08-29,En Proceso,216,Solé Group,Palencia,216,Adriana Cordero Pavón,Empacador
+1168,663,2024-09-07,Completado,1013,"Santiago, Valle and Palacio",Sevilla,1013,René Bellido,Confeccionista
+1169,91,2024-10-11,En Proceso,524,Espada Inc,Segovia,524,Mireia Luisina Chaves Miralles,Diseñador
+1170,246,2024-10-31,Completado,29,"Aparicio, Ferrández and Marcos",La Coruña,29,Nuria Gomila-Infante,Supervisor
+1171,635,2024-11-15,Completado,1200,Reguera-Ureña,Salamanca,1200,Miriam Pareja-Marco,Diseñador
+1172,355,2025-05-01,En Proceso,600,Lumbreras Group,Álava,600,Marcia Cordero Aliaga,Supervisor
+1173,1094,2025-01-01,En Proceso,90,"Tormo, Marin and Saavedra",Ourense,90,Ester Esteban Casares,Diseñador
+1174,60,2025-03-20,En Proceso,691,"Torralba, Cáceres and Franco",Guipúzcoa,691,Rafa Almazán-Mascaró,Empacador
+1175,694,2024-07-04,Pendiente,867,"Cabeza, Egea and Jaume",Vizcaya,867,Tatiana Perera Benavides,Diseñador
+1176,1396,2025-01-29,En Proceso,674,Grau Group,Granada,674,Manolo Pareja Coello,Cortador
+1177,524,2024-08-29,Completado,1432,Barba and Sons,Lugo,1432,Joan Nadal Mayoral,Confeccionista
+1178,475,2025-04-16,En Proceso,731,Alvarado Group,Girona,731,Reyna Gámez Santos,Cortador
+1179,1170,2024-12-26,Pendiente,47,"Valenzuela, Arnau and Montesinos",Ávila,47,Mamen Blanca Narváez,Supervisor
+1180,306,2025-01-23,Completado,305,Rovira PLC,Albacete,305,Fabián Dueñas Marin,Cortador
+1181,1149,2024-11-28,Completado,147,"Frutos, Cordero and Yáñez",Palencia,147,Rocío Velasco-Bravo,Empacador
+1182,1279,2025-02-27,En Proceso,786,Hernandez-Aguiló,Zaragoza,786,Domingo de Montenegro,Supervisor
+1183,1252,2024-08-16,En Proceso,1243,"Cabeza, Pagès and Nadal",Salamanca,1243,Custodia Castañeda Sierra,Cortador
+1184,239,2024-07-06,Pendiente,295,"Cuevas, Serrano and Alcalde",Baleares,295,Balduino Bonet-Maestre,Cortador
+1185,952,2024-08-13,En Proceso,40,"Garay, Artigas and Collado",Segovia,40,Cristian Andrés Mesa Fortuny,Empacador
+1186,1206,2025-03-11,Pendiente,640,Nogueira-Tormo,León,640,Virginia Valero,Supervisor
+1187,284,2025-01-13,En Proceso,401,Vilanova Group,Castellón,401,Eufemia Zorrilla Agullo,Confeccionista
+1188,1223,2024-07-18,Completado,967,Higueras Group,Palencia,967,Teodosio Catalá Benitez,Supervisor
+1189,1127,2024-07-18,Pendiente,936,"Campillo, Llobet and Noguera",Álava,936,Susanita Chico Marí,Diseñador
+1190,251,2024-08-07,En Proceso,757,Campillo Inc,Las Palmas,757,Odalis Cerdá Fiol,Confeccionista
+1191,373,2024-08-07,Pendiente,113,"Mayol, Azcona and Girona",Burgos,113,Clímaco de Anaya,Empacador
+1192,1489,2024-12-31,En Proceso,775,"Gomez, Aragonés and Gimenez",Valladolid,775,Rufina del Alemany,Supervisor
+1193,1243,2025-02-26,En Proceso,69,"Jaén, Berenguer and Raya",Melilla,69,Goyo Godoy Cabañas,Empacador
+1194,1087,2024-07-27,Pendiente,834,Fuentes Ltd,La Coruña,834,Édgar del Ramis,Diseñador
+1195,388,2024-12-09,Pendiente,1399,Bayona-Huguet,Álava,1399,Adela Casals Maldonado,Cortador
+1196,298,2024-12-25,Pendiente,340,Montserrat and Sons,Álava,340,Sabas Diez Malo,Empacador
+1197,1356,2025-05-25,Pendiente,93,Arteaga-Ayala,Navarra,93,Jessica Macarena Arnaiz Cabello,Supervisor
+1198,1058,2025-01-04,En Proceso,1100,Valcárcel-Borrell,Murcia,1100,Néstor Linares,Cortador
+1199,168,2024-09-15,En Proceso,1154,"Oliver, Garmendia and Alcolea",Granada,1154,Sebastian Amor Capdevila,Empacador
+1200,572,2024-10-20,Pendiente,833,Pintor PLC,Valencia,833,Lino Manjón Pareja,Cortador
+1201,902,2024-08-01,Completado,49,Campo-Sanjuan,Alicante,49,Begoña de Villena,Supervisor
+1202,316,2024-09-19,En Proceso,583,"Agullo, Juan and Paniagua",Cáceres,583,Evelia Cal,Empacador
+1203,1115,2025-05-29,Completado,27,"Navarrete, Serrano and Puig",Palencia,27,Toño Figuerola Cabo,Diseñador
+1204,527,2024-08-11,Pendiente,1288,Silva-Téllez,Ávila,1288,Roberto Amaro Varela Molina,Diseñador
+1205,333,2024-11-02,Completado,188,Rueda Inc,Vizcaya,188,Carlos del Frías,Supervisor
+1206,242,2025-05-28,Pendiente,583,Acedo Ltd,Jaén,583,Evelia Cal,Empacador
+1207,736,2025-04-11,Completado,917,"Cañizares, Villa and Iniesta",Zaragoza,917,Anselma Rey-Fuster,Confeccionista
+1208,259,2025-02-22,Completado,150,Benavente-Martinez,Cádiz,150,Pío Epifanio Villalba Amador,Diseñador
+1209,597,2025-03-26,Completado,53,"Español, Torre and Borrell",Girona,53,Melchor Tamayo Samper,Confeccionista
+1210,574,2024-11-30,Pendiente,1135,"Comas, Izaguirre and Becerra",Cádiz,1135,Chus del Pera,Cortador
+1211,506,2025-02-05,Completado,190,"Llamas, Egea and Camacho",Sevilla,190,Carmelita Ortiz Páez,Empacador
+1212,655,2025-04-27,En Proceso,1224,Peiró-Valverde,León,1224,Mauricio Torrents Ocaña,Confeccionista
+1213,249,2024-06-18,Pendiente,61,"Lluch, Carlos and España",Córdoba,61,Ámbar Acuña Garrido,Diseñador
+1214,1090,2024-07-28,En Proceso,1376,Arrieta-Chaves,Girona,1376,Carlito Herberto Nadal Alegre,Supervisor
+1215,1156,2025-01-17,En Proceso,1387,Gelabert-Ramón,La Rioja,1387,Teo Cayetano Requena Amat,Cortador
+1216,532,2024-10-26,Completado,1215,"Cortina, Calatayud and Azorin",La Coruña,1215,Florina de Morata,Diseñador
+1217,752,2024-11-13,En Proceso,157,Pulido PLC,Lleida,157,Rolando Feijoo-Cid,Diseñador
+1218,912,2025-06-13,Completado,211,Gálvez LLC,Badajoz,211,Abigaíl Juárez,Empacador
+1219,609,2024-09-09,En Proceso,1241,Miranda-Benet,La Coruña,1241,Ruy Salcedo Luna,Empacador
+1220,1242,2024-10-14,Pendiente,1026,Pareja Inc,Cuenca,1026,Herberto Cózar Saavedra,Confeccionista
+1221,964,2024-10-24,Pendiente,709,"Losada, Mora and Barrena",Navarra,709,Emelina Mendizábal,Diseñador
+1222,452,2024-07-17,Completado,1080,Giralt and Sons,Lleida,1080,Aureliano Simó Martinez,Empacador
+1223,374,2024-07-16,Pendiente,143,Cabrero LLC,Málaga,143,Flor del Hidalgo,Cortador
+1224,690,2025-03-18,Completado,1497,Correa-Viana,León,1497,Leocadia Giralt Mulet,Confeccionista
+1225,1311,2025-02-12,Pendiente,415,Cerezo Ltd,Barcelona,415,Gloria Casandra Mascaró Mulet,Supervisor
+1226,1446,2024-08-23,Pendiente,579,Ricart Ltd,Córdoba,579,Lidia Rojas Falcón,Cortador
+1227,697,2024-07-12,Completado,1090,Ramírez-Collado,Zamora,1090,Liliana Hernando-Hoyos,Empacador
+1228,822,2024-12-31,Pendiente,584,Morcillo-Molins,Soria,584,Sigfrido Anastasio Lopez Llopis,Supervisor
+1229,535,2024-11-25,En Proceso,431,Blanco-Godoy,Ourense,431,Telmo Aparicio Quesada,Cortador
+1230,1215,2024-12-12,Pendiente,709,Pavón and Sons,Santa Cruz de Tenerife,709,Emelina Mendizábal,Diseñador
+1231,641,2025-02-28,En Proceso,591,Conde PLC,Badajoz,591,Reinaldo Clavero Mora,Diseñador
+1232,494,2024-12-07,Completado,632,Cañas Inc,Melilla,632,Florinda Villaverde Pablo,Confeccionista
+1233,1325,2025-04-14,Completado,1132,Chico and Sons,Tarragona,1132,Emma Guijarro-Ojeda,Supervisor
+1234,1248,2024-07-22,En Proceso,777,Carballo-Morán,Las Palmas,777,Aristides de Carballo,Supervisor
+1235,948,2025-03-24,Completado,890,"Tejada, Ferrer and Gisbert",Vizcaya,890,Florentino Vendrell,Cortador
+1236,394,2025-03-12,Completado,1159,"Ruano, Sanz and Bellido",Cádiz,1159,Francisco Jose Valentín Valls,Diseñador
+1237,453,2024-12-29,Completado,173,Aragonés Inc,Guipúzcoa,173,Genoveva Narváez Moraleda,Diseñador
+1238,780,2024-07-26,Completado,471,Collado-Palomo,Jaén,471,Petrona Naranjo Iñiguez,Supervisor
+1239,873,2024-08-03,Pendiente,305,"Arnau, Río and Tomé",La Rioja,305,Fabián Dueñas Marin,Cortador
+1240,105,2024-10-26,En Proceso,326,Tomé and Sons,Ceuta,326,Severino Arnal-Larrea,Confeccionista
+1241,478,2025-01-10,Pendiente,1287,Vélez Ltd,La Coruña,1287,Jovita Amat Pombo,Diseñador
+1242,637,2025-03-25,Completado,1423,Fajardo Inc,Madrid,1423,Corona Bastida,Diseñador
+1243,12,2025-06-01,Completado,819,Guardiola-Rodriguez,León,819,Pía Monreal Cazorla,Empacador
+1244,916,2024-10-26,Pendiente,1312,Pujol-Duarte,Vizcaya,1312,Tamara Laguna Lara,Diseñador
+1245,1388,2024-10-07,Pendiente,1314,"Carreño, Figueroa and Lago",Vizcaya,1314,Isaac Aragonés Coloma,Cortador
+1246,1108,2024-06-23,Completado,1031,Ocaña-Robles,Ceuta,1031,Abraham de Ibañez,Diseñador
+1247,859,2024-08-27,En Proceso,795,Alcázar and Sons,Granada,795,Carlito Font Moya,Cortador
+1248,480,2025-04-04,En Proceso,1423,"Carretero, Gibert and Guitart",Segovia,1423,Corona Bastida,Diseñador
+1249,214,2024-09-15,En Proceso,765,"Aller, Velázquez and Solé",Cuenca,765,Carmen Dalmau Arregui,Supervisor
+1250,976,2024-07-04,Pendiente,43,Guzmán-Monreal,Málaga,43,Fanny Manjón Llamas,Confeccionista
+1251,1239,2025-06-17,Completado,514,"Sandoval, Colom and Canals",Zamora,514,Seve Gual-Guijarro,Empacador
+1252,104,2025-05-04,Completado,864,Carbajo Group,Santa Cruz de Tenerife,864,Adelina Aguiló Villena,Confeccionista
+1253,525,2025-05-20,En Proceso,1479,Llano-Albero,León,1479,Delfina Amador López,Confeccionista
+1254,871,2024-07-09,En Proceso,1238,"Planas, Berenguer and Rodriguez",Badajoz,1238,Felisa del Sanjuan,Confeccionista
+1255,617,2024-07-18,Pendiente,1446,"Aranda, Vicente and Zamora",Albacete,1446,Amalia Candelas Sanmiguel Abella,Diseñador
+1256,731,2024-06-21,Completado,238,"Canales, Navas and Martinez",Santa Cruz de Tenerife,238,Samanta Benavent Peiró,Supervisor
+1257,1101,2024-12-18,Pendiente,1357,Español PLC,Valencia,1357,Cecilia Sanjuan Sanz,Confeccionista
+1258,181,2025-06-15,Pendiente,110,Pla-Acosta,Huelva,110,Isabela Adelaida Salvador Sarabia,Supervisor
+1259,1255,2024-08-29,Completado,543,Lasa-Quiroga,Ceuta,543,José Luis Pedrosa Pedrosa,Empacador
+1260,896,2024-07-27,Completado,1395,Marquez-Villanueva,Vizcaya,1395,Primitivo Real Larrañaga,Supervisor
+1261,924,2024-08-18,En Proceso,14,Lobato-Cuéllar,Albacete,14,Genoveva Hoyos Vilalta,Empacador
+1262,1040,2025-06-13,En Proceso,769,Alarcón-Granados,Huesca,769,Alberto Rosado Amigó,Confeccionista
+1263,1500,2024-10-08,Completado,1405,Canet-Garzón,Huesca,1405,Sonia Ariel Álvaro Iglesia,Diseñador
+1264,1334,2025-02-12,En Proceso,350,Boix-Gallo,Soria,350,María Ángeles Tena Querol,Confeccionista
+1265,529,2024-09-10,En Proceso,517,Arrieta PLC,Toledo,517,Griselda de Cortina,Supervisor
+1266,460,2025-03-13,En Proceso,289,Tena LLC,La Coruña,289,Iván Talavera Rosa,Empacador
+1267,840,2025-04-16,En Proceso,756,"Iglesias, Téllez and Pedrero",Castellón,756,Basilio Lisandro Rueda Menendez,Diseñador
+1268,1100,2025-02-04,En Proceso,1448,Valenzuela-Oliva,Huelva,1448,Lope Bravo Benavente,Cortador
+1269,335,2024-12-27,Pendiente,189,"Cerdán, Zabaleta and Briones",Alicante,189,Mirta Páez Barceló,Cortador
+1270,627,2025-03-07,Completado,1180,Llano-Carmona,Ourense,1180,Evelia Serra Casanovas,Empacador
+1271,436,2024-09-17,Completado,234,Arco-Rosell,Cuenca,234,Rosaura Peña Vara,Cortador
+1272,939,2025-01-06,En Proceso,785,"Espada, Querol and Donoso",Almería,785,Wálter Sola,Empacador
+1273,1254,2024-07-12,Pendiente,10,Carvajal-Serra,Baleares,10,Yaiza Ricart,Cortador
+1274,1427,2024-10-17,En Proceso,627,Pla-Peiró,Huesca,627,Anita Pedraza,Cortador
+1275,1500,2025-02-01,Completado,370,Canet-Garzón,Huesca,370,Ricarda Angulo Rovira,Cortador
+1276,1467,2025-04-02,Completado,1247,Osuna Inc,Cádiz,1247,Jordana Olalla Carrión Urrutia,Empacador
+1277,1009,2024-12-01,Completado,651,"Izaguirre, Mur and Coello",Navarra,651,Manolo Barba-Borrás,Confeccionista
+1278,108,2024-10-04,Completado,242,Barrera PLC,Zaragoza,242,Virginia Fernández Cal,Diseñador
+1279,985,2024-08-03,Pendiente,1029,"Carro, Vera and Beltran",Barcelona,1029,Aroa Barrera Lucas,Confeccionista
+1280,194,2024-12-02,Completado,3,Canet LLC,Asturias,3,Alex Carbajo,Supervisor
+1281,321,2024-09-01,Completado,313,"Cuevas, Solana and Poza",Granada,313,Martin Pizarro Iniesta,Confeccionista
+1282,428,2024-07-11,Pendiente,645,"Tejero, Cabrera and Albero",Girona,645,Régulo Gil Carnero,Supervisor
+1283,669,2025-05-16,Pendiente,134,Franch LLC,Melilla,134,Caridad Almagro Miró,Confeccionista
+1284,1147,2024-12-12,Pendiente,465,"Bastida, Cuadrado and Losa",Tarragona,465,Andrea Amorós Lerma,Cortador
+1285,304,2025-03-15,Completado,1432,Pellicer-Chacón,Pontevedra,1432,Joan Nadal Mayoral,Confeccionista
+1286,1282,2025-02-15,En Proceso,579,Torrent LLC,Cáceres,579,Lidia Rojas Falcón,Cortador
+1287,898,2025-03-23,Pendiente,113,Tenorio-Garcés,Madrid,113,Clímaco de Anaya,Empacador
+1288,1142,2025-05-21,En Proceso,1232,"Giménez, Marcos and Pino",Baleares,1232,Pascuala Aragonés Fonseca,Empacador
+1289,1025,2024-11-24,Pendiente,1438,"Barrios, Canals and Arteaga",Santa Cruz de Tenerife,1438,Teobaldo Beltrán Sainz,Cortador
+1290,925,2024-10-17,Completado,428,Guillen-Cuadrado,Barcelona,428,Fortunato Gutierrez-Lloret,Supervisor
+1291,1083,2025-03-10,Completado,1225,Quiroga-Villar,Jaén,1225,Felicidad Cazorla Alonso,Supervisor
+1292,215,2025-06-11,Completado,1275,"Alcántara, Prats and Canals",La Coruña,1275,Mohamed Carbó Conesa,Supervisor
+1293,733,2024-09-18,Completado,233,Gargallo-Gallardo,Vizcaya,233,Dafne Poza Oliva,Diseñador
+1294,1095,2025-01-23,Pendiente,432,Abellán Ltd,Cuenca,432,Francisco Pinto Andrés,Confeccionista
+1295,1101,2024-10-29,En Proceso,384,Español PLC,Valencia,384,Laura Arregui Goicoechea,Confeccionista
+1296,1005,2025-04-18,Pendiente,447,Castilla Ltd,Baleares,447,Marisol Estrada Vélez,Confeccionista
+1297,1036,2024-07-05,Completado,488,"Pi, Gonzalez and Alcolea",Guadalajara,488,Olivia Arroyo Segarra,Confeccionista
+1298,150,2024-09-25,Pendiente,912,"Sanmiguel, Cabanillas and Guardiola",La Coruña,912,Alexandra España Dalmau,Confeccionista
+1299,271,2024-07-29,Pendiente,221,Arco-Valbuena,Salamanca,221,Norberto Valenzuela Benavides,Empacador
+1300,1450,2025-04-01,Pendiente,1245,Fernández PLC,Valladolid,1245,Felicia Valero Yuste,Confeccionista
+1301,1191,2025-01-12,Pendiente,588,Castells-Serra,Ciudad,588,Toribio Torrent Ayala,Empacador
+1302,77,2025-06-16,Completado,1071,Peñalver LLC,Alicante,1071,Pepito Barrio Baños,Cortador
+1303,1169,2024-11-24,Completado,1261,"Porcel, Mayo and Tomás",Navarra,1261,Hilario del Manrique,Cortador
+1304,1116,2025-04-08,Completado,498,Nieto-Ferrer,Palencia,498,Custodia Aramburu Priego,Empacador
+1305,851,2024-11-13,Pendiente,367,Clavero-Alcántara,Castellón,367,Ceferino del Cañas,Diseñador
+1306,308,2024-10-30,Completado,1227,Castro LLC,Santa Cruz de Tenerife,1227,Eduardo Ruano Malo,Diseñador
+1307,334,2024-11-15,Pendiente,1460,Zurita-Juárez,León,1460,Heraclio Calisto Girona Egea,Empacador
+1308,1013,2025-05-29,Pendiente,932,Blanes-Tomás,Cádiz,932,Edgardo Luis Miguel Elías Salmerón,Empacador
+1309,925,2025-05-07,Pendiente,1121,Guillen-Cuadrado,Barcelona,1121,Fidela Pallarès Hernandez,Cortador
+1310,1009,2024-09-07,Pendiente,205,"Izaguirre, Mur and Coello",Navarra,205,Noé Zacarías Pinedo Pardo,Empacador
+1311,778,2024-12-26,Pendiente,1479,Fiol and Sons,Zaragoza,1479,Delfina Amador López,Confeccionista
+1312,544,2024-09-27,En Proceso,1112,Lobato and Sons,Alicante,1112,Ciriaco Ángel Rodríguez,Empacador
+1313,733,2025-01-06,En Proceso,1359,Gargallo-Gallardo,Vizcaya,1359,Eladio Duque Garcés,Empacador
+1314,511,2025-04-27,En Proceso,115,Quintana-Llorente,Madrid,115,Onofre Chico-Feijoo,Empacador
+1315,241,2025-05-28,Completado,607,Aguilar and Sons,Toledo,607,Samuel Olmedo Cases,Diseñador
+1316,706,2025-01-17,En Proceso,570,Garcés-Llobet,Barcelona,570,Nereida Benavente Ferrández,Empacador
+1317,1492,2024-07-30,En Proceso,1176,Sanchez-Jordán,Valladolid,1176,Angelita Palau Blanes,Supervisor
+1318,1477,2025-02-11,Completado,1132,"Manjón, Crespi and Girona",Ceuta,1132,Emma Guijarro-Ojeda,Supervisor
+1319,1079,2025-06-17,Completado,529,Escolano LLC,Lugo,529,Mónica Acuña Fortuny,Confeccionista
+1320,1355,2025-05-05,Pendiente,996,Sotelo-Benet,Vizcaya,996,Bernardino del Baños,Confeccionista
+1321,899,2025-02-05,En Proceso,264,"Gaya, Rodrigo and Uribe",Almería,264,Esteban Guzman Galiano,Supervisor
+1322,1455,2025-02-20,En Proceso,148,Mir-Valderrama,Las Palmas,148,Rosalía Cuenca Cabello,Diseñador
+1323,60,2024-10-05,Pendiente,804,"Torralba, Cáceres and Franco",Guipúzcoa,804,Angelina Fuertes Barba,Supervisor
+1324,416,2024-08-26,Completado,1088,Seguí-Mancebo,Sevilla,1088,Borja de Puig,Supervisor
+1325,241,2024-08-17,Pendiente,1480,Aguilar and Sons,Toledo,1480,Luis Ángel Santiago Sola Terrón,Diseñador
+1326,1097,2024-08-31,En Proceso,1274,"Barros, Alfonso and Flor",Asturias,1274,Severiano Dueñas,Empacador
+1327,1217,2025-02-13,En Proceso,285,Escribano Group,Vizcaya,285,Marta Ramis,Supervisor
+1328,903,2025-05-29,Completado,134,Hoyos and Sons,Cantabria,134,Caridad Almagro Miró,Confeccionista
+1329,365,2025-03-11,Completado,846,"Sánchez, Morán and Barreda",Huelva,846,Dionisio del Tena,Supervisor
+1330,601,2025-02-09,Completado,45,Alba-Navarro,Melilla,45,Armando Clemente Torrents,Confeccionista
+1331,517,2025-01-14,Pendiente,794,"Pardo, Correa and Luján",Salamanca,794,Emiliana del Prats,Cortador
+1332,1467,2024-07-17,Completado,1247,Osuna Inc,Cádiz,1247,Jordana Olalla Carrión Urrutia,Empacador
+1333,1231,2024-08-15,Completado,51,Sobrino-Manuel,Barcelona,51,Maricruz Borja Quirós,Supervisor
+1334,817,2024-09-27,En Proceso,42,Fuente LLC,La Coruña,42,Danilo Pons Hernando,Confeccionista
+1335,272,2024-09-19,Pendiente,1357,Aliaga-Reina,Huesca,1357,Cecilia Sanjuan Sanz,Confeccionista
+1336,1142,2025-05-26,En Proceso,381,"Giménez, Marcos and Pino",Baleares,381,Anna Redondo Garriga,Supervisor
+1337,438,2025-01-29,Pendiente,781,Guillén-Bernat,Sevilla,781,Martirio Peral,Diseñador
+1338,1215,2024-08-28,Pendiente,1432,Pavón and Sons,Santa Cruz de Tenerife,1432,Joan Nadal Mayoral,Confeccionista
+1339,38,2024-10-05,Pendiente,1164,Ortuño-Pazos,Segovia,1164,Adán Martinez Calleja,Empacador
+1340,1490,2024-09-30,Pendiente,566,"Aguado, Quesada and Guijarro",Alicante,566,Íngrid Garriga Puga,Confeccionista
+1341,1438,2024-06-29,En Proceso,1036,Marqués and Sons,La Rioja,1036,Fabricio de Figueras,Supervisor
+1342,214,2024-08-01,En Proceso,975,"Aller, Velázquez and Solé",Cuenca,975,Caridad Manuel-Daza,Diseñador
+1343,478,2024-12-12,En Proceso,622,Vélez Ltd,La Coruña,622,Augusto Múñiz Alcolea,Cortador
+1344,116,2025-01-22,Completado,803,"Elorza, Corbacho and Soriano",Cádiz,803,Montserrat Guardiola-Naranjo,Confeccionista
+1345,710,2024-08-24,Pendiente,431,"Escamilla, Sáez and Domingo",Navarra,431,Telmo Aparicio Quesada,Cortador
+1346,316,2024-10-10,Pendiente,755,"Agullo, Juan and Paniagua",Cáceres,755,Ramona Diez-Herrera,Diseñador
+1347,1231,2024-12-11,En Proceso,348,Sobrino-Manuel,Barcelona,348,Desiderio de Roldan,Confeccionista
+1348,1338,2025-05-16,Pendiente,14,Franco-Briones,Cáceres,14,Genoveva Hoyos Vilalta,Empacador
+1349,373,2025-03-21,Pendiente,1125,"Mayol, Azcona and Girona",Burgos,1125,Dorotea Roura Pedraza,Cortador
+1350,1062,2025-03-10,Completado,388,Malo LLC,Huelva,388,Tomasa Marisela Pino Castejón,Confeccionista
+1351,102,2024-07-24,Completado,1350,"Carro, Vizcaíno and Benítez",Soria,1350,Amando Fábregas Izaguirre,Cortador
+1352,259,2024-07-21,Completado,413,Benavente-Martinez,Cádiz,413,Gerónimo Julián Ángel Guerrero,Supervisor
+1353,698,2025-03-21,En Proceso,1310,"Segarra, Bernad and Morcillo",Vizcaya,1310,Reinaldo Montes Huguet,Supervisor
+1354,404,2024-07-12,Pendiente,1392,Albero-Exposito,Albacete,1392,Laura Escrivá Miró,Confeccionista
+1355,1108,2024-09-10,Completado,590,Ocaña-Robles,Ceuta,590,Venceslás Javier Sanjuan Arnal,Supervisor
+1356,1367,2025-04-02,Pendiente,706,Peralta-Comas,Ourense,706,Eligia Perea Millán,Empacador
+1357,445,2025-04-14,Pendiente,17,"Pera, Nogueira and Puig",Ciudad,17,Ricarda Vilaplana Porcel,Confeccionista
+1358,554,2024-08-21,Pendiente,467,"Chico, Heredia and Galvez",Ceuta,467,Fabiola Alsina Reig,Empacador
+1359,668,2024-08-16,En Proceso,343,Melero Inc,Lugo,343,Rafaela Moya Bravo,Empacador
+1360,917,2025-03-24,Pendiente,1063,Galan-Higueras,Cantabria,1063,María Belén Diez,Confeccionista
+1361,1485,2024-08-28,En Proceso,870,Vélez PLC,Badajoz,870,Laura Quero Calatayud,Empacador
+1362,1232,2024-09-27,Completado,642,"Santana, Leiva and Perera",Valencia,642,Fabricio de Portillo,Cortador
+1363,168,2025-06-15,Completado,1101,"Oliver, Garmendia and Alcolea",Granada,1101,Wilfredo de Sevillano,Empacador
+1364,173,2024-11-26,Completado,1024,"Molins, Valenzuela and Núñez",Segovia,1024,Ximena del Palmer,Diseñador
+1365,635,2025-02-04,En Proceso,552,Reguera-Ureña,Salamanca,552,Adelaida Vives-Nadal,Diseñador
+1366,118,2024-07-10,En Proceso,863,"Paniagua, Nevado and Olivera",Cádiz,863,Joel Hidalgo Salgado,Diseñador
+1367,766,2025-02-18,Completado,390,"Cabrero, Cañizares and Jáuregui",Zamora,390,Carina Calleja Sanjuan,Empacador
+1368,1334,2025-06-08,Pendiente,1468,Boix-Gallo,Soria,1468,Reyna Ros Guitart,Confeccionista
+1369,1075,2024-08-25,Pendiente,1215,Seguí-Vives,Barcelona,1215,Florina de Morata,Diseñador
+1370,211,2025-01-17,En Proceso,304,"Tudela, Nogueira and Rosa",Ourense,304,Leocadio Coca Saavedra,Empacador
+1371,610,2024-12-16,En Proceso,267,Chacón-Barriga,Cuenca,267,Crescencia Garzón Abascal,Cortador
+1372,442,2024-11-10,Completado,885,Torralba PLC,Córdoba,885,Isaac Gimenez,Empacador
+1373,1169,2024-07-14,En Proceso,534,"Porcel, Mayo and Tomás",Navarra,534,Rico del Sanz,Supervisor
+1374,1093,2024-09-11,En Proceso,188,Exposito-Badía,Ourense,188,Carlos del Frías,Supervisor
+1375,940,2025-03-31,Completado,700,"Cano, Amat and Moll",Ceuta,700,Teo Canet Lillo,Cortador
+1376,521,2024-08-20,Pendiente,812,"Rosselló, Fiol and Pozuelo",Segovia,812,Tania Pedraza Rebollo,Supervisor
+1377,231,2024-11-06,Completado,344,Crespi-Ríos,Almería,344,Edelmira Mas-Planas,Empacador
+1378,1423,2024-07-13,En Proceso,537,Font-Cabeza,Sevilla,537,Georgina Ribes Pareja,Empacador
+1379,1067,2025-02-03,Pendiente,997,"Paz, Goñi and Alcázar",Madrid,997,María Belén Galan-Puerta,Cortador
+1380,1193,2024-06-26,Completado,1195,Carrillo-Río,Guipúzcoa,1195,Manu Expósito Berenguer,Empacador
+1381,587,2024-09-24,Pendiente,651,Carretero-Cerro,Sevilla,651,Manolo Barba-Borrás,Confeccionista
+1382,1144,2025-04-01,En Proceso,949,Galán-Zamorano,Baleares,949,Maribel Alberto Casado,Empacador
+1383,1034,2024-08-13,En Proceso,574,Santamaría and Sons,Madrid,574,Roxana Vicenta Arnau Acero,Cortador
+1384,1168,2024-07-02,En Proceso,297,Pedraza-Valle,Tarragona,297,Juanito del Rincón,Empacador
+1385,1346,2024-06-21,En Proceso,209,Ramis Ltd,Ourense,209,Vicenta Pedraza,Diseñador
+1386,1282,2024-07-22,Pendiente,753,Torrent LLC,Cáceres,753,Nereida Carrión Vallés,Diseñador
+1387,200,2025-04-04,Completado,6,Esparza-Herranz,Albacete,6,Macario Palau-Patiño,Confeccionista
+1388,996,2025-02-22,En Proceso,297,"Barriga, Gómez and Garrido",Las Palmas,297,Juanito del Rincón,Empacador
+1389,179,2025-01-19,En Proceso,533,Lloret-Guardiola,Navarra,533,Francisco Jose Jiménez-Calatayud,Confeccionista
+1390,8,2025-04-03,Completado,886,Casanovas Group,Álava,886,Albert Lucas-Vendrell,Empacador
+1391,510,2025-05-08,Completado,829,"Cardona, Núñez and Trillo",Lugo,829,Bruno Cal Monreal,Cortador
+1392,121,2024-11-30,Pendiente,858,"Mariscal, Orozco and Cantero",Baleares,858,Fito Francisco Javier Puente Blasco,Empacador
+1393,1031,2024-07-11,En Proceso,1146,"Beltran, Abellán and Izaguirre",Santa Cruz de Tenerife,1146,Begoña Hidalgo-Galindo,Supervisor
+1394,1113,2024-08-05,En Proceso,87,"Padilla, Vargas and Vilalta",Valencia,87,Ágata Marqués,Diseñador
+1395,435,2024-09-29,En Proceso,945,Diéguez Ltd,Melilla,945,Esperanza Perez Vilaplana,Empacador
+1396,534,2024-12-15,En Proceso,1312,Gordillo Inc,Cantabria,1312,Tamara Laguna Lara,Diseñador
+1397,595,2025-06-07,Completado,69,"Gallardo, Amores and García",Cuenca,69,Goyo Godoy Cabañas,Empacador
+1398,1258,2024-10-19,Pendiente,724,Rico PLC,Huesca,724,Octavio Ferrando,Confeccionista
+1399,712,2025-03-17,Pendiente,865,Nogueira-Rosselló,Cádiz,865,Carolina Portero Hidalgo,Cortador
+1400,1120,2025-03-09,Pendiente,720,Cañas LLC,Málaga,720,Bonifacio de Bernat,Empacador
+1401,1453,2024-12-17,Completado,660,Lopez-Bayona,Soria,660,Felix Palomar-Miguel,Empacador
+1402,206,2025-03-27,En Proceso,135,Barón-Arnal,Murcia,135,Visitación Miguel Seco,Cortador
+1403,1356,2024-10-17,Completado,417,Arteaga-Ayala,Navarra,417,Merche Sans Luís,Confeccionista
+1404,1110,2024-09-26,Pendiente,432,Bauzà Inc,Córdoba,432,Francisco Pinto Andrés,Confeccionista
+1405,778,2025-04-15,En Proceso,1164,Fiol and Sons,Zaragoza,1164,Adán Martinez Calleja,Empacador
+1406,85,2025-05-31,En Proceso,646,Andrade PLC,Guadalajara,646,María Cristina Torralba Requena,Cortador
+1407,517,2025-04-15,Completado,264,"Pardo, Correa and Luján",Salamanca,264,Esteban Guzman Galiano,Supervisor
+1408,1347,2024-07-18,Pendiente,213,Alberola-Jáuregui,Cantabria,213,Flora Nogués Fernandez,Cortador
+1409,912,2024-07-31,En Proceso,992,Gálvez LLC,Badajoz,992,Blanca Nieves Cuesta Barreda,Cortador
+1410,659,2024-11-04,Completado,235,"Perales, Hierro and Bonilla",Ciudad,235,Regina Lozano Bernal,Empacador
+1411,1426,2025-02-26,Pendiente,1229,Tejero Ltd,Palencia,1229,Isa Almazán Díaz,Cortador
+1412,1438,2024-08-16,Completado,1469,Marqués and Sons,La Rioja,1469,Claudio Zorrilla Frutos,Supervisor
+1413,369,2025-03-18,Completado,930,"Caparrós, Guitart and Barroso",Huelva,930,Calisto Peñalver Gallo,Empacador
+1414,621,2025-01-16,Completado,1159,"Manjón, Sans and Carrasco",Huelva,1159,Francisco Jose Valentín Valls,Diseñador
+1415,330,2024-12-23,Pendiente,85,Capdevila Group,Lleida,85,Aitor Mendez-Molina,Confeccionista
+1416,913,2025-01-23,Pendiente,1367,Murcia Group,Lleida,1367,Vicente Gras Luna,Cortador
+1417,516,2024-10-05,Completado,712,"Sierra, Vergara and Trujillo",Teruel,712,Francisco Javier Guzman Lorenzo,Cortador
+1418,723,2025-05-20,Completado,300,"Paniagua, Vallejo and Lopez",Tarragona,300,Dani Hurtado Esteve,Cortador
+1419,194,2025-03-29,Pendiente,84,Canet LLC,Asturias,84,Flavio del Reyes,Empacador
+1420,1348,2024-08-09,En Proceso,422,"Ripoll, Melero and Sedano",Segovia,422,Plácido Ribas-Piquer,Supervisor
+1421,134,2025-06-07,En Proceso,298,Pont Group,Huelva,298,Sancho Taboada Vazquez,Empacador
+1422,572,2025-01-16,En Proceso,1217,Pintor PLC,Valencia,1217,Josué Lucho Arjona Vallejo,Confeccionista
+1423,1425,2024-10-07,En Proceso,347,"Rozas, Machado and Araujo",Baleares,347,Mercedes Sobrino Fuente,Empacador
+1424,376,2024-07-10,Completado,380,Balaguer Group,Teruel,380,Lucio Barberá-Pérez,Empacador
+1425,1462,2024-12-24,Completado,216,Español LLC,Baleares,216,Adriana Cordero Pavón,Empacador
+1426,925,2024-07-02,Completado,1251,Guillen-Cuadrado,Barcelona,1251,Azeneth Galvez Ocaña,Diseñador
+1427,1489,2025-05-19,Completado,1439,"Gomez, Aragonés and Gimenez",Valladolid,1439,Mireia del Villena,Confeccionista
+1428,608,2024-10-01,Completado,603,Contreras Group,Girona,603,Eva María Otero,Supervisor
+1429,1303,2024-09-12,Completado,937,Silva-Arce,Huelva,937,Candelas Evangelina Agullo Maza,Confeccionista
+1430,1044,2025-05-06,En Proceso,1220,Gutiérrez Ltd,La Rioja,1220,Adriana Montoya,Diseñador
+1431,974,2025-04-04,Completado,571,Bauzà Inc,Castellón,571,Nando Armengol Torralba,Diseñador
+1432,8,2025-06-13,En Proceso,1048,Casanovas Group,Álava,1048,Édgar del Segovia,Supervisor
+1433,815,2024-10-21,Completado,1015,"Llamas, Ponce and Martin",Zaragoza,1015,Virginia Amalia Duque Pou,Supervisor
+1434,625,2024-12-01,Completado,346,Llano-Bru,Navarra,346,Teodora Ripoll Urrutia,Confeccionista
+1435,1108,2024-07-30,En Proceso,141,Ocaña-Robles,Ceuta,141,Teófilo Sanjuan Casares,Cortador
+1436,1400,2024-11-10,Completado,1414,Miranda Group,Melilla,1414,Julián Cecilio Cervera Sanmiguel,Empacador
+1437,844,2025-01-23,Completado,291,González-Carlos,Toledo,291,Lupe Sans Izaguirre,Confeccionista
+1438,520,2024-12-14,Completado,1437,"Bernad, Taboada and Esteve",Tarragona,1437,Amelia Jurado Andreu,Empacador
+1439,598,2024-09-22,Pendiente,813,Suarez-Pedrosa,Málaga,813,Maribel Caballero Olivera,Empacador
+1440,1054,2025-05-26,Pendiente,172,Calatayud PLC,Pontevedra,172,Marisol Mir Pinilla,Empacador
+1441,245,2024-12-20,En Proceso,160,Bou-Valencia,Las Palmas,160,Vasco Calvet Meléndez,Diseñador
+1442,340,2025-05-24,Pendiente,177,"Catalá, Morcillo and Roselló",Girona,177,Bernardino Heriberto Arévalo Arregui,Confeccionista
+1443,832,2024-12-15,En Proceso,1073,Pulido-Valcárcel,Córdoba,1073,Esther Cueto-Garcia,Cortador
+1444,1040,2024-08-25,Completado,578,Alarcón-Granados,Huesca,578,Rufino Severiano Muro Barón,Confeccionista
+1445,934,2025-05-21,Pendiente,624,Lopez and Sons,Lugo,624,Eugenia Jaén,Diseñador
+1446,383,2024-11-26,Completado,299,Plana-Pou,Valladolid,299,Anunciación Martin Sales,Cortador
+1447,422,2024-06-20,Completado,688,Valls Ltd,Barcelona,688,Horacio Cerdán Rovira,Confeccionista
+1448,707,2024-08-13,En Proceso,1441,Duarte-Leal,Burgos,1441,Agapito del Barbero,Empacador
+1449,684,2024-06-21,Pendiente,602,Salom and Sons,Toledo,602,Mario Egea Barroso,Diseñador
+1450,1166,2025-01-09,Completado,372,"Tapia, Barrio and Balaguer",Murcia,372,Poncio Cuervo Mayo,Empacador
+1451,1357,2024-11-20,Completado,561,Ureña Group,León,561,Luna Montoya-Canales,Confeccionista
+1452,699,2024-09-29,Completado,1386,"Blanch, Benavent and Cañas",Ciudad,1386,Visitación Mayol Alberola,Cortador
+1453,331,2025-05-03,En Proceso,1178,Tomé PLC,Ciudad,1178,Agustín Tomas,Cortador
+1454,52,2025-03-12,Completado,833,Cabello Inc,Cantabria,833,Lino Manjón Pareja,Cortador
+1455,622,2024-09-25,Completado,141,Ballesteros-Linares,Zaragoza,141,Teófilo Sanjuan Casares,Cortador
+1456,933,2025-05-31,Pendiente,711,"Alvarez, Escudero and Córdoba",Melilla,711,Julio César Jiménez Plaza,Confeccionista
+1457,1028,2025-02-26,Completado,1204,"Gonzalo, Rey and Alcolea",Ceuta,1204,Emigdio de Castro,Empacador
+1458,1460,2024-11-22,En Proceso,1150,Lloret-Roma,Valencia,1150,Jessica Guerra Bas,Empacador
+1459,735,2024-06-25,En Proceso,331,Pino-Silva,Guipúzcoa,331,Cecilio Emiliano Beltran Martí,Empacador
+1460,121,2025-02-06,Pendiente,961,"Mariscal, Orozco and Cantero",Baleares,961,Ale Evita Torrijos Téllez,Supervisor
+1461,1229,2024-09-04,En Proceso,1131,"Aguilera, Olmedo and Nebot",Ciudad,1131,Manuel Rivero Morante,Supervisor
+1462,1171,2025-02-15,Completado,708,Pallarès LLC,Ávila,708,Arcelia Giralt-Nogués,Cortador
+1463,1432,2024-09-05,Pendiente,833,Cobos-Larrañaga,Almería,833,Lino Manjón Pareja,Cortador
+1464,143,2024-07-16,Pendiente,1465,Diéguez Inc,Sevilla,1465,Rosalía Mena Bernat,Diseñador
+1465,77,2025-01-19,Pendiente,534,Peñalver LLC,Alicante,534,Rico del Sanz,Supervisor
+1466,1163,2024-07-23,Completado,495,Amigó Ltd,Asturias,495,Carmelita Mir Ricart,Supervisor
+1467,717,2024-11-15,En Proceso,505,"Arévalo, Arregui and Calderón",Girona,505,Elodia Patiño Lastra,Cortador
+1468,1104,2024-12-27,Pendiente,245,Amorós Inc,Navarra,245,Bernardita Garcia,Cortador
+1469,703,2024-10-23,Pendiente,1089,"Herranz, Gracia and Rodríguez",Lleida,1089,Jonatan Pineda Pomares,Confeccionista
+1470,993,2024-09-09,Pendiente,1378,Valencia PLC,Ourense,1378,Fermín Pablo Padilla,Confeccionista
+1471,774,2025-02-10,Completado,261,Rius-Tejedor,Pontevedra,261,Trini Muñoz Sales,Diseñador
+1472,1039,2025-03-26,En Proceso,1483,"Pont, Bertrán and Barón",Málaga,1483,Luciana Díez Torrecilla,Diseñador
+1473,860,2025-03-09,Pendiente,1137,Agustí-Valentín,Málaga,1137,Fabiola Pinto-Almeida,Cortador
+1474,810,2024-11-05,Completado,1480,Viana-Morcillo,Lugo,1480,Luis Ángel Santiago Sola Terrón,Diseñador
+1475,588,2025-06-04,En Proceso,471,"Adán, Rivera and Oliva",Lugo,471,Petrona Naranjo Iñiguez,Supervisor
+1476,684,2024-07-02,En Proceso,722,Salom and Sons,Toledo,722,Irma Ana Palacios Escalona,Cortador
+1477,699,2025-05-19,Pendiente,478,"Blanch, Benavent and Cañas",Ciudad,478,Nilda Sanjuan-Camacho,Cortador
+1478,73,2024-08-15,Completado,506,Cañizares-Luís,Barcelona,506,Isabela Miralles Cerdán,Confeccionista
+1479,1125,2025-04-04,En Proceso,1391,Borrego Group,Teruel,1391,María Pilar Valverde Otero,Diseñador
+1480,1276,2024-09-09,Pendiente,1408,Ledesma-Calzada,Ávila,1408,Flora Olmedo Villalobos,Cortador
+1481,922,2025-01-19,En Proceso,620,"Porta, Roman and Vilalta",La Rioja,620,Ruy Sabas Crespi Céspedes,Empacador
+1482,591,2025-01-05,En Proceso,762,Arregui-Velázquez,Huesca,762,Jordán Carretero,Empacador
+1483,587,2025-05-01,En Proceso,768,Carretero-Cerro,Sevilla,768,Manu Carrasco Madrigal,Confeccionista
+1484,126,2024-12-03,Pendiente,266,Gelabert Inc,Zamora,266,Joel Borja Sola Cantero,Empacador
+1485,878,2024-07-04,En Proceso,231,"Páez, Blázquez and Alonso",La Rioja,231,Filomena Baños Roda,Empacador
+1486,106,2024-07-26,Pendiente,118,Capdevila-Rozas,Albacete,118,Cristian Torres-Palomino,Supervisor
+1487,591,2024-11-23,Pendiente,264,Arregui-Velázquez,Huesca,264,Esteban Guzman Galiano,Supervisor
+1488,791,2024-10-14,Completado,729,"Marín, Llano and Isern",Girona,729,Anunciación Luís Carbó,Supervisor
+1489,1216,2025-04-15,Pendiente,1345,"Campoy, Palau and Marí",Girona,1345,Josué Pi-Melero,Empacador
+1490,1383,2025-03-02,En Proceso,1048,Cordero-Atienza,Navarra,1048,Édgar del Segovia,Supervisor
+1491,1324,2024-08-03,En Proceso,928,Jaume-Lluch,Asturias,928,Toribio de Mendizábal,Cortador
+1492,918,2024-12-18,En Proceso,922,Boada-Ariño,Ciudad,922,Gil Cuadrado Marquez,Confeccionista
+1493,1108,2025-05-08,Pendiente,1474,Ocaña-Robles,Ceuta,1474,Paco Conde-Olivares,Cortador
+1494,1339,2025-03-13,Pendiente,1387,"Comas, Miró and Soto",Málaga,1387,Teo Cayetano Requena Amat,Cortador
+1495,836,2025-05-19,Completado,1390,"Tenorio, Pablo and Múñiz",Granada,1390,Gilberto Piquer Roldan,Supervisor
+1496,1048,2025-03-30,En Proceso,646,"Fernández, Bastida and Olmo",Lleida,646,María Cristina Torralba Requena,Cortador
+1497,704,2024-08-28,En Proceso,1462,"Pons, Oliver and Rivera",Lleida,1462,Consuela Lobato Caballero,Diseñador
+1498,188,2024-08-10,Pendiente,48,"Quero, Perera and Arteaga",Huelva,48,Luciana Zurita Menendez,Cortador
+1499,924,2024-08-18,En Proceso,1145,Lobato-Cuéllar,Albacete,1145,Tiburcio Viña-Salamanca,Diseñador
+1500,759,2024-07-23,En Proceso,433,Ferrer-Martínez,Sevilla,433,Cirino Reina-Soto,Supervisor
